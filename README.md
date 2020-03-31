@@ -63,5 +63,5 @@ This dataset contains details of all of the individual data files in CSV format 
 
 ## `glam_datasets_from_gov_portals.md`
 
-This is [a markdown-formatted list of data files](https://github.com/GLAM-Workbench/gov-data-portals/blob/main/glam_datasets_from_gov_portals.md) grouped by publishing organisation and dataset.
+This is [a markdown-formatted list of data files](https://github.com/GLAM-Workbench/gov-portals-data/blob/main/glam_datasets_from_gov_portals.md) grouped by publishing organisation and dataset.
 
