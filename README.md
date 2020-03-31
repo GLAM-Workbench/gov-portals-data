@@ -2,6 +2,8 @@
 
 Current version: [v1.0](https://github.com/GLAM-Workbench/gov-portals-data/releases/tag/v1.0)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13958899.svg)](https://doi.org/10.5281/zenodo.13958899)
+
 This dataset contains information about open access datasets made available by Australian GLAM organisations through government data portals. The dataset was created by harvesting data from state and national portals. The method is documented in [this notebook](https://glam-workbench.net/glam-data-portals/#harvesting-glam-data-from-government-portals) in the GLAM Workbench.
 
 There are three files:
