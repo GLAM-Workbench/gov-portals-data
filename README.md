@@ -1,6 +1,6 @@
 # GLAM datasets from government data portals
 
-Current version: [v1.2](https://github.com/GLAM-Workbench/gov-portals-data/releases/tag/v1.2)
+Current version: [v1.3](https://github.com/GLAM-Workbench/gov-portals-data/releases/tag/v1.3)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13958899.svg)](https://doi.org/10.5281/zenodo.13958899)
 
