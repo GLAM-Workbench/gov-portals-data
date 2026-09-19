@@ -12,10 +12,6 @@
 * [City of Melbourne Open Data](#city-of-melbourne-open-data) (1 dataset)
 * [City of Onkaparinga](#city-of-onkaparinga) (1 dataset)
 * [City of Prospect](#city-of-prospect) (1 dataset)
-* [Department for Environment and Water](#department-for-environment-and-water) (6 datasets)
-* [Department for Housing and Urban Development](#department-for-housing-and-urban-development) (1 dataset)
-* [Department of Planning, Lands and Heritage](#department-of-planning-lands-and-heritage) (1 dataset)
-* [Department of Transport and Planning ](#department-of-transport-and-planning) (2 datasets)
 * [History Trust of South Australia](#history-trust-of-south-australia) (9 datasets)
 * [Hobsons Bay City Council](#hobsons-bay-city-council) (1 dataset)
 * [IP Australia](#ip-australia) (2 datasets)
@@ -33,6 +29,8 @@
 * [Public Records Office Victoria](#public-records-office-victoria) (29 datasets)
 * [Queensland Museum](#queensland-museum) (41 datasets)
 * [Queensland State Archives](#queensland-state-archives) (120 datasets)
+* [SA Department for Environment and Water](#sa-department-for-environment-and-water) (6 datasets)
+* [SA Department for Housing and Urban Development](#sa-department-for-housing-and-urban-development) (1 dataset)
 * [South Australian Museum](#south-australian-museum) (18 datasets)
 * [State Library of New South Wales](#state-library-of-new-south-wales) (16 datasets)
 * [State Library of Queensland](#state-library-of-queensland) (35 datasets)
@@ -41,8 +39,10 @@
 * [State Library of Western Australia](#state-library-of-western-australia) (18 datasets)
 * [State Records Office of Western Australia](#state-records-office-of-western-australia) (44 datasets)
 * [State Records South Australia](#state-records-south-australia) (30 datasets)
+* [Victorian Department of Transport and Planning ](#victorian-department-of-transport-and-planning) (2 datasets)
+* [WA Department of Planning, Lands and Heritage](#wa-department-of-planning-lands-and-heritage) (1 dataset)
 * [Western Australian Museum](#western-australian-museum) (3 datasets)
-* [Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism](#women-aboriginal-and-torres-strait-islander-partnerships-and-multiculturalism) (3 datasets)
+* [Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism, Queensland](#women-aboriginal-and-torres-strait-islander-partnerships-and-multiculturalism-queensland) (3 datasets)
 * [Wyndham City Council](#wyndham-city-council) (1 dataset)
 
 ## ACT Government Geospatial Data Catalogue (ACTmapi)
@@ -266,154 +266,6 @@ Created: 2016-07-15T06:44:20.831290
 Modified: 2016-07-15T06:45:07.140571
 
 * [City of Prospect Heritage Listed Properties](https://data.sa.gov.au/data/dataset/10e73758-4a11-466e-85d6-345bf24d1ef4/resource/d214e2bf-9d9f-4e38-bb29-e066c5dddfc6/download/heritage-details.xlsx) (XLSX)
-
-## Department for Environment and Water
-
-### [Aerial Imagery - Greater Adelaide 1949](https://data.gov.au/dataset/aerial-imagery-greater-adelaide-1949)
-
-Source: data.gov.au  
-Created: 2025-06-25T15:21:18.062283  
-Modified: 2025-08-18T03:07:40.768299
-
-* [Adelaide 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/a0badb36-efdf-4a33-b98b-28b8933145e6/download/adelaide194925cmsalambert.zip) (ZIP)
-* [Adelaide Airport 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/dc1b9b3d-a838-4e4b-8d6c-31ec1acf1b63/download/adelaideairport194925cmsalambert.zip) (ZIP)
-* [Gawler 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/6cc3458b-0ff0-4a2d-b7c3-0466042d8620/download/gawler194925cmsalambert.zip) (ZIP)
-* [Glenelg 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/6fd14640-83ac-4c5e-a70a-939d604eb932/download/glenelg194925cmsalambert.zip) (ZIP)
-* [Lefevre Peninsula Port Adelaide 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/862c965a-4777-4a5d-b285-ba551e3e4210/download/lefevrepeninsula-ptadelaide194925cmsalambert.zip) (ZIP)
-* [Murray Mouth 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/08dc73f5-2145-4a8b-bc88-7de62d3782d9/download/murraymouth194925cmsalambert.zip) (ZIP)
-* [Victor Harbor 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/f85f2c88-45af-45df-98a3-2b56da698d10/download/victorharbor194925cmsalambert.zip) (ZIP)
-* [Greater Adelaide 1949 Aerial Imagery Locations](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/7a5137b3-993c-499e-978a-656d26983832/download/greater-adelaide-1949-aerial-imagery-locations.pdf) (PDF)
-* [Metadata](https://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1503&pu=y&pa=dewnr) (JPEG)
-
-### [Bushfires and Prescribed Burns History](https://data.sa.gov.au/data/dataset/fire-history)
-
-Source: data.sa.gov.au  
-Created: 2015-06-11T04:55:51.820330  
-Modified: 2020-02-24T02:29:41.059487
-
-* [Fire History (ShapeFile)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/FIREMGT_FireHistory_shp.zip) (ZIP)
-* [Fire History (KMZ)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/FIREMGT_FireHistory_kmz.zip) (ZIP)
-* [Fire History (GeoJSON)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/FIREMGT_FireHistory_geojson.zip) (ZIP)
-* [Metadata](https://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1159&pu=y&pa=dewnr) (HTML)
-
-### [Shipwreck and Relic Images](https://data.sa.gov.au/data/dataset/maritime-register-relic-images)
-
-Source: data.sa.gov.au  
-Created: 2017-05-22T01:32:35.920447  
-Modified: 2018-10-10T23:41:27.029002
-
-* [Maritime Register](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/ae5604a4-be6b-407b-92f7-d076de7ad625/download/maritimeregister.20170518.xml) (XML)
-* [Maritime_Register_Images_1](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/a101b292-a329-4ded-a8fc-48cd893dce0b/download/sa-maritime-register-images1.zip) (ZIP)
-* [Maritime_Register_Images_2](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/91d24764-da35-413d-b832-81e39996a812/download/sa-maritime-register-images2.zip) (ZIP)
-* [Maritime_Register_Images_3](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/e7614bb9-3a75-4ab3-87e6-6b35c17d6d0f/download/sa-maritime-register-images3.zip) (ZIP)
-* [Maritime_Register_Images_4](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/16e4363e-eaea-4266-804f-bae9946ec7fc/download/sa-maritime-register-images4.zip) (ZIP)
-* [Maritime_Register_Images_5](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/8cc13e8a-8dc4-4d2b-ba26-af9c5d589855/download/sa-maritime-register-images5.zip) (ZIP)
-* [Maritime_Register_Images_6](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/fb1ec9ff-083d-49ba-a07f-2af0fba3c1f3/download/sa-maritime-register-images6.zip) (ZIP)
-* [Maritime_Register_Images_7](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/fd8bdde0-3ed6-421c-86a7-1d73ace9de35/download/sa-maritime-register-images7.zip) (ZIP)
-* [Metadata](https://location.sa.gov.au/lms/Reports/ReportMetadata.aspx?p_no=1038&pu=y&pa=dewnr) (HTML)
-
-### [Shipwrecks](https://data.sa.gov.au/data/dataset/shipwrecks)
-
-Source: data.sa.gov.au  
-Created: 2015-06-03T06:25:41.507852  
-Modified: 2020-02-24T02:29:08.591478
-
-* [Shipwrecks (ShapeFile)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/TOPO_Shipwrecks_shp.zip) (ZIP)
-* [Shipwrecks (KMZ)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/TOPO_Shipwrecks_kmz.zip) (ZIP)
-* [Shipwrecks (GeoJSON)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/TOPO_Shipwrecks_geojson.zip) (ZIP)
-* [Preview Shipwreck Locations in a map viewer](https://location.sa.gov.au/viewer/?map=hybrid&x=141.64487&y=-36.0045&z=6&uids=96) (Map Viewer)
-
-### [State Heritage Areas](https://data.sa.gov.au/data/dataset/state-heritage-areas)
-
-Source: data.sa.gov.au  
-Created: 2016-06-27T02:06:28.310222  
-Modified: 2020-02-18T05:54:57.854265
-
-* [State Heritage Areas (SHP)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/CONSERVATION_StateHeritageAreas_shp.zip) (ZIP)
-* [State Heritage Areas (KMZ)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/CONSERVATION_StateHeritageAreas_kmz.zip) (ZIP)
-* [State Heritage Areas (GeoJSON)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/CONSERVATION_StateHeritageAreas_geojson.zip) (ZIP)
-* [Preview State Heritage Areas in a map viewer](https://www.location.sa.gov.au/viewer/?map=hybrid&x=138.64382&y=-34.97737&z=12&uids=180&pinx=&piny=&pinTitle=&pinText=) (Map Viewer)
-* [State Heritage Areas Images](https://data.sa.gov.au/data/dataset/fdbb11f8-5338-4297-97a0-c7664cea99c2/resource/065fb340-8b2e-4715-b502-202b41fc17fe/download/cusersrgreendesktopstate-heritage-areas-images.zip) (ZIP)
-* [Metadata](https://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=639&pu=y&pa=dewnr) (HTML)
-
-### [State Heritage Places Images](https://data.sa.gov.au/data/dataset/sa-heritage-places-images)
-
-Source: data.sa.gov.au  
-Created: 2016-07-04T03:36:30.804213  
-Modified: 2020-09-22T03:09:43.472799
-
-* [State Heritage Images ID 10006-10259](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/e1409fbe-de65-41b9-b4f7-72360b5d5c89/download/state-heritage-images-id-10006-10259.zip) (ZIP)
-* [State Heritage Images ID 10260-10355](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/9ef38cb1-4c83-47bd-91d2-90395f87b03f/download/state-heritage-images-id-10260-10355.zip) (ZIP)
-* [State Heritage Images ID 10357-10452](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/11bbfe5c-2572-432f-8d9e-930f504872d5/download/state-heritage-images-id-10357-10452.zip) (ZIP)
-* [State Heritage Images ID 10459-10547](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/c2da4fcd-491c-4c90-9ea3-bac6c5c0185e/download/state-heritage-images-id-10459-10547.zip) (ZIP)
-* [State Heritage Images ID 10552-10608](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/9a1762b2-29af-42b9-abca-9a99fe7d0cd3/download/state-heritage-images-id-10552-10608.zip) (ZIP)
-* [State Heritage Images ID 10609-10671](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/90a55b60-f297-4207-939f-c39e8120f505/download/state-heritage-images-id-10609-10671.zip) (ZIP)
-* [State Heritage Images ID 10688-10802](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/15ed8778-1fbe-4609-b59a-4a3a1f2367a6/download/state-heritage-images-id-10688-10802.zip) (ZIP)
-* [State Heritage Images ID 10803-10861](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/ee1dc1b2-2b06-4ed1-ac51-8448783cf36c/download/state-heritage-images-id-10803-10861.zip) (ZIP)
-* [State Heritage Images ID 10865-10952](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/687395dd-e349-494a-81be-87bad036c84a/download/state-heritage-images-id-10865-10952.zip) (ZIP)
-* [State Heritage Images ID 10953-10998](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/9b7769bd-19ec-4dc7-bcef-16374e1dffb4/download/state-heritage-images-id-10953-10998.zip) (ZIP)
-* [State Heritage Images ID 10999-11178](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/2c04fc8c-2062-447d-b0e1-fc42edc4f536/download/state-heritage-images-id-10999-11178.zip) (ZIP)
-* [State Heritage Images ID 11184-11592](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/a6df5e37-9cf7-4eec-8c68-b34302e6ffc4/download/state-heritage-images-id-11184-11592.zip) (ZIP)
-* [State Heritage Images ID 11595-12796](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/8abe64e5-3a2e-485d-a672-352f99529211/download/state-heritage-images-id-11595-12796.zip) (ZIP)
-
-## Department for Housing and Urban Development
-
-### [SA Heritage Places](https://data.sa.gov.au/data/dataset/sa-heritage-places)
-
-Source: data.sa.gov.au  
-Created: 2015-12-20T22:02:52.598876  
-Modified: 2025-04-29T08:12:45.876654
-
-* [Preview SA Heritage Places in a map viewer](https://location.sa.gov.au/viewer/?map=hybrid&x=138.39461&y=-34.57335&z=7&uids=95,102) (Map Viewer)
-* [SA Heritage Places - Metadata](https://www.location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1576&pu=y) (HTML)
-* [SA Heritage Places - (shp)](https://www.dptiapps.com.au/dataportal/SAHeritagePlaces_shp.zip) (ZIP)
-* [SA Heritage Places - (kml)](https://www.dptiapps.com.au/dataportal/SAHeritagePlaces_kml.zip) (ZIP)
-* [SA Heritage Places - (geojson)](https://www.dptiapps.com.au/dataportal/SAHeritagePlaces_geojson.zip) (ZIP)
-* [Heritage Listed Properties](https://www.sa.gov.au/topics/planning-and-property/land-and-property-development/building-and-property-development-applications/heritage-listed-properties) (HTML)
-* [Heritage Places Online Search Tool](https://maps.sa.gov.au/heritagesearch/HeritageSearchLocation.aspx) (ASPX)
-
-## Department of Planning, Lands and Heritage
-
-### [Heritage List (DPLH-090)](https://catalogue.data.wa.gov.au/dataset/heritage-list-dplh-090)
-
-Source: data.wa.gov.au  
-Created: 2021-06-04T08:08:22.585393  
-Modified: 2026-09-16T00:01:25.318020
-
-* [Heritage List](https://www.dplh.wa.gov.au/about-inherit) (HTML)
-* [Shapefile](https://data-downloads.slip.wa.gov.au/DPLH-090/Shapefile) (SHP)
-* [GeoJSON](https://data-downloads.slip.wa.gov.au/DPLH-090/GeoJSON) (GeoJSON)
-* [Geopackage](https://data-downloads.slip.wa.gov.au/DPLH-090/Geopackage) (GeoPackage)
-* [File Geodatabase](https://data-downloads.slip.wa.gov.au/DPLH-090/File+Geodatabase) (FGDB)
-* [ArcGIS Server Map Service](https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer/16) (API ArcGIS Server Map Service)
-* [Web Feature Service](https://services.slip.wa.gov.au/arcgis/services/DPLH_Public_Secure_Services/DPLH_Public_Secure_Services_FS/MapServer/WFSServer) (WFS)
-* [Web Feature Service](https://services.slip.wa.gov.au/arcgis/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG_FS/MapServer/WFSServer) (WFS)
-* [Web Mapping Service](https://services.slip.wa.gov.au/arcgis/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG/MapServer/WMSServer) (WMS)
-* [ArcGIS Server Map Service](https://services.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG/MapServer/1) (API ArcGIS Server Map Service)
-* [ArcGIS Server Feature Service (Esri Token Authentication)](https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Public_Secure_Services/DPLH_Public_Secure_Services_FS/FeatureServer/73) (API ArcGIS Server Feature Service)
-* [ArcGIS Server Feature Service (Esri Token Authentication)](https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG_FS/FeatureServer/1) (API ArcGIS Server Feature Service)
-* [ArcGIS Server Map Service (Esri Token Authentication)](https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG/MapServer/1) (API ArcGIS Server Map Service)
-
-## Department of Transport and Planning 
-
-### [Heritage Inventory](https://discover.data.vic.gov.au/dataset/heritage-inventory)
-
-Source: data.vic.gov.au  
-Created: 2025-03-27T09:58:13.606264  
-Modified: 2026-09-15T23:49:45.292114
-
-* [HERITAGEINVENTORY DWG](https://datashare.maps.vic.gov.au/search?md=fcb63ea2-7430-526b-a139-060c8a2cf990) (DWG)
-* [HERITAGE_INVENTORY WMS](https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:heritage_inventory&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665) (WMS)
-
-### [Victorian Heritage Register](https://discover.data.vic.gov.au/dataset/victorian-heritage-register)
-
-Source: data.vic.gov.au  
-Created: 2025-02-28T06:52:40.057766  
-Modified: 2026-09-16T00:07:24.007313
-
-* [HERITAGEREGISTER DWG](https://datashare.maps.vic.gov.au/search?md=c95c7142-a03e-5fd3-9b15-5dfcd2b9ff33) (DWG)
-* [HERITAGE_REGISTER WMS](https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:heritage_register&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665) (WMS)
-* [HERITAGE_REGISTER WFS](https://opendata.maps.vic.gov.au/geoserver/wfs?request=GetCapabilities&service=WFS) (WFS)
 
 ## History Trust of South Australia
 
@@ -2728,6 +2580,111 @@ Modified: 2023-10-04T23:37:43.594370
 * [Writs 1857-2008](https://www.data.qld.gov.au/dataset/f93dfe6f-d377-410f-86ea-adfa24fc7c0c/resource/411a08c5-05d2-485f-b3c0-6ee1e1b2252d/download/writs-1857-2008.csv) (CSV)
 * [Writs 1857-2008 JSON](https://www.data.qld.gov.au/dataset/f93dfe6f-d377-410f-86ea-adfa24fc7c0c/resource/ee1a973d-6de7-42c7-acdf-3c388c8470f9/download/writs-1857-2008.json) (JSON)
 
+## SA Department for Environment and Water
+
+### [Aerial Imagery - Greater Adelaide 1949](https://data.gov.au/dataset/aerial-imagery-greater-adelaide-1949)
+
+Source: data.gov.au  
+Created: 2025-06-25T15:21:18.062283  
+Modified: 2025-08-18T03:07:40.768299
+
+* [Adelaide 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/a0badb36-efdf-4a33-b98b-28b8933145e6/download/adelaide194925cmsalambert.zip) (ZIP)
+* [Adelaide Airport 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/dc1b9b3d-a838-4e4b-8d6c-31ec1acf1b63/download/adelaideairport194925cmsalambert.zip) (ZIP)
+* [Gawler 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/6cc3458b-0ff0-4a2d-b7c3-0466042d8620/download/gawler194925cmsalambert.zip) (ZIP)
+* [Glenelg 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/6fd14640-83ac-4c5e-a70a-939d604eb932/download/glenelg194925cmsalambert.zip) (ZIP)
+* [Lefevre Peninsula Port Adelaide 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/862c965a-4777-4a5d-b285-ba551e3e4210/download/lefevrepeninsula-ptadelaide194925cmsalambert.zip) (ZIP)
+* [Murray Mouth 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/08dc73f5-2145-4a8b-bc88-7de62d3782d9/download/murraymouth194925cmsalambert.zip) (ZIP)
+* [Victor Harbor 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/f85f2c88-45af-45df-98a3-2b56da698d10/download/victorharbor194925cmsalambert.zip) (ZIP)
+* [Greater Adelaide 1949 Aerial Imagery Locations](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/7a5137b3-993c-499e-978a-656d26983832/download/greater-adelaide-1949-aerial-imagery-locations.pdf) (PDF)
+* [Metadata](https://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1503&pu=y&pa=dewnr) (JPEG)
+
+### [Bushfires and Prescribed Burns History](https://data.sa.gov.au/data/dataset/fire-history)
+
+Source: data.sa.gov.au  
+Created: 2015-06-11T04:55:51.820330  
+Modified: 2020-02-24T02:29:41.059487
+
+* [Fire History (ShapeFile)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/FIREMGT_FireHistory_shp.zip) (ZIP)
+* [Fire History (KMZ)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/FIREMGT_FireHistory_kmz.zip) (ZIP)
+* [Fire History (GeoJSON)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/FIREMGT_FireHistory_geojson.zip) (ZIP)
+* [Metadata](https://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1159&pu=y&pa=dewnr) (HTML)
+
+### [Shipwreck and Relic Images](https://data.sa.gov.au/data/dataset/maritime-register-relic-images)
+
+Source: data.sa.gov.au  
+Created: 2017-05-22T01:32:35.920447  
+Modified: 2018-10-10T23:41:27.029002
+
+* [Maritime Register](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/ae5604a4-be6b-407b-92f7-d076de7ad625/download/maritimeregister.20170518.xml) (XML)
+* [Maritime_Register_Images_1](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/a101b292-a329-4ded-a8fc-48cd893dce0b/download/sa-maritime-register-images1.zip) (ZIP)
+* [Maritime_Register_Images_2](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/91d24764-da35-413d-b832-81e39996a812/download/sa-maritime-register-images2.zip) (ZIP)
+* [Maritime_Register_Images_3](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/e7614bb9-3a75-4ab3-87e6-6b35c17d6d0f/download/sa-maritime-register-images3.zip) (ZIP)
+* [Maritime_Register_Images_4](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/16e4363e-eaea-4266-804f-bae9946ec7fc/download/sa-maritime-register-images4.zip) (ZIP)
+* [Maritime_Register_Images_5](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/8cc13e8a-8dc4-4d2b-ba26-af9c5d589855/download/sa-maritime-register-images5.zip) (ZIP)
+* [Maritime_Register_Images_6](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/fb1ec9ff-083d-49ba-a07f-2af0fba3c1f3/download/sa-maritime-register-images6.zip) (ZIP)
+* [Maritime_Register_Images_7](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/fd8bdde0-3ed6-421c-86a7-1d73ace9de35/download/sa-maritime-register-images7.zip) (ZIP)
+* [Metadata](https://location.sa.gov.au/lms/Reports/ReportMetadata.aspx?p_no=1038&pu=y&pa=dewnr) (HTML)
+
+### [Shipwrecks](https://data.sa.gov.au/data/dataset/shipwrecks)
+
+Source: data.sa.gov.au  
+Created: 2015-06-03T06:25:41.507852  
+Modified: 2020-02-24T02:29:08.591478
+
+* [Shipwrecks (ShapeFile)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/TOPO_Shipwrecks_shp.zip) (ZIP)
+* [Shipwrecks (KMZ)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/TOPO_Shipwrecks_kmz.zip) (ZIP)
+* [Shipwrecks (GeoJSON)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/TOPO_Shipwrecks_geojson.zip) (ZIP)
+* [Preview Shipwreck Locations in a map viewer](https://location.sa.gov.au/viewer/?map=hybrid&x=141.64487&y=-36.0045&z=6&uids=96) (Map Viewer)
+
+### [State Heritage Areas](https://data.sa.gov.au/data/dataset/state-heritage-areas)
+
+Source: data.sa.gov.au  
+Created: 2016-06-27T02:06:28.310222  
+Modified: 2020-02-18T05:54:57.854265
+
+* [State Heritage Areas (SHP)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/CONSERVATION_StateHeritageAreas_shp.zip) (ZIP)
+* [State Heritage Areas (KMZ)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/CONSERVATION_StateHeritageAreas_kmz.zip) (ZIP)
+* [State Heritage Areas (GeoJSON)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/CONSERVATION_StateHeritageAreas_geojson.zip) (ZIP)
+* [Preview State Heritage Areas in a map viewer](https://www.location.sa.gov.au/viewer/?map=hybrid&x=138.64382&y=-34.97737&z=12&uids=180&pinx=&piny=&pinTitle=&pinText=) (Map Viewer)
+* [State Heritage Areas Images](https://data.sa.gov.au/data/dataset/fdbb11f8-5338-4297-97a0-c7664cea99c2/resource/065fb340-8b2e-4715-b502-202b41fc17fe/download/cusersrgreendesktopstate-heritage-areas-images.zip) (ZIP)
+* [Metadata](https://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=639&pu=y&pa=dewnr) (HTML)
+
+### [State Heritage Places Images](https://data.sa.gov.au/data/dataset/sa-heritage-places-images)
+
+Source: data.sa.gov.au  
+Created: 2016-07-04T03:36:30.804213  
+Modified: 2020-09-22T03:09:43.472799
+
+* [State Heritage Images ID 10006-10259](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/e1409fbe-de65-41b9-b4f7-72360b5d5c89/download/state-heritage-images-id-10006-10259.zip) (ZIP)
+* [State Heritage Images ID 10260-10355](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/9ef38cb1-4c83-47bd-91d2-90395f87b03f/download/state-heritage-images-id-10260-10355.zip) (ZIP)
+* [State Heritage Images ID 10357-10452](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/11bbfe5c-2572-432f-8d9e-930f504872d5/download/state-heritage-images-id-10357-10452.zip) (ZIP)
+* [State Heritage Images ID 10459-10547](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/c2da4fcd-491c-4c90-9ea3-bac6c5c0185e/download/state-heritage-images-id-10459-10547.zip) (ZIP)
+* [State Heritage Images ID 10552-10608](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/9a1762b2-29af-42b9-abca-9a99fe7d0cd3/download/state-heritage-images-id-10552-10608.zip) (ZIP)
+* [State Heritage Images ID 10609-10671](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/90a55b60-f297-4207-939f-c39e8120f505/download/state-heritage-images-id-10609-10671.zip) (ZIP)
+* [State Heritage Images ID 10688-10802](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/15ed8778-1fbe-4609-b59a-4a3a1f2367a6/download/state-heritage-images-id-10688-10802.zip) (ZIP)
+* [State Heritage Images ID 10803-10861](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/ee1dc1b2-2b06-4ed1-ac51-8448783cf36c/download/state-heritage-images-id-10803-10861.zip) (ZIP)
+* [State Heritage Images ID 10865-10952](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/687395dd-e349-494a-81be-87bad036c84a/download/state-heritage-images-id-10865-10952.zip) (ZIP)
+* [State Heritage Images ID 10953-10998](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/9b7769bd-19ec-4dc7-bcef-16374e1dffb4/download/state-heritage-images-id-10953-10998.zip) (ZIP)
+* [State Heritage Images ID 10999-11178](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/2c04fc8c-2062-447d-b0e1-fc42edc4f536/download/state-heritage-images-id-10999-11178.zip) (ZIP)
+* [State Heritage Images ID 11184-11592](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/a6df5e37-9cf7-4eec-8c68-b34302e6ffc4/download/state-heritage-images-id-11184-11592.zip) (ZIP)
+* [State Heritage Images ID 11595-12796](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/8abe64e5-3a2e-485d-a672-352f99529211/download/state-heritage-images-id-11595-12796.zip) (ZIP)
+
+## SA Department for Housing and Urban Development
+
+### [SA Heritage Places](https://data.sa.gov.au/data/dataset/sa-heritage-places)
+
+Source: data.sa.gov.au  
+Created: 2015-12-20T22:02:52.598876  
+Modified: 2025-04-29T08:12:45.876654
+
+* [Preview SA Heritage Places in a map viewer](https://location.sa.gov.au/viewer/?map=hybrid&x=138.39461&y=-34.57335&z=7&uids=95,102) (Map Viewer)
+* [SA Heritage Places - Metadata](https://www.location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1576&pu=y) (HTML)
+* [SA Heritage Places - (shp)](https://www.dptiapps.com.au/dataportal/SAHeritagePlaces_shp.zip) (ZIP)
+* [SA Heritage Places - (kml)](https://www.dptiapps.com.au/dataportal/SAHeritagePlaces_kml.zip) (ZIP)
+* [SA Heritage Places - (geojson)](https://www.dptiapps.com.au/dataportal/SAHeritagePlaces_geojson.zip) (ZIP)
+* [Heritage Listed Properties](https://www.sa.gov.au/topics/planning-and-property/land-and-property-development/building-and-property-development-applications/heritage-listed-properties) (HTML)
+* [Heritage Places Online Search Tool](https://maps.sa.gov.au/heritagesearch/HeritageSearchLocation.aspx) (ASPX)
+
 ## South Australian Museum
 
 ### [South Australian Museum - Australian Helminthological Collection](https://data.sa.gov.au/data/dataset/f47e5aea-fbcc-49b8-b1b3-b48dca31ec79)
@@ -5012,6 +4969,49 @@ Modified: 2019-11-06T10:52:02.628409
 
 * [State Records of South Australia Performance Summary](https://data.sa.gov.au/data/dataset/a84b3640-1a64-49e6-934a-d7107ee38710/resource/281c76c4-edde-446d-b49b-ee29188fa05a/download/data-sa-csv.csv) (CSV)
 
+## Victorian Department of Transport and Planning 
+
+### [Heritage Inventory](https://discover.data.vic.gov.au/dataset/heritage-inventory)
+
+Source: data.vic.gov.au  
+Created: 2025-03-27T09:58:13.606264  
+Modified: 2026-09-15T23:49:45.292114
+
+* [HERITAGEINVENTORY DWG](https://datashare.maps.vic.gov.au/search?md=fcb63ea2-7430-526b-a139-060c8a2cf990) (DWG)
+* [HERITAGE_INVENTORY WMS](https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:heritage_inventory&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665) (WMS)
+
+### [Victorian Heritage Register](https://discover.data.vic.gov.au/dataset/victorian-heritage-register)
+
+Source: data.vic.gov.au  
+Created: 2025-02-28T06:52:40.057766  
+Modified: 2026-09-16T00:07:24.007313
+
+* [HERITAGEREGISTER DWG](https://datashare.maps.vic.gov.au/search?md=c95c7142-a03e-5fd3-9b15-5dfcd2b9ff33) (DWG)
+* [HERITAGE_REGISTER WMS](https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:heritage_register&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665) (WMS)
+* [HERITAGE_REGISTER WFS](https://opendata.maps.vic.gov.au/geoserver/wfs?request=GetCapabilities&service=WFS) (WFS)
+
+## WA Department of Planning, Lands and Heritage
+
+### [Heritage List (DPLH-090)](https://catalogue.data.wa.gov.au/dataset/heritage-list-dplh-090)
+
+Source: data.wa.gov.au  
+Created: 2021-06-04T08:08:22.585393  
+Modified: 2026-09-16T00:01:25.318020
+
+* [Heritage List](https://www.dplh.wa.gov.au/about-inherit) (HTML)
+* [Shapefile](https://data-downloads.slip.wa.gov.au/DPLH-090/Shapefile) (SHP)
+* [GeoJSON](https://data-downloads.slip.wa.gov.au/DPLH-090/GeoJSON) (GeoJSON)
+* [Geopackage](https://data-downloads.slip.wa.gov.au/DPLH-090/Geopackage) (GeoPackage)
+* [File Geodatabase](https://data-downloads.slip.wa.gov.au/DPLH-090/File+Geodatabase) (FGDB)
+* [ArcGIS Server Map Service](https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer/16) (API ArcGIS Server Map Service)
+* [Web Feature Service](https://services.slip.wa.gov.au/arcgis/services/DPLH_Public_Secure_Services/DPLH_Public_Secure_Services_FS/MapServer/WFSServer) (WFS)
+* [Web Feature Service](https://services.slip.wa.gov.au/arcgis/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG_FS/MapServer/WFSServer) (WFS)
+* [Web Mapping Service](https://services.slip.wa.gov.au/arcgis/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG/MapServer/WMSServer) (WMS)
+* [ArcGIS Server Map Service](https://services.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG/MapServer/1) (API ArcGIS Server Map Service)
+* [ArcGIS Server Feature Service (Esri Token Authentication)](https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Public_Secure_Services/DPLH_Public_Secure_Services_FS/FeatureServer/73) (API ArcGIS Server Feature Service)
+* [ArcGIS Server Feature Service (Esri Token Authentication)](https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG_FS/FeatureServer/1) (API ArcGIS Server Feature Service)
+* [ArcGIS Server Map Service (Esri Token Authentication)](https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG/MapServer/1) (API ArcGIS Server Map Service)
+
 ## Western Australian Museum
 
 ### [Maritime Archaeological Sites (WAM-001)](https://catalogue.data.wa.gov.au/dataset/c4d24f2a-6740-4c05-a8ce-0b749d5bae6c)
@@ -5053,7 +5053,7 @@ Modified: 2026-09-15T23:03:09.171991
 * [Geopackage](https://data-downloads.slip.wa.gov.au/WAM-022/Geopackage) (GeoPackage)
 * [File Geodatabase](https://data-downloads.slip.wa.gov.au/WAM-022/File+Geodatabase) (FGDB)
 
-## Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism
+## Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism, Queensland
 
 ### [Black Tracker files index](https://data.qld.gov.au/dataset/black-tracker-files-index)
 
