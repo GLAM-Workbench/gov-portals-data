@@ -1,20 +1,40 @@
 # GLAM datasets from Australian government data portals
+* [ACT Government Geospatial Data Catalogue (ACTmapi)](#act-government-geospatial-data-catalogue-actmapi)
+* [ACT Government Open Data](#act-government-open-data)
+* [Australian Antarctic Division](#australian-antarctic-division)
 * [Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)](#australian-institute-of-aboriginal-and-torres-strait-islander-studies-aiatsis)
 * [Australian Museum](#australian-museum)
+* [Brimbank City Council](#brimbank-city-council)
+* [City of Adelaide](#city-of-adelaide)
+* [City of Ballarat](#city-of-ballarat)
+* [City of Gold Coast](#city-of-gold-coast)
+* [City of Greater Geelong](#city-of-greater-geelong)
+* [City of Melbourne Open Data](#city-of-melbourne-open-data)
+* [City of Onkaparinga](#city-of-onkaparinga)
+* [City of Prospect](#city-of-prospect)
+* [Department for Environment and Water](#department-for-environment-and-water)
+* [Department for Housing and Urban Development](#department-for-housing-and-urban-development)
+* [Department of Planning, Lands and Heritage](#department-of-planning-lands-and-heritage)
+* [Department of Transport and Planning ](#department-of-transport-and-planning)
 * [History Trust of South Australia](#history-trust-of-south-australia)
+* [Hobsons Bay City Council](#hobsons-bay-city-council)
+* [IP Australia](#ip-australia)
 * [Libraries Tasmania](#libraries-tasmania)
 * [Mount Gambier Library](#mount-gambier-library)
 * [Museum of Applied Arts and Sciences](#museum-of-applied-arts-and-sciences)
 * [Museums Victoria](#museums-victoria)
 * [Museums of History NSW](#museums-of-history-nsw)
+* [NSW Department of Education](#nsw-department-of-education)
 * [National Archives of Australia](#national-archives-of-australia)
 * [National Library of Australia](#national-library-of-australia)
 * [National Portrait Gallery](#national-portrait-gallery)
+* [Noosa Shire Council](#noosa-shire-council)
+* [Port Adelaide Enfield Council](#port-adelaide-enfield-council)
 * [Public Records Office Victoria](#public-records-office-victoria)
 * [Queensland Museum](#queensland-museum)
 * [Queensland State Archives](#queensland-state-archives)
 * [South Australian Museum](#south-australian-museum)
-* [State Library of NSW](#state-library-of-nsw)
+* [State Library of New South Wales](#state-library-of-new-south-wales)
 * [State Library of Queensland](#state-library-of-queensland)
 * [State Library of South Australia](#state-library-of-south-australia)
 * [State Library of Victoria](#state-library-of-victoria)
@@ -22,19 +42,77 @@
 * [State Records Office of Western Australia](#state-records-office-of-western-australia)
 * [State Records South Australia](#state-records-south-australia)
 * [Western Australian Museum](#western-australian-museum)
+* [Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism](#women-aboriginal-and-torres-strait-islander-partnerships-and-multiculturalism)
+* [Wyndham City Council](#wyndham-city-council)
+
+## ACT Government Geospatial Data Catalogue (ACTmapi)
+
+### [ACTGOV Heritage Register](https://data.gov.au/dataset/actgov-heritage-register)
+
+Source: data.gov.au  
+Created: 2025-12-20T19:17:32.345899  
+Modified: 2026-09-15T23:33:41.547513
+
+* [ArcGIS Hub Dataset](https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::actgov-heritage-register) (HTML)
+* [ArcGIS GeoService](https://services1.arcgis.com/E5n4f1VY84i0xSjy/arcgis/rest/services/ACTGOV_Heritage_Register/FeatureServer/1) (ArcGIS GeoServices REST API)
+* [CSV](https://actmapi-actgov.opendata.arcgis.com/api/download/v1/items/d03d3fa41dcc49c4a4ea9058f3f44060/csv?layers=1) (CSV)
+* [Shapefile](https://actmapi-actgov.opendata.arcgis.com/api/download/v1/items/d03d3fa41dcc49c4a4ea9058f3f44060/shapefile?layers=1) (ZIP)
+* [GeoJSON](https://actmapi-actgov.opendata.arcgis.com/api/download/v1/items/d03d3fa41dcc49c4a4ea9058f3f44060/geojson?layers=1) (GeoJSON)
+* [KML](https://actmapi-actgov.opendata.arcgis.com/api/download/v1/items/d03d3fa41dcc49c4a4ea9058f3f44060/kml?layers=1) (KML)
+* [File Geodatabase](https://actmapi-actgov.opendata.arcgis.com/api/download/v1/items/d03d3fa41dcc49c4a4ea9058f3f44060/filegdb?layers=1) (ZIP)
+* [Feature Collection](https://actmapi-actgov.opendata.arcgis.com/api/download/v1/items/d03d3fa41dcc49c4a4ea9058f3f44060/featureCollection?layers=1) (TXT)
+* [Excel](https://actmapi-actgov.opendata.arcgis.com/api/download/v1/items/d03d3fa41dcc49c4a4ea9058f3f44060/excel?layers=1) (XLSX)
+* [GeoPackage](https://actmapi-actgov.opendata.arcgis.com/api/download/v1/items/d03d3fa41dcc49c4a4ea9058f3f44060/geoPackage?layers=1) (GPKG)
+* [SQLite Geodatabase](https://actmapi-actgov.opendata.arcgis.com/api/download/v1/items/d03d3fa41dcc49c4a4ea9058f3f44060/sqlite?layers=1) (GDB)
+
+## ACT Government Open Data
+
+### [Historic death index](https://data.gov.au/dataset/sepa-djsm)
+
+Source: data.gov.au  
+Created: 2025-06-23T03:14:45.860659  
+Modified: 2026-09-15T16:26:49.939341
+
+* [unnamed](https://www.data.act.gov.au/api/v3/views/sepa-djsm/export.csv?accessType=DOWNLOAD) (CSV)
+* [unnamed](https://www.data.act.gov.au/api/v3/views/sepa-djsm/query.json?accessType=DOWNLOAD) (JSON)
+* [unnamed](https://www.data.act.gov.au/api/v3/views/sepa-djsm/query.xml?accessType=DOWNLOAD) (XML)
+
+### [Historic marriage index](https://data.gov.au/dataset/uzaz-dbkr)
+
+Source: data.gov.au  
+Created: 2025-06-23T03:16:29.829295  
+Modified: 2026-09-15T16:29:48.838659
+
+* [unnamed](https://www.data.act.gov.au/api/v3/views/uzaz-dbkr/export.csv?accessType=DOWNLOAD) (CSV)
+* [unnamed](https://www.data.act.gov.au/api/v3/views/uzaz-dbkr/query.json?accessType=DOWNLOAD) (JSON)
+* [unnamed](https://www.data.act.gov.au/api/v3/views/uzaz-dbkr/query.xml?accessType=DOWNLOAD) (XML)
+
+## Australian Antarctic Division
+
+### [Antarctic Artefacts Bibliography](https://data.gov.au/dataset/aad-aa-bibliography)
+
+Source: data.gov.au  
+Created: 2015-12-07T01:02:16.630925  
+Modified: 2023-08-11T01:12:15.516009
+
+* [Point of truth URL of this metadata record](http://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=AA_Bibliography) ()
+* [Download the bibliography](http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4235) (CSV)
+* [Citation reference for this metadata record and dataset](http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=AA_Bibliography) ()
 
 ## Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)
 
 ### [Austlang dataset](https://data.gov.au/dataset/70132e6f-259c-4e0f-9f95-4aed1101c053)
 
+Source: data.gov.au  
 Created: 2019-05-15T02:54:29.583808  
-Modified: 2024-12-23T00:44:49.246464
+Modified: 2026-05-13T03:51:56.650494
 
 * [AUSTLANG dataset](https://api.aiatsis.gov.au/files/public/austlang/austlang_dataset.csv) (CSV)
-* [AUSTLANG dataset](https://aiatsis.gov.au/austlang/data) (page)
+* [AUSTLANG dataset](https://aiatsis.gov.au/austlang/download-data) (page)
 
 ### [The NSW Aborigines Protection/Welfare Board 1883-1969 Map](https://data.gov.au/dataset/11cbf24a-a31a-488c-bc65-2811da2a8582)
 
+Source: data.gov.au  
 Created: 2018-05-31T10:34:22.675157  
 Modified: 2023-08-09T05:50:02.225231
 
@@ -44,6 +122,7 @@ Modified: 2023-08-09T05:50:02.225231
 
 ### [Genetic management of threatened koala populations: Using genotyping-by-sequencing to define meaningful conservation goals](https://data.nsw.gov.au/data/dataset/a22d0d47-e1ce-4859-b90c-a6dac6f0bd35)
 
+Source: data.nsw.gov.au  
 Created: 2025-06-06T02:17:15.281322  
 Modified: 2025-10-08T07:34:04.191707
 
@@ -54,10 +133,293 @@ Modified: 2025-10-08T07:34:04.191707
 * [Batch 1 Genetic management of threatened koala populations](https://datasets.seed.nsw.gov.au/dataset/575dd91c-c685-464e-865f-a197b560f899/resource/159b2c2d-d0e7-4916-b5af-57323c298fde/download/kr_2019_01_batch_1.zip) (ZIP)
 * [Reversing the decline of threatened koala  Phascolarctos cinereus  populations in NSW.pdf](https://datasets.seed.nsw.gov.au/dataset/575dd91c-c685-464e-865f-a197b560f899/resource/ec9e36d2-8283-4389-b6cd-bfd3b5666781/download/reversing-the-decline-of-threatened-koala-phascolarctos-cinereus-populations-in-nsw.pdf) (PDF)
 
+## Brimbank City Council
+
+### [Brimbank Historical Community Sites](https://data.gov.au/dataset/brimbank-historical-community-sites)
+
+Source: data.gov.au  
+Created: 2019-01-30T05:39:23.286438  
+Modified: 2026-09-15T00:44:50.620712
+
+* [Brimbank Historical Community Sites.shp](https://data.gov.au/data/dataset/7a349f1f-4d8b-4d64-b876-4a1e779e8d79/resource/5588dc7a-4cd1-44e2-a6a3-275c6f7d092c/download/brimbank-historical-community-sites.zip) (ZIP)
+* [Brimbank Historical Community Sites - Preview this Dataset (WMS)](https://data.gov.au/geoserver/brimbank-historical-community-sites/wms?request=GetCapabilities) (WMS)
+* [Brimbank Historical Community Sites Web Feature Service API Link](https://data.gov.au/geoserver/brimbank-historical-community-sites/wfs) (WFS)
+* [Brimbank Historical Community Sites GeoJSON](https://data.gov.au/geoserver/brimbank-historical-community-sites/wfs?request=GetFeature&typeName=ckan_7a349f1f_4d8b_4d64_b876_4a1e779e8d79&outputFormat=json) (GeoJSON)
+
+## City of Adelaide
+
+### [Adelaide Key Historical Events, 1836-2005](https://data.sa.gov.au/data/dataset/adelaide-city-council-key-historical-dates)
+
+Source: data.sa.gov.au  
+Created: 2015-06-04T03:25:05.402223  
+Modified: 2022-11-11T01:28:05.122671
+
+* [Adelaide Key Historical Events](https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Adelaide_Key_Historical_Events/Adelaide_Key_Historical_Events.csv) (CSV)
+* [Adelaide Key Historical Events](https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Adelaide_Key_Historical_Events/Adelaide_Key_Historical_Events.xml) (XML)
+* [City of Adelaide, Thematic History](https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Adelaide_Key_Historical_Events/city_of_adelaide_thematic_history.pdf) (PDF)
+
+### [Historic Photos of Adelaide](https://data.sa.gov.au/data/dataset/historic-photos-of-adelaide)
+
+Source: data.sa.gov.au  
+Created: 2013-05-09T05:31:18.547379  
+Modified: 2022-11-11T02:00:41.642831
+
+* [Historic Photos of Adelaide](https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Historic_Photos/ArchAdelPhotos.xml) (XML)
+* [Historic photos of adelaide metadata.csv](https://data.sa.gov.au/data/storage/f/2014-06-05T07%3A05%3A37.744Z/historic-photos-of-adelaide-metadata.csv) (CSV)
+* [Town Acre Reference Map - Map of the City of Adelaide](https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Historic_Photos/1880_Map_Town_Acres.pdf) (PDF)
+* [Town Acre Reference Map - DeskPad Edition](https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Historic_Photos/DeskPadEd_Wards_%26_Town_Acres.pdf) (PDF)
+* [Town Acre Map in KML](https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Historic_Photos/PartTownAcres.kmz) (KMZ)
+* [Historic Photos Collection.zip](https://data.sa.gov.au/data/storage/f/2014-09-17T00%3A58%3A34.435Z/historic-photos-collection.zip) (ZIP)
+
+## City of Ballarat
+
+### [Ballarat Corner Shops](https://data.gov.au/dataset/ballarat-corner-shops)
+
+Source: data.gov.au  
+Created: 2015-05-25T04:27:52.606690  
+Modified: 2026-09-15T03:11:13.721749
+
+* [Ballarat Corner Shops csv](https://data.gov.au/data/dataset/91c3b46d-ea25-472f-a3d9-bfc6a58496ae/resource/955a40a9-65fc-4c6e-b0f0-6bb34163c120/download/ballaratcornershops.csv) (CSV)
+* [Ballarat Corner Shops shape](https://data.gov.au/data/dataset/91c3b46d-ea25-472f-a3d9-bfc6a58496ae/resource/e31657db-ca3a-4d72-9ab4-7303a62ff0b7/download/cornershops.zip) (ZIP)
+* [Ballarat Corner Shops kml](https://data.gov.au/data/dataset/91c3b46d-ea25-472f-a3d9-bfc6a58496ae/resource/decbe8b2-2367-44fc-9ec0-5452e2edac64/download/ballaratcornershops.kml) (KML)
+* [Ballarat Corner Shops GeoJSON](https://data.gov.au/data/dataset/91c3b46d-ea25-472f-a3d9-bfc6a58496ae/resource/57b3d0a7-4f49-4cc2-ae42-3eae4e1a7559/download/ballaratcornershops.csv) (CSV)
+* [Ballarat Corner Shops - Preview this Dataset (WMS)](https://data.gov.au/geoserver/ballarat-corner-shops/wms?request=GetCapabilities) (WMS)
+* [Ballarat Corner Shops Web Feature Service API Link](https://data.gov.au/geoserver/ballarat-corner-shops/wfs) (WFS)
+* [Ballarat Corner Shops GeoJSON](https://data.gov.au/geoserver/ballarat-corner-shops/wfs?request=GetFeature&typeName=ckan_91c3b46d_ea25_472f_a3d9_bfc6a58496ae&outputFormat=json) (GeoJSON)
+
+### [Ballarat Heritage Status](https://data.gov.au/dataset/ballarat-heritage-status)
+
+Source: data.gov.au  
+Created: 2015-02-13T02:46:18.712283  
+Modified: 2026-09-15T01:08:27.168095
+
+* [Ballarat Heritage Status](https://data.gov.au/data/dataset/aa26c955-d865-407f-8e58-e12448de4d8e/resource/09de6ba5-8e01-40fb-9bc4-111df8ba66f7/download/heritagestatus.zip) (ZIP)
+* [Ballarat Heritage Status](https://data.gov.au/data/dataset/aa26c955-d865-407f-8e58-e12448de4d8e/resource/924a0975-660b-4363-8f7b-55c3a9057335/download/heritagestatus.kml) (KML)
+* [Ballarat Heritage Status - Preview this Dataset (WMS)](https://data.gov.au/geoserver/ballarat-heritage-status/wms?request=GetCapabilities) (WMS)
+* [Ballarat Heritage Status Web Feature Service API Link](https://data.gov.au/geoserver/ballarat-heritage-status/wfs) (WFS)
+* [Ballarat Heritage Status GeoJSON](https://data.gov.au/geoserver/ballarat-heritage-status/wfs?request=GetFeature&typeName=ckan_aa26c955_d865_407f_8e58_e12448de4d8e&outputFormat=json) (GeoJSON)
+
+### [Ballarat Historical Naming Index](https://data.gov.au/dataset/ballarat-historical-naming-index)
+
+Source: data.gov.au  
+Created: 2017-07-03T23:32:32.674489  
+Modified: 2023-08-09T09:10:26.383699
+
+* [Ballarat Historical Naming Index](https://data.gov.au/data/dataset/ff7dd389-0c72-441e-8776-5490858ef1c9/resource/422ad171-21c7-4eab-9c0a-4e47e88d7356/download/historical-naming-index.csv) (CSV)
+* [Ballarat Roads and Open Space Historical Index PDF](https://data.gov.au/data/dataset/ff7dd389-0c72-441e-8776-5490858ef1c9/resource/11fd7fe6-67a4-4fc1-8b28-13cc49660217/download/roadsandopenspacehistoricalindex.pdf) (PDF)
+
+## City of Gold Coast
+
+### [Gold Coast Heritage Register](https://data.gov.au/dataset/gold-coast-heritage-register)
+
+Source: data.gov.au  
+Created: 2013-09-26T22:37:05.381699  
+Modified: 2026-09-14T22:45:10.117956
+
+* [Gold Coast Local Heritage Register.csv](http://data.gov.au/storage/f/2013-09-26T22%3A37%3A46.674Z/gold-coast-local-heritage-register.csv) (CSV)
+* [City of Gold Coast Heritage Sites](https://data.gov.au/data/dataset/2b0564bc-3d0c-4c44-9dfd-4edb01b2d900/resource/2f88dd06-3d60-4451-84b9-cefe2485aed6/download/gcccheritage.kmz) (KMZ)
+* [Gold Coast Heritage Points and Polygons](https://data.gov.au/data/dataset/2b0564bc-3d0c-4c44-9dfd-4edb01b2d900/resource/03a8dbcb-d015-4ae3-a817-efe2e8d31fb0/download/gcccheritagepointsandpolygons.zip) (ZIP)
+* [Gold Coast Heritage Register - Preview this Dataset (WMS)](https://data.gov.au/geoserver/gold-coast-heritage-register/wms?request=GetCapabilities) (WMS)
+* [Gold Coast Heritage Register Web Feature Service API Link](https://data.gov.au/geoserver/gold-coast-heritage-register/wfs) (WFS)
+* [Gold Coast Heritage Register GeoJSON](https://data.gov.au/geoserver/gold-coast-heritage-register/wfs?request=GetFeature&typeName=ckan_2b0564bc_3d0c_4c44_9dfd_4edb01b2d900&outputFormat=json) (GeoJSON)
+
+## City of Greater Geelong
+
+### [Historical Images - City of Greater Geelong](https://data.gov.au/dataset/geelong-historical-images)
+
+Source: data.gov.au  
+Created: 2015-07-02T06:15:45.245775  
+Modified: 2023-08-09T07:31:18.348128
+
+* [Historical Images - JPG](https://data.gov.au/data/dataset/a1ef39fb-1acf-4396-a6a6-1bf8d8421ac2/resource/51122993-9255-4c22-a9f8-cc1467752e20/download/geelonghistoricalimages.zip) (ZIP)
+
+## City of Melbourne Open Data
+
+### [Mahlstedt's fire plans of Melbourne 1888](https://data.gov.au/dataset/mahlstedts-fire-plans-of-melbourne-18881)
+
+Source: data.gov.au  
+Created: 2026-01-10T01:44:23.954023  
+Modified: 2026-09-13T21:36:22.274489
+
+* [unnamed](https://data.melbourne.vic.gov.au/api/v2/catalog/datasets/mahlstedts-fire-plans-of-melbourne-1888) (JSON)
+* [unnamed](https://data.melbourne.vic.gov.au/api/v2/catalog/datasets/mahlstedts-fire-plans-of-melbourne-1888/exports/json) (JSON)
+* [unnamed](https://data.melbourne.vic.gov.au/api/v2/catalog/datasets/mahlstedts-fire-plans-of-melbourne-1888/exports/csv) (CSV)
+
+## City of Onkaparinga
+
+### [Heritage Listed Properties](https://data.sa.gov.au/data/dataset/heritage-listed-properties)
+
+Source: data.sa.gov.au  
+Created: 2015-06-16T01:07:39.586681  
+Modified: 2019-08-29T07:38:31.862057
+
+* [Heritage Listed Properties 2015](https://data.sa.gov.au/data/dataset/c47ab428-f279-4989-8521-97142d5ea3c4/resource/33bb79e6-f99c-47ba-8ce1-9857829b78af/download/cityofonkaparingaheritagelistedproperties.csv) (CSV)
+* [Heritage Listed Properties 2016](https://data.sa.gov.au/data/dataset/c47ab428-f279-4989-8521-97142d5ea3c4/resource/838ade6b-3236-415d-b6a2-559298ab1d8c/download/city-of-onkaparinga-heritage-listed-properties-2016.csv) (CSV)
+* [Heritage Listed Properties 2019](https://data.sa.gov.au/data/dataset/c47ab428-f279-4989-8521-97142d5ea3c4/resource/bb5d7b20-79d3-4ae5-b429-c8b2bf4a8149/download/city-of-onkaparinga-heritage-listed-properties-2019.csv) (CSV)
+
+## City of Prospect
+
+### [City of Prospect Heritage Listed Properties](https://data.sa.gov.au/data/dataset/city-of-prospect-heritage-listed-properties)
+
+Source: data.sa.gov.au  
+Created: 2016-07-15T06:44:20.831290  
+Modified: 2016-07-15T06:45:07.140571
+
+* [City of Prospect Heritage Listed Properties](https://data.sa.gov.au/data/dataset/10e73758-4a11-466e-85d6-345bf24d1ef4/resource/d214e2bf-9d9f-4e38-bb29-e066c5dddfc6/download/heritage-details.xlsx) (XLSX)
+
+## Department for Environment and Water
+
+### [Aerial Imagery - Greater Adelaide 1949](https://data.gov.au/dataset/aerial-imagery-greater-adelaide-1949)
+
+Source: data.gov.au  
+Created: 2025-06-25T15:21:18.062283  
+Modified: 2025-08-18T03:07:40.768299
+
+* [Adelaide 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/a0badb36-efdf-4a33-b98b-28b8933145e6/download/adelaide194925cmsalambert.zip) (ZIP)
+* [Adelaide Airport 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/dc1b9b3d-a838-4e4b-8d6c-31ec1acf1b63/download/adelaideairport194925cmsalambert.zip) (ZIP)
+* [Gawler 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/6cc3458b-0ff0-4a2d-b7c3-0466042d8620/download/gawler194925cmsalambert.zip) (ZIP)
+* [Glenelg 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/6fd14640-83ac-4c5e-a70a-939d604eb932/download/glenelg194925cmsalambert.zip) (ZIP)
+* [Lefevre Peninsula Port Adelaide 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/862c965a-4777-4a5d-b285-ba551e3e4210/download/lefevrepeninsula-ptadelaide194925cmsalambert.zip) (ZIP)
+* [Murray Mouth 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/08dc73f5-2145-4a8b-bc88-7de62d3782d9/download/murraymouth194925cmsalambert.zip) (ZIP)
+* [Victor Harbor 1949](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/f85f2c88-45af-45df-98a3-2b56da698d10/download/victorharbor194925cmsalambert.zip) (ZIP)
+* [Greater Adelaide 1949 Aerial Imagery Locations](https://data.sa.gov.au/data/dataset/dd965573-9283-4f9c-894a-3445744e3ed7/resource/7a5137b3-993c-499e-978a-656d26983832/download/greater-adelaide-1949-aerial-imagery-locations.pdf) (PDF)
+* [Metadata](https://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1503&pu=y&pa=dewnr) (JPEG)
+
+### [Bushfires and Prescribed Burns History](https://data.sa.gov.au/data/dataset/fire-history)
+
+Source: data.sa.gov.au  
+Created: 2015-06-11T04:55:51.820330  
+Modified: 2020-02-24T02:29:41.059487
+
+* [Fire History (ShapeFile)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/FIREMGT_FireHistory_shp.zip) (ZIP)
+* [Fire History (KMZ)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/FIREMGT_FireHistory_kmz.zip) (ZIP)
+* [Fire History (GeoJSON)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/FIREMGT_FireHistory_geojson.zip) (ZIP)
+* [Metadata](https://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1159&pu=y&pa=dewnr) (HTML)
+
+### [Shipwreck and Relic Images](https://data.sa.gov.au/data/dataset/maritime-register-relic-images)
+
+Source: data.sa.gov.au  
+Created: 2017-05-22T01:32:35.920447  
+Modified: 2018-10-10T23:41:27.029002
+
+* [Maritime Register](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/ae5604a4-be6b-407b-92f7-d076de7ad625/download/maritimeregister.20170518.xml) (XML)
+* [Maritime_Register_Images_1](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/a101b292-a329-4ded-a8fc-48cd893dce0b/download/sa-maritime-register-images1.zip) (ZIP)
+* [Maritime_Register_Images_2](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/91d24764-da35-413d-b832-81e39996a812/download/sa-maritime-register-images2.zip) (ZIP)
+* [Maritime_Register_Images_3](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/e7614bb9-3a75-4ab3-87e6-6b35c17d6d0f/download/sa-maritime-register-images3.zip) (ZIP)
+* [Maritime_Register_Images_4](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/16e4363e-eaea-4266-804f-bae9946ec7fc/download/sa-maritime-register-images4.zip) (ZIP)
+* [Maritime_Register_Images_5](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/8cc13e8a-8dc4-4d2b-ba26-af9c5d589855/download/sa-maritime-register-images5.zip) (ZIP)
+* [Maritime_Register_Images_6](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/fb1ec9ff-083d-49ba-a07f-2af0fba3c1f3/download/sa-maritime-register-images6.zip) (ZIP)
+* [Maritime_Register_Images_7](https://data.sa.gov.au/data/dataset/7d6268cf-2f79-4a69-9254-6085e283a8f4/resource/fd8bdde0-3ed6-421c-86a7-1d73ace9de35/download/sa-maritime-register-images7.zip) (ZIP)
+* [Metadata](https://location.sa.gov.au/lms/Reports/ReportMetadata.aspx?p_no=1038&pu=y&pa=dewnr) (HTML)
+
+### [Shipwrecks](https://data.sa.gov.au/data/dataset/shipwrecks)
+
+Source: data.sa.gov.au  
+Created: 2015-06-03T06:25:41.507852  
+Modified: 2020-02-24T02:29:08.591478
+
+* [Shipwrecks (ShapeFile)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/TOPO_Shipwrecks_shp.zip) (ZIP)
+* [Shipwrecks (KMZ)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/TOPO_Shipwrecks_kmz.zip) (ZIP)
+* [Shipwrecks (GeoJSON)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/TOPO_Shipwrecks_geojson.zip) (ZIP)
+* [Preview Shipwreck Locations in a map viewer](https://location.sa.gov.au/viewer/?map=hybrid&x=141.64487&y=-36.0045&z=6&uids=96) (Map Viewer)
+
+### [State Heritage Areas](https://data.sa.gov.au/data/dataset/state-heritage-areas)
+
+Source: data.sa.gov.au  
+Created: 2016-06-27T02:06:28.310222  
+Modified: 2020-02-18T05:54:57.854265
+
+* [State Heritage Areas (SHP)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/CONSERVATION_StateHeritageAreas_shp.zip) (ZIP)
+* [State Heritage Areas (KMZ)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/CONSERVATION_StateHeritageAreas_kmz.zip) (ZIP)
+* [State Heritage Areas (GeoJSON)](https://www.waterconnect.sa.gov.au/Content/Downloads/DEWNR/CONSERVATION_StateHeritageAreas_geojson.zip) (ZIP)
+* [Preview State Heritage Areas in a map viewer](https://www.location.sa.gov.au/viewer/?map=hybrid&x=138.64382&y=-34.97737&z=12&uids=180&pinx=&piny=&pinTitle=&pinText=) (Map Viewer)
+* [State Heritage Areas Images](https://data.sa.gov.au/data/dataset/fdbb11f8-5338-4297-97a0-c7664cea99c2/resource/065fb340-8b2e-4715-b502-202b41fc17fe/download/cusersrgreendesktopstate-heritage-areas-images.zip) (ZIP)
+* [Metadata](https://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=639&pu=y&pa=dewnr) (HTML)
+
+### [State Heritage Places Images](https://data.sa.gov.au/data/dataset/sa-heritage-places-images)
+
+Source: data.sa.gov.au  
+Created: 2016-07-04T03:36:30.804213  
+Modified: 2020-09-22T03:09:43.472799
+
+* [State Heritage Images ID 10006-10259](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/e1409fbe-de65-41b9-b4f7-72360b5d5c89/download/state-heritage-images-id-10006-10259.zip) (ZIP)
+* [State Heritage Images ID 10260-10355](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/9ef38cb1-4c83-47bd-91d2-90395f87b03f/download/state-heritage-images-id-10260-10355.zip) (ZIP)
+* [State Heritage Images ID 10357-10452](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/11bbfe5c-2572-432f-8d9e-930f504872d5/download/state-heritage-images-id-10357-10452.zip) (ZIP)
+* [State Heritage Images ID 10459-10547](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/c2da4fcd-491c-4c90-9ea3-bac6c5c0185e/download/state-heritage-images-id-10459-10547.zip) (ZIP)
+* [State Heritage Images ID 10552-10608](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/9a1762b2-29af-42b9-abca-9a99fe7d0cd3/download/state-heritage-images-id-10552-10608.zip) (ZIP)
+* [State Heritage Images ID 10609-10671](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/90a55b60-f297-4207-939f-c39e8120f505/download/state-heritage-images-id-10609-10671.zip) (ZIP)
+* [State Heritage Images ID 10688-10802](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/15ed8778-1fbe-4609-b59a-4a3a1f2367a6/download/state-heritage-images-id-10688-10802.zip) (ZIP)
+* [State Heritage Images ID 10803-10861](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/ee1dc1b2-2b06-4ed1-ac51-8448783cf36c/download/state-heritage-images-id-10803-10861.zip) (ZIP)
+* [State Heritage Images ID 10865-10952](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/687395dd-e349-494a-81be-87bad036c84a/download/state-heritage-images-id-10865-10952.zip) (ZIP)
+* [State Heritage Images ID 10953-10998](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/9b7769bd-19ec-4dc7-bcef-16374e1dffb4/download/state-heritage-images-id-10953-10998.zip) (ZIP)
+* [State Heritage Images ID 10999-11178](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/2c04fc8c-2062-447d-b0e1-fc42edc4f536/download/state-heritage-images-id-10999-11178.zip) (ZIP)
+* [State Heritage Images ID 11184-11592](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/a6df5e37-9cf7-4eec-8c68-b34302e6ffc4/download/state-heritage-images-id-11184-11592.zip) (ZIP)
+* [State Heritage Images ID 11595-12796](https://data.sa.gov.au/data/dataset/f37dffc0-5dae-4b0e-8f8d-053a0f27e010/resource/8abe64e5-3a2e-485d-a672-352f99529211/download/state-heritage-images-id-11595-12796.zip) (ZIP)
+
+## Department for Housing and Urban Development
+
+### [SA Heritage Places](https://data.sa.gov.au/data/dataset/sa-heritage-places)
+
+Source: data.sa.gov.au  
+Created: 2015-12-20T22:02:52.598876  
+Modified: 2025-04-29T08:12:45.876654
+
+* [Preview SA Heritage Places in a map viewer](https://location.sa.gov.au/viewer/?map=hybrid&x=138.39461&y=-34.57335&z=7&uids=95,102) (Map Viewer)
+* [SA Heritage Places - Metadata](https://www.location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1576&pu=y) (HTML)
+* [SA Heritage Places - (shp)](https://www.dptiapps.com.au/dataportal/SAHeritagePlaces_shp.zip) (ZIP)
+* [SA Heritage Places - (kml)](https://www.dptiapps.com.au/dataportal/SAHeritagePlaces_kml.zip) (ZIP)
+* [SA Heritage Places - (geojson)](https://www.dptiapps.com.au/dataportal/SAHeritagePlaces_geojson.zip) (ZIP)
+* [Heritage Listed Properties](https://www.sa.gov.au/topics/planning-and-property/land-and-property-development/building-and-property-development-applications/heritage-listed-properties) (HTML)
+* [Heritage Places Online Search Tool](https://maps.sa.gov.au/heritagesearch/HeritageSearchLocation.aspx) (ASPX)
+
+## Department of Planning, Lands and Heritage
+
+### [Heritage List (DPLH-090)](https://catalogue.data.wa.gov.au/dataset/heritage-list-dplh-090)
+
+Source: data.wa.gov.au  
+Created: 2021-06-04T08:08:22.585393  
+Modified: 2026-09-16T00:01:25.318020
+
+* [Heritage List](https://www.dplh.wa.gov.au/about-inherit) (HTML)
+* [Shapefile](https://data-downloads.slip.wa.gov.au/DPLH-090/Shapefile) (SHP)
+* [GeoJSON](https://data-downloads.slip.wa.gov.au/DPLH-090/GeoJSON) (GeoJSON)
+* [Geopackage](https://data-downloads.slip.wa.gov.au/DPLH-090/Geopackage) (GeoPackage)
+* [File Geodatabase](https://data-downloads.slip.wa.gov.au/DPLH-090/File+Geodatabase) (FGDB)
+* [ArcGIS Server Map Service](https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer/16) (API ArcGIS Server Map Service)
+* [Web Feature Service](https://services.slip.wa.gov.au/arcgis/services/DPLH_Public_Secure_Services/DPLH_Public_Secure_Services_FS/MapServer/WFSServer) (WFS)
+* [Web Feature Service](https://services.slip.wa.gov.au/arcgis/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG_FS/MapServer/WFSServer) (WFS)
+* [Web Mapping Service](https://services.slip.wa.gov.au/arcgis/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG/MapServer/WMSServer) (WMS)
+* [ArcGIS Server Map Service](https://services.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG/MapServer/1) (API ArcGIS Server Map Service)
+* [ArcGIS Server Feature Service (Esri Token Authentication)](https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Public_Secure_Services/DPLH_Public_Secure_Services_FS/FeatureServer/73) (API ArcGIS Server Feature Service)
+* [ArcGIS Server Feature Service (Esri Token Authentication)](https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG_FS/FeatureServer/1) (API ArcGIS Server Feature Service)
+* [ArcGIS Server Map Service (Esri Token Authentication)](https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_Heritage_LG/MapServer/1) (API ArcGIS Server Map Service)
+
+## Department of Transport and Planning 
+
+### [Heritage Inventory](https://discover.data.vic.gov.au/dataset/heritage-inventory)
+
+Source: data.vic.gov.au  
+Created: 2025-03-27T09:58:13.606264  
+Modified: 2026-09-15T23:49:45.292114
+
+* [HERITAGEINVENTORY DWG](https://datashare.maps.vic.gov.au/search?md=fcb63ea2-7430-526b-a139-060c8a2cf990) (DWG)
+* [HERITAGE_INVENTORY WMS](https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:heritage_inventory&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665) (WMS)
+
+### [Victorian Heritage Register](https://discover.data.vic.gov.au/dataset/victorian-heritage-register)
+
+Source: data.vic.gov.au  
+Created: 2025-02-28T06:52:40.057766  
+Modified: 2026-09-16T00:07:24.007313
+
+* [HERITAGEREGISTER DWG](https://datashare.maps.vic.gov.au/search?md=c95c7142-a03e-5fd3-9b15-5dfcd2b9ff33) (DWG)
+* [HERITAGE_REGISTER WMS](https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:heritage_register&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665) (WMS)
+* [HERITAGE_REGISTER WFS](https://opendata.maps.vic.gov.au/geoserver/wfs?request=GetCapabilities&service=WFS) (WFS)
+
 ## History Trust of South Australia
 
 ### [Consultants engaged by the History Trust of South Australia](https://data.sa.gov.au/data/dataset/e1d89da7-8ec7-4041-ab0a-818d8925d122)
 
+Source: data.sa.gov.au  
 Created: 2017-09-28T02:45:01.007581  
 Modified: 2025-11-17T05:08:54.500407
 
@@ -65,6 +427,7 @@ Modified: 2025-11-17T05:08:54.500407
 
 ### [Contractors engaged by the History Trust of South Australia](https://data.sa.gov.au/data/dataset/acf3e43e-823b-4238-a620-3e4efaf61a28)
 
+Source: data.sa.gov.au  
 Created: 2018-09-04T02:43:20.388353  
 Modified: 2025-11-17T06:08:06.056334
 
@@ -72,6 +435,7 @@ Modified: 2025-11-17T06:08:06.056334
 
 ### [Executive Employment at the History Trust of South Australia](https://data.sa.gov.au/data/dataset/f751c9b2-ceb4-4c25-8dfa-06116a76e3df)
 
+Source: data.sa.gov.au  
 Created: 2017-09-28T03:04:15.192438  
 Modified: 2025-11-17T05:06:19.937035
 
@@ -79,6 +443,7 @@ Modified: 2025-11-17T05:06:19.937035
 
 ### [Fraud detection at History Trust of South Australia](https://data.sa.gov.au/data/dataset/7b7f379c-d4a9-4b60-8c3e-92a42a2fc346)
 
+Source: data.sa.gov.au  
 Created: 2017-09-28T02:56:50.547552  
 Modified: 2025-11-17T05:46:33.642657
 
@@ -86,6 +451,7 @@ Modified: 2025-11-17T05:46:33.642657
 
 ### [Interned: Torrens Island, 1914-1915](https://data.sa.gov.au/data/dataset/eb04171a-1a75-4549-820d-fd20a1d434be)
 
+Source: data.sa.gov.au  
 Created: 2015-05-29T06:26:23.281710  
 Modified: 2025-01-31T02:26:33.347256
 
@@ -93,6 +459,7 @@ Modified: 2025-01-31T02:26:33.347256
 
 ### [Public Complaints History Trust of South Australia](https://data.sa.gov.au/data/dataset/e0286abe-d1ba-4cbd-a48b-628b854f3cf9)
 
+Source: data.sa.gov.au  
 Created: 2017-09-28T02:59:21.279583  
 Modified: 2025-11-17T05:49:07.229507
 
@@ -100,6 +467,7 @@ Modified: 2025-11-17T05:49:07.229507
 
 ### [Whistleblowers Disclosure for History Trust of South Australia](https://data.sa.gov.au/data/dataset/9a9aea08-dc9a-4ad0-9ce6-0127349cecb3)
 
+Source: data.sa.gov.au  
 Created: 2017-09-28T02:53:45.094443  
 Modified: 2025-11-17T05:47:40.297025
 
@@ -107,6 +475,7 @@ Modified: 2025-11-17T05:47:40.297025
 
 ### [Women’s Suffrage Petition 1894 (South Australia)](https://data.sa.gov.au/data/dataset/3f6fab54-8cc8-4732-9c1e-fb3f73df53b0)
 
+Source: data.sa.gov.au  
 Created: 2019-04-04T01:50:27.805462  
 Modified: 2019-04-10T07:44:25.748567
 
@@ -114,15 +483,84 @@ Modified: 2019-04-10T07:44:25.748567
 
 ### [Workplace Injury Claims History Trust of South Australia](https://data.sa.gov.au/data/dataset/acb979d9-d04d-4a83-a8e8-f0c3d5149dcb)
 
+Source: data.sa.gov.au  
 Created: 2018-09-03T05:13:04.265874  
 Modified: 2025-11-17T05:03:46.434583
 
 * [Workplace Injury Claims received by History Trust of South Australia 2017-25](https://data.sa.gov.au/data/dataset/acb979d9-d04d-4a83-a8e8-f0c3d5149dcb/resource/526183df-592f-487f-9f3a-1277fb24d272/download/workplaceinjuryhtsaperiod2024-25.csv) (CSV)
 
+## Hobsons Bay City Council
+
+### [Heritage Assets and Arts in Hobsons Bay](https://data.gov.au/dataset/heritage-assets-and-arts-in-hobsons-bay)
+
+Source: data.gov.au  
+Created: 2019-02-27T05:04:09.953357  
+Modified: 2026-09-15T14:44:00.245303
+
+* [Hbcc_HeritageAssets_MI.zip](https://data.gov.au/data/dataset/9707c5a8-e110-4faa-aba4-9563126478e1/resource/aa3b8b7a-d593-49ce-9790-9b6b5f67a49c/download/hbcc_heritageassets_mi.zip) (ZIP)
+* [Hbcc_HeritageAssets_SHP.zip](https://data.gov.au/data/dataset/9707c5a8-e110-4faa-aba4-9563126478e1/resource/fcdc6409-7015-43d4-b2c9-9c6986c25a76/download/hbcc_heritageassets_shp.zip) (ZIP)
+* [Heritage Assets.csv](https://data.gov.au/data/dataset/9707c5a8-e110-4faa-aba4-9563126478e1/resource/d1214805-07e3-466d-a44f-6ba5552472b9/download/heritage-assets.csv) (CSV)
+* [HeritageAssets.geojson](https://data.gov.au/data/dataset/9707c5a8-e110-4faa-aba4-9563126478e1/resource/9b3a2701-7537-4e4b-87e6-eea0c975c85a/download/heritageassets.geojson) (GEOJSON)
+* [Heritage Assets and Arts in Hobsons Bay - Preview this Dataset (WMS)](https://data.gov.au/geoserver/heritage-assets-and-arts-in-hobsons-bay/wms?request=GetCapabilities) (WMS)
+* [Heritage Assets and Arts in Hobsons Bay Web Feature Service API Link](https://data.gov.au/geoserver/heritage-assets-and-arts-in-hobsons-bay/wfs) (WFS)
+* [Heritage Assets and Arts in Hobsons Bay GeoJSON](https://data.gov.au/geoserver/heritage-assets-and-arts-in-hobsons-bay/wfs?request=GetFeature&typeName=ckan_9707c5a8_e110_4faa_aba4_9563126478e1&outputFormat=json) (GeoJSON)
+
+## IP Australia
+
+### [IPGOD2022](https://data.gov.au/dataset/ipgod2022)
+
+Source: data.gov.au  
+Created: 2021-04-30T03:26:29.746269  
+Modified: 2022-06-20T23:05:42.349305
+
+* [IPGOD Data Dictionary](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/2a4ad939-d2ba-4082-b2a3-750a400884d1/download/ipgod2022-data-dictionary-v1-public.pdf) (PDF)
+* [IPGOD 2022](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/fc07e1cc-c205-4806-aff9-826470937a0a/download/ipgod2022.zip) (ZIP)
+* [PBR Application](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/952d7cf9-8412-4205-80de-405a725a2017/download/pbr-application.csv) (CSV)
+* [PBR Application Classification](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/eb517e91-b70a-42ea-9f91-b800c1f8831e/download/pbr-application-classification.csv) (CSV)
+* [PBR Application Description](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/e1c2d899-d46a-4f33-b147-bda783d264c4/download/pbr-application-description.csv) (CSV)
+* [PBR Application Events](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/db9cda95-7143-4b49-82aa-9bd386ee446a/download/pbr-application-events.csv) (CSV)
+* [PBR Application Links](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/c6bbf607-a7f4-4277-81e1-8bbf5bb601de/download/pbr-application-links.csv) (CSV)
+* [PBR Party Activity](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/385d1ca3-fb91-4c58-acd6-f076744a9122/download/pbr-party-activity.csv) (CSV)
+* [Design Application](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/db4da728-d954-4539-adb3-33ac50c50070/download/design-application.csv) (CSV)
+* [Design Application Classification](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/af1aba48-c02a-427b-b246-513d6a97b1cf/download/design-application-classification.csv) (CSV)
+* [Design Application Description](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/ce14ef46-0185-4816-8ee8-464fd427d8b0/download/design-application-description.csv) (CSV)
+* [Design Application Events](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/0e0c5c82-6eeb-497c-9c3c-4dc654c617aa/download/design-application-events.csv) (CSV)
+* [Design Application Links](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/ef2dff61-c024-4678-87b0-e071a0d96c6d/download/design-application-links.csv) (CSV)
+* [Design Party Activity](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/89dacae9-4649-4612-aeb8-489af3aec379/download/design-party-activity.csv) (CSV)
+* [Patent Application](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/e0f36eb0-7c83-4bff-a66b-2ba128f07d56/download/patent-application.csv) (CSV)
+* [Patent Application Classification](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/624349a5-a9f4-41e0-bdce-471f1c59855f/download/patent-application-classification.csv) (CSV)
+* [Patent Application Description](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/7a7012cb-a6ce-4b3b-a705-524efcc1fa87/download/patent-application-description.csv) (CSV)
+* [Patent Application Events](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/e8831ba1-0d83-44f9-bc2e-bdc40b0dc952/download/patent-application-events.csv) (CSV)
+* [Patent Application Links](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/2958b4d0-de04-4884-8aaa-0d9121219eba/download/patent-application-links.csv) (CSV)
+* [Patent Party Activity](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/7d8c5138-60d9-4993-b7c9-ecbec25bd57f/download/patent-party-activity.csv) (CSV)
+* [Trade Mark Application](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/71f3c2ba-c390-44bb-8713-1fe4c42dd238/download/trade-mark-application.csv) (CSV)
+* [Trade Mark Application Classification](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/3bd1298b-6e37-41b6-94d1-63b43e2f518d/download/trade-mark-application-classification.csv) (CSV)
+* [Trade Mark Application Description](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/474471f2-8325-491f-af82-feb3ed91acec/download/trade-mark-application-description.csv) (CSV)
+* [Trade Mark Application Events](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/19d073dd-b189-4890-bd82-207aa5be504f/download/trade-mark-application-events.csv) (CSV)
+* [Trade mark Application Links](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/423ab970-a593-472b-b9a3-4a9e204ad20c/download/trade-mark-application-links.csv) (CSV)
+* [Trade Mark Party Activity](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/9197f81e-8c43-4146-a6b4-e0d380f9dc1d/download/trade-mark-party-activity.csv) (CSV)
+
+### [Intellectual Property Longitudinal Research Data (IPLORD)](https://data.gov.au/dataset/intellectual-property-longitudinal-research-data-2020)
+
+Source: data.gov.au  
+Created: 2021-06-08T03:22:35.959043  
+Modified: 2023-08-29T14:11:08.657307
+
+* [IPLORD Data Dictionary 2021.pdf](https://data.gov.au/data/dataset/d61374dd-1a62-4132-913d-35d90cfdac81/resource/808dafcd-7cb3-4a39-94d0-81211f138a6f/download/iplord-data-dictionary-2021.pdf) (PDF)
+* [iplord_2020.zip](https://data.gov.au/data/dataset/d61374dd-1a62-4132-913d-35d90cfdac81/resource/af2ba6bd-a751-41cc-889b-1d83611d572d/download/iplord_2020.zip) (ZIP)
+* [iplord_1901_2020_full_data_set.csv](https://data.gov.au/data/dataset/d61374dd-1a62-4132-913d-35d90cfdac81/resource/8ff87fe0-d50e-450f-9b51-21366072d449/download/iplord_1901_2020_full_data_set.csv) (CSV)
+* [iplord_1901_1990.csv](https://data.gov.au/data/dataset/d61374dd-1a62-4132-913d-35d90cfdac81/resource/ce20068f-2b2f-44d8-9b23-b5df3c862ba5/download/iplord_1901_1990.csv) (CSV)
+* [iplord_1991_2000.csv](https://data.gov.au/data/dataset/d61374dd-1a62-4132-913d-35d90cfdac81/resource/7f4dcef4-6c54-4a22-8ccb-6813597f3c76/download/iplord_1991_2000.csv) (CSV)
+* [iplord_2001_2005.csv](https://data.gov.au/data/dataset/d61374dd-1a62-4132-913d-35d90cfdac81/resource/f2142981-601a-43a8-8d31-7cbdbf1cfc4d/download/iplord_2001_2005.csv) (CSV)
+* [iplord_2006_2010 .csv](https://data.gov.au/data/dataset/d61374dd-1a62-4132-913d-35d90cfdac81/resource/8a51dda3-97f1-447d-8a76-5f8776411e02/download/iplord_2006_2010-.csv) (CSV)
+* [iplord_2011_2015.csv](https://data.gov.au/data/dataset/d61374dd-1a62-4132-913d-35d90cfdac81/resource/ba3220a3-0528-4cd6-b064-08fa42a4f68e/download/iplord_2011_2015.csv) (CSV)
+* [iplord_2016_2020.csv](https://data.gov.au/data/dataset/d61374dd-1a62-4132-913d-35d90cfdac81/resource/ff0bd1eb-07f0-4a86-b2f9-a010aec77b7f/download/iplord_2016_2020.csv) (CSV)
+
 ## Libraries Tasmania
 
 ### [Colonial Secretary Correspondence (1824-1854)](https://data.gov.au/dataset/069a423b-abd8-4454-89ad-4b04aed6cec7)
 
+Source: data.gov.au  
 Created: 2019-09-05T06:30:22.128105  
 Modified: 2024-11-27T14:12:50.270524
 
@@ -132,6 +570,7 @@ Modified: 2024-11-27T14:12:50.270524
 
 ### [Libraries Tasmania Digitised Archives](https://data.gov.au/dataset/d7ec2d93-b9dd-482b-b6d9-432b2a2455a3)
 
+Source: data.gov.au  
 Created: 2016-04-05T05:02:51.837843  
 Modified: 2023-08-09T23:29:57.812023
 
@@ -141,6 +580,7 @@ Modified: 2023-08-09T23:29:57.812023
 
 ### [Libraries Tasmania locations](https://data.gov.au/dataset/409f7f64-35ef-4a70-8db1-dd737a6fabec)
 
+Source: data.gov.au  
 Created: 2016-03-22T00:10:05.436984  
 Modified: 2024-09-11T06:25:05.749698
 
@@ -148,6 +588,7 @@ Modified: 2024-09-11T06:25:05.749698
 
 ### [Miscellaneous Records (1838-1873)](https://data.gov.au/dataset/31cf23a9-ecff-4803-ab01-15d580e40eaa)
 
+Source: data.gov.au  
 Created: 2019-09-05T06:37:12.433061  
 Modified: 2024-11-27T14:15:06.267381
 
@@ -157,6 +598,7 @@ Modified: 2024-11-27T14:15:06.267381
 
 ### [Tasmanian Archives Records Series](https://data.gov.au/dataset/575f1bb4-87ed-4f08-990d-3cfcd06ccd9c)
 
+Source: data.gov.au  
 Created: 2016-04-06T06:15:06.951953  
 Modified: 2023-08-09T09:06:42.311261
 
@@ -166,6 +608,7 @@ Modified: 2023-08-09T09:06:42.311261
 
 ### [Tasmanian Arrivals (19th Century)](https://data.gov.au/dataset/351092b1-65f1-4b34-8406-0c30ae146c88)
 
+Source: data.gov.au  
 Created: 2015-06-16T02:49:11.921824  
 Modified: 2024-11-27T14:15:29.591484
 
@@ -175,6 +618,7 @@ Modified: 2024-11-27T14:15:29.591484
 
 ### [Tasmanian Bankruptcy Records (1821-1928)](https://data.gov.au/dataset/b0627a17-6783-4c18-a83e-11aa7e22e50e)
 
+Source: data.gov.au  
 Created: 2017-07-13T23:40:52.786178  
 Modified: 2024-11-27T14:15:33.786273
 
@@ -184,6 +628,7 @@ Modified: 2024-11-27T14:15:33.786273
 
 ### [Tasmanian Births (1803-1933)](https://data.gov.au/dataset/c8a4d43f-7ab5-40c4-817e-7babdc43e0f2)
 
+Source: data.gov.au  
 Created: 2015-06-16T03:02:06.097826  
 Modified: 2024-11-27T14:17:54.240208
 
@@ -193,6 +638,7 @@ Modified: 2024-11-27T14:17:54.240208
 
 ### [Tasmanian Census (1837-1857)](https://data.gov.au/dataset/dcca6fc4-fb19-4172-ae04-7175260f4990)
 
+Source: data.gov.au  
 Created: 2015-06-16T04:40:35.041307  
 Modified: 2024-11-27T14:18:03.841305
 
@@ -202,6 +648,7 @@ Modified: 2024-11-27T14:18:03.841305
 
 ### [Tasmanian Convicts (1803-1893)](https://data.gov.au/dataset/6d7bacba-8e0f-4105-b7bc-9fe11eda9f89)
 
+Source: data.gov.au  
 Created: 2015-06-16T04:46:20.345340  
 Modified: 2024-11-27T14:19:05.365763
 
@@ -211,6 +658,7 @@ Modified: 2024-11-27T14:19:05.365763
 
 ### [Tasmanian Convicts - permission to marry (1829-1858).](https://data.gov.au/dataset/19077659-b4a1-4581-977d-40d6c922e71c)
 
+Source: data.gov.au  
 Created: 2015-06-18T01:28:26.227023  
 Modified: 2024-11-27T14:24:12.697477
 
@@ -220,6 +668,7 @@ Modified: 2024-11-27T14:24:12.697477
 
 ### [Tasmanian Court Records (1824-1890)](https://data.gov.au/dataset/58a9a8d7-01e0-43df-9f91-06ccdae5c634)
 
+Source: data.gov.au  
 Created: 2017-07-14T01:07:40.196610  
 Modified: 2024-11-27T14:19:16.214613
 
@@ -229,6 +678,7 @@ Modified: 2024-11-27T14:19:16.214613
 
 ### [Tasmanian Deaths (1803-1939)](https://data.gov.au/dataset/45d78601-0034-4da3-9b69-d277d880ab21)
 
+Source: data.gov.au  
 Created: 2015-06-18T01:24:46.370500  
 Modified: 2024-11-27T14:20:27.098892
 
@@ -238,6 +688,7 @@ Modified: 2024-11-27T14:20:27.098892
 
 ### [Tasmanian Departures (1817-1887)](https://data.gov.au/dataset/7ebbb329-5095-4876-914f-ed08733f7a93)
 
+Source: data.gov.au  
 Created: 2015-06-16T04:56:52.800514  
 Modified: 2024-11-27T14:20:58.705727
 
@@ -247,6 +698,7 @@ Modified: 2024-11-27T14:20:58.705727
 
 ### [Tasmanian Divorces (1861-1950)](https://data.gov.au/dataset/1edcd6fb-adec-46c6-9851-e923bc657cd1)
 
+Source: data.gov.au  
 Created: 2015-06-18T01:34:55.939948  
 Modified: 2024-11-27T14:21:02.575888
 
@@ -256,6 +708,7 @@ Modified: 2024-11-27T14:21:02.575888
 
 ### [Tasmanian Education Records (1846-1908)](https://data.gov.au/dataset/16c59f7f-698d-489d-b3ae-3e3fb7fe21ee)
 
+Source: data.gov.au  
 Created: 2019-09-05T06:32:41.010769  
 Modified: 2024-11-27T14:14:55.536954
 
@@ -265,6 +718,7 @@ Modified: 2024-11-27T14:14:55.536954
 
 ### [Tasmanian Employment Records (1865-1902)](https://data.gov.au/dataset/5a405858-49da-4895-974e-1372dbdf91ca)
 
+Source: data.gov.au  
 Created: 2019-09-05T06:35:12.443767  
 Modified: 2024-11-27T14:15:01.401942
 
@@ -274,6 +728,7 @@ Modified: 2024-11-27T14:15:01.401942
 
 ### [Tasmanian Health & Welfare Records (1829-1952)](https://data.gov.au/dataset/7adb79ba-2ce3-4f2d-96cb-6536d1c6034f)
 
+Source: data.gov.au  
 Created: 2016-03-21T23:57:48.142520  
 Modified: 2024-11-27T14:23:19.063783
 
@@ -283,6 +738,7 @@ Modified: 2024-11-27T14:23:19.063783
 
 ### [Tasmanian Hotels & Property Records (1818-1958)](https://data.gov.au/dataset/8dbcca15-2ae1-46e3-9c32-02ecefffc87d)
 
+Source: data.gov.au  
 Created: 2016-03-22T00:15:06.037540  
 Modified: 2024-11-27T14:23:24.946421
 
@@ -292,6 +748,7 @@ Modified: 2024-11-27T14:23:24.946421
 
 ### [Tasmanian Immigration Records (1910-1940)](https://data.gov.au/dataset/4b7b5b50-774f-4416-90ce-5b7df85ff8ce)
 
+Source: data.gov.au  
 Created: 2017-05-09T06:29:11.103893  
 Modified: 2024-11-27T14:23:29.908598
 
@@ -301,6 +758,7 @@ Modified: 2024-11-27T14:23:29.908598
 
 ### [Tasmanian Inquests (1828-1973)](https://data.gov.au/dataset/5b5ced0f-0032-4178-a874-57b92d7b09d9)
 
+Source: data.gov.au  
 Created: 2015-06-18T01:58:36.659032  
 Modified: 2024-11-27T14:23:40.059423
 
@@ -310,6 +768,7 @@ Modified: 2024-11-27T14:23:40.059423
 
 ### [Tasmanian Land Records (1832-1935)](https://data.gov.au/dataset/4940b8e0-a2b4-49e6-b658-b124d98e2082)
 
+Source: data.gov.au  
 Created: 2021-03-23T22:09:46.719087  
 Modified: 2024-11-27T14:24:01.396243
 
@@ -319,6 +778,7 @@ Modified: 2024-11-27T14:24:01.396243
 
 ### [Tasmanian Marriages (1803-1944)](https://data.gov.au/dataset/948c2c93-5d32-43c0-b970-d834cbadf448)
 
+Source: data.gov.au  
 Created: 2015-06-18T01:47:30.913394  
 Modified: 2024-11-27T14:25:10.232531
 
@@ -328,6 +788,7 @@ Modified: 2024-11-27T14:25:10.232531
 
 ### [Tasmanian Naturalisations (1835-1904)](https://data.gov.au/dataset/b19224c6-3b78-4d03-8a9d-c97d7b8db541)
 
+Source: data.gov.au  
 Created: 2015-06-18T01:51:30.181632  
 Modified: 2024-11-27T14:25:14.903230
 
@@ -337,6 +798,7 @@ Modified: 2024-11-27T14:25:14.903230
 
 ### [Tasmanian Newspaper Index](https://data.gov.au/dataset/3e1eb60e-5ad1-4a20-8cb9-32be085e56f0)
 
+Source: data.gov.au  
 Created: 2016-04-06T01:52:36.573929  
 Modified: 2024-11-27T14:30:09.812998
 
@@ -346,6 +808,7 @@ Modified: 2024-11-27T14:30:09.812998
 
 ### [Tasmanian Prisoners (1877-1938)](https://data.gov.au/dataset/d2c27ee7-8be8-425b-a028-b96ef3847fac)
 
+Source: data.gov.au  
 Created: 2015-06-18T01:54:13.281076  
 Modified: 2024-11-27T14:25:19.872892
 
@@ -355,6 +818,7 @@ Modified: 2024-11-27T14:25:19.872892
 
 ### [Tasmanian Wills (1813-1997)](https://data.gov.au/dataset/e897a164-153a-448b-9558-ec0b57079b3d)
 
+Source: data.gov.au  
 Created: 2015-06-18T01:43:26.050087  
 Modified: 2024-11-27T14:26:28.520181
 
@@ -364,6 +828,7 @@ Modified: 2024-11-27T14:26:28.520181
 
 ### [World War I Soldiers and Nurses (1914-1928).](https://data.gov.au/dataset/b711231a-2a02-48eb-bbc1-9e31b0b8f319)
 
+Source: data.gov.au  
 Created: 2015-06-15T03:04:09.056176  
 Modified: 2024-11-27T14:25:50.758359
 
@@ -373,6 +838,7 @@ Modified: 2024-11-27T14:25:50.758359
 
 ### [eHeritage data](https://data.gov.au/dataset/824306c0-ace3-482f-9476-f7ce9abd89de)
 
+Source: data.gov.au  
 Created: 2017-07-17T00:58:57.315558  
 Modified: 2023-08-09T06:52:27.631139
 
@@ -384,6 +850,7 @@ Modified: 2023-08-09T06:52:27.631139
 
 ### [Mount Gambier Destitute Register](https://data.sa.gov.au/data/dataset/f475bf72-2aac-4893-a162-aaa5343a490d)
 
+Source: data.sa.gov.au  
 Created: 2016-07-04T01:13:31.122992  
 Modified: 2016-07-04T01:14:58.244849
 
@@ -391,6 +858,7 @@ Modified: 2016-07-04T01:14:58.244849
 
 ### [Mount Gambier Main Street Traders](https://data.sa.gov.au/data/dataset/0e4a82b7-b1d9-47d8-8c74-3cb2ac296661)
 
+Source: data.sa.gov.au  
 Created: 2014-06-10T14:53:05.816908  
 Modified: 2016-06-08T07:11:39.244861
 
@@ -400,6 +868,7 @@ Modified: 2016-06-08T07:11:39.244861
 
 ### [Powerhouse Museum Collection API](https://data.nsw.gov.au/data/dataset/bf9df234-7890-4907-94f6-e7872c8f4258)
 
+Source: data.nsw.gov.au  
 Created: 2013-05-24T01:43:33.435412  
 Modified: 2019-05-30T23:59:59.037949
 
@@ -407,6 +876,7 @@ Modified: 2019-05-30T23:59:59.037949
 
 ### [Powerhouse Museum Collection simplified dataset](https://data.nsw.gov.au/data/dataset/91829aff-594e-4cdf-bc76-bf639335fa26)
 
+Source: data.nsw.gov.au  
 Created: 2013-05-24T01:44:48.361690  
 Modified: 2022-01-18T02:43:35.421740
 
@@ -415,6 +885,7 @@ Modified: 2022-01-18T02:43:35.421740
 
 ### [Search the Powerhouse Museum Collection](https://data.nsw.gov.au/data/dataset/bf5a60c5-3340-4cd7-9282-d4db9819e071)
 
+Source: data.nsw.gov.au  
 Created: 2013-05-24T02:09:35.376542  
 Modified: 2017-06-19T07:58:15.006073
 
@@ -424,6 +895,7 @@ Modified: 2017-06-19T07:58:15.006073
 
 ### [Museum Victoria Collections - API](https://discover.data.vic.gov.au/dataset/a97190fe-e96f-4915-b263-8a6147495097)
 
+Source: data.vic.gov.au  
 Created: 2015-09-14T06:41:01.695598  
 Modified: 2024-12-17T00:19:54.801040
 
@@ -433,6 +905,7 @@ Modified: 2024-12-17T00:19:54.801040
 
 ### [Convict Indexes](https://data.nsw.gov.au/data/dataset/acdd01d0-d700-465c-a183-735c4f139ca0)
 
+Source: data.nsw.gov.au  
 Created: 2015-10-01T01:54:53.522981  
 Modified: 2015-10-01T02:14:59.600322
 
@@ -446,6 +919,7 @@ Modified: 2015-10-01T02:14:59.600322
 
 ### [Deceased Estate Files, 1880-1923](https://data.nsw.gov.au/data/dataset/5d45437c-d07a-4977-95ab-e53fb86f02c1)
 
+Source: data.nsw.gov.au  
 Created: 2014-09-30T04:52:48.805972  
 Modified: 2016-07-20T12:09:20.785878
 
@@ -453,6 +927,7 @@ Modified: 2016-07-20T12:09:20.785878
 
 ### [Flickr Photostream](https://data.nsw.gov.au/data/dataset/32f00807-077b-45f9-978b-df4f688b1b17)
 
+Source: data.nsw.gov.au  
 Created: 2013-05-24T01:41:34.299964  
 Modified: 2015-10-01T01:49:21.445004
 
@@ -460,6 +935,7 @@ Modified: 2015-10-01T01:49:21.445004
 
 ### [NSW Government Railways and Tramways Roll of Honour, 1914-1919](https://data.nsw.gov.au/data/dataset/33809e06-5e9e-49e6-a922-b345afc0b4ca)
 
+Source: data.nsw.gov.au  
 Created: 2014-09-30T04:45:10.718317  
 Modified: 2016-07-20T12:15:24.842423
 
@@ -467,6 +943,7 @@ Modified: 2016-07-20T12:15:24.842423
 
 ### [Nominal Roll of the First Railway Section (AIF), 1917-20](https://data.nsw.gov.au/data/dataset/7e8b1833-4edc-483f-b38c-816e87a60149)
 
+Source: data.nsw.gov.au  
 Created: 2014-09-30T04:50:13.606219  
 Modified: 2016-07-20T12:15:14.925772
 
@@ -474,6 +951,7 @@ Modified: 2016-07-20T12:15:14.925772
 
 ### [OpenGov NSW API](https://data.nsw.gov.au/data/dataset/e2c36616-36db-4bb3-a907-87db836481f0)
 
+Source: data.nsw.gov.au  
 Created: 2013-05-28T05:04:20.514798  
 Modified: 2015-02-03T06:33:14.130405
 
@@ -481,6 +959,7 @@ Modified: 2015-02-03T06:33:14.130405
 
 ### [Railway Employment Records](https://data.nsw.gov.au/data/dataset/1f776129-6d97-4225-afc0-b9fc1833f815)
 
+Source: data.nsw.gov.au  
 Created: 2014-09-30T04:34:46.985977  
 Modified: 2016-07-20T12:10:21.234999
 
@@ -488,6 +967,7 @@ Modified: 2016-07-20T12:10:21.234999
 
 ### [Soldier Settlement Indexes](https://data.nsw.gov.au/data/dataset/78fe0108-2ae2-4918-b359-48a3bb1c31dd)
 
+Source: data.nsw.gov.au  
 Created: 2013-05-28T05:07:29.765962  
 Modified: 2019-10-31T03:35:58.068240
 
@@ -498,10 +978,29 @@ Modified: 2019-10-31T03:35:58.068240
 * [Returned Soldier Settlement Miscellaneous Files](https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/node/1511/browse) (website link)
 * [Returned Soldiers Settlement Loan Files](https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/node/1521/browse) (website link)
 
+## NSW Department of Education
+
+### [Historical information about NSW government schools (1848-2019)](https://data.gov.au/dataset/nsw-nsw-education-historical-information-of-nsw-government-schools)
+
+Source: data.gov.au  
+Created: 2025-06-24T00:41:52.557442  
+Modified: 2025-09-18T02:59:44.236071
+
+* [Historical information NSW government schools (1848-2019)](https://data.nsw.gov.au/data/dataset/41630896-10be-46da-98c3-ddbaefbbcbcd/resource/3e8f6c40-32d7-49fa-b81b-dda751e28c9a/download/history-of-government-schools-1848_2019-final.csv) (CSV)
+
+### [NSW Department of Education s170 Heritage and Conservation Register (2025)](https://data.gov.au/dataset/nsw-nsw-education-schools-with-heritage-listed-buildings-and-items)
+
+Source: data.gov.au  
+Created: 2025-06-24T05:20:46.460212  
+Modified: 2025-09-18T07:19:11.235708
+
+* [s170 Heritage Conservation Register 2025](https://data.nsw.gov.au/data/dataset/6dbeef7c-1abf-470a-9e5b-966f8cd4a2bb/resource/b8f8e88a-24a8-4331-a889-cdd380a5980e/download/doe-s170-heritage-conservation-register-25-may-2025.xlsx) (XLSX)
+
 ## National Archives of Australia
 
 ### [Commonwealth Agencies](https://data.gov.au/dataset/beaa25fc-0e22-4c17-afe1-8b3cb5cbcfcc)
 
+Source: data.gov.au  
 Created: 2013-05-12T11:26:21.392325  
 Modified: 2023-08-09T06:23:25.853164
 
@@ -510,6 +1009,7 @@ Modified: 2023-08-09T06:23:25.853164
 
 ### [Memory of a Nation dataset](https://data.gov.au/dataset/423d5a71-e957-4f18-b648-bf8680f2d780)
 
+Source: data.gov.au  
 Created: 2014-07-11T04:31:06.808586  
 Modified: 2023-08-11T10:10:13.612235
 
@@ -519,6 +1019,7 @@ Modified: 2023-08-11T10:10:13.612235
 
 ### [Journal of the H.M.S. Endeavour, 1768-1771](https://data.gov.au/dataset/7f03ac78-7210-4702-8cd5-f3e373f4097b)
 
+Source: data.gov.au  
 Created: 2013-05-12T09:50:02.783472  
 Modified: 2023-08-11T09:45:20.547665
 
@@ -526,6 +1027,7 @@ Modified: 2023-08-11T09:45:20.547665
 
 ### [National Library of Australia Sheet Music collection](https://data.gov.au/dataset/c53ab05a-03f8-4414-9f31-68359e8ebdac)
 
+Source: data.gov.au  
 Created: 2013-05-12T08:15:33.163142  
 Modified: 2023-08-11T10:34:23.729402
 
@@ -533,6 +1035,7 @@ Modified: 2023-08-11T10:34:23.729402
 
 ### [Picture Australia metadata](https://data.gov.au/dataset/86bb09b6-acc9-4666-b464-9cf3fe59080b)
 
+Source: data.gov.au  
 Created: 2013-05-12T09:30:42.974512  
 Modified: 2023-08-09T09:53:17.178039
 
@@ -540,6 +1043,7 @@ Modified: 2023-08-09T09:53:17.178039
 
 ### [Trove People and Organisations data](https://data.gov.au/dataset/b247e1c0-608d-495d-8583-8bc9de63c4ee)
 
+Source: data.gov.au  
 Created: 2013-05-12T10:23:23.269059  
 Modified: 2023-08-09T11:43:08.691010
 
@@ -550,16 +1054,45 @@ Modified: 2023-08-09T11:43:08.691010
 
 ### [Portraits and people](https://data.gov.au/dataset/a0acec3b-b034-4bf7-9ed9-1cb70c8559c8)
 
+Source: data.gov.au  
 Created: 2016-07-18T07:18:23.937739  
 Modified: 2023-08-09T09:56:07.324171
 
 * [Portraits and people](https://data.gov.au/data/dataset/a0acec3b-b034-4bf7-9ed9-1cb70c8559c8/resource/368da66e-f5e7-4fac-9022-d79244518919/download/portraitau-20160705.xml) (XML)
 * [About 'portraits & people' data](https://data.gov.au/data/dataset/a0acec3b-b034-4bf7-9ed9-1cb70c8559c8/resource/826345fe-c7a0-4dea-95db-e305eef0cb69/download/about-portraitspeople) (.txt)
 
+## Noosa Shire Council
+
+### [Noosa Heritage Sites](https://data.gov.au/dataset/noosa-heritage-sites)
+
+Source: data.gov.au  
+Created: 2015-11-24T02:21:24.018202  
+Modified: 2026-09-15T01:17:51.836663
+
+* [Noosa Heritage Sites Walk](https://data.gov.au/data/dataset/1128602a-0430-4786-832e-62933ce19326/resource/7ceb8bad-2b47-4eb1-bafd-961b4fc3b2e8/download/heritagesitescustomshape.zip) (ZIP)
+* [Noosa Heritage Sites walk](https://data.gov.au/data/dataset/1128602a-0430-4786-832e-62933ce19326/resource/46e1c8fc-4cb6-4214-a552-05bb34473e13/download/heritagesites.zip) (ZIP)
+* [Noosa Heritage Sites](https://data.gov.au/data/dataset/1128602a-0430-4786-832e-62933ce19326/resource/c8baee34-70e9-4780-b39e-977fb72b2d64/download/noosa-heritage-sites.kmz) (KMZ)
+* [Noosa Heritage Sites - Preview this Dataset (WMS)](https://data.gov.au/geoserver/noosa-heritage-sites/wms?request=GetCapabilities) (WMS)
+* [Noosa Heritage Sites Web Feature Service API Link](https://data.gov.au/geoserver/noosa-heritage-sites/wfs) (WFS)
+* [Noosa Heritage Sites GeoJSON](https://data.gov.au/geoserver/noosa-heritage-sites/wfs?request=GetFeature&typeName=ckan_1128602a_0430_4786_832e_62933ce19326&outputFormat=json) (GeoJSON)
+* [HeritageSites_custom_point.shp](https://data.gov.au/data/dataset/1128602a-0430-4786-832e-62933ce19326/resource/8b45bc83-8f14-402d-8a17-01658a10bdf4/download/heritagesites_custom_point.shp) (SHP)
+
+## Port Adelaide Enfield Council
+
+### [Local History Photo Collection - Port Adelaide Enfield](https://data.sa.gov.au/data/dataset/local-history-photo-collection)
+
+Source: data.sa.gov.au  
+Created: 2015-05-28T05:01:31.490322  
+Modified: 2020-02-19T00:29:16.779465
+
+* [Port Adelaide Enfield Local History Photos](https://www.flickr.com/photos/paelocalhistory/sets) (Mixed Formats)
+* [GeoJSON files of Historical Images](https://data.sa.gov.au/data/dataset/18cd3523-a1fc-4b21-b4a8-0f3f3e267a6c/resource/b383f560-3361-4967-af31-5c83338a39a8/download/paehistoricalphotos.zip) (ZIP)
+
 ## Public Records Office Victoria
 
 ### [Approved Public Record Office Victoria Storage Suppliers (APROSS)20-21](https://discover.data.vic.gov.au/dataset/c7ca97bd-c09a-4e1b-b48a-821d99105b69)
 
+Source: data.vic.gov.au  
 Created: 2025-05-22T23:40:49.117088  
 Modified: 2025-05-22T23:40:56.565363
 
@@ -567,6 +1100,7 @@ Modified: 2025-05-22T23:40:56.565363
 
 ### [British Assisted Passengers to Victoria 1839-1871](https://discover.data.vic.gov.au/dataset/1bcc6d77-d223-4a26-83c2-2f8b6325af50)
 
+Source: data.vic.gov.au  
 Created: 2014-08-01T05:02:39.395392  
 Modified: 2024-12-17T00:26:51.467277
 
@@ -574,6 +1108,7 @@ Modified: 2024-12-17T00:26:51.467277
 
 ### [Outwards Passengers from Victoria 1852-1915](https://discover.data.vic.gov.au/dataset/9ae281eb-d3f5-4738-98ef-44976e980eb5)
 
+Source: data.vic.gov.au  
 Created: 2014-08-01T05:02:55.815527  
 Modified: 2024-12-17T00:22:28.455886
 
@@ -581,6 +1116,7 @@ Modified: 2024-12-17T00:22:28.455886
 
 ### [PROV 2022-23 Annual Statistics](https://discover.data.vic.gov.au/dataset/87d99540-b755-4e31-954f-73923edb0f44)
 
+Source: data.vic.gov.au  
 Created: 2025-07-22T00:31:25.296742  
 Modified: 2025-07-22T00:31:27.531398
 
@@ -588,6 +1124,7 @@ Modified: 2025-07-22T00:31:27.531398
 
 ### [PROV Alphabetical Places of Deposit listing](https://discover.data.vic.gov.au/dataset/2585e7bd-45d0-4162-bcf3-227e0f924d83)
 
+Source: data.vic.gov.au  
 Created: 2019-08-29T06:48:48.400611  
 Modified: 2024-06-13T13:05:04.684176
 
@@ -595,6 +1132,7 @@ Modified: 2024-06-13T13:05:04.684176
 
 ### [PROV Annual Report - Workforce data 2015-2016](https://discover.data.vic.gov.au/dataset/b5ec011f-85ac-4078-ab62-10a1d8fbbc2c)
 
+Source: data.vic.gov.au  
 Created: 2025-05-22T22:46:12.276027  
 Modified: 2025-05-22T22:46:18.497802
 
@@ -602,6 +1140,7 @@ Modified: 2025-05-22T22:46:18.497802
 
 ### [PROV Annual Report Measures 21-22](https://discover.data.vic.gov.au/dataset/793cab54-495c-421b-a418-7589594a8ec9)
 
+Source: data.vic.gov.au  
 Created: 2025-05-22T23:04:56.947194  
 Modified: 2025-05-22T23:04:59.018476
 
@@ -609,6 +1148,7 @@ Modified: 2025-05-22T23:04:59.018476
 
 ### [PROV Approved Public Record Office Victoria Storage Suppliers (APROSS) 19_20](https://discover.data.vic.gov.au/dataset/0a06174a-6a9e-4d8c-854f-a41320a46dcf)
 
+Source: data.vic.gov.au  
 Created: 2025-05-22T23:43:24.821747  
 Modified: 2025-05-22T23:43:24.821754
 
@@ -616,6 +1156,7 @@ Modified: 2025-05-22T23:43:24.821754
 
 ### [PROV Financial Statement 2022-23](https://discover.data.vic.gov.au/dataset/b963e7da-1ecf-4518-acc2-418d831f826e)
 
+Source: data.vic.gov.au  
 Created: 2025-07-22T02:45:13.140067  
 Modified: 2025-07-22T02:45:15.416714
 
@@ -623,6 +1164,7 @@ Modified: 2025-07-22T02:45:15.416714
 
 ### [PROV Financial statement](https://discover.data.vic.gov.au/dataset/964729aa-23b0-4c4e-af37-2f07c3a2ed98)
 
+Source: data.vic.gov.au  
 Created: 2015-11-25T04:22:08.225128  
 Modified: 2024-12-16T22:42:48.859274
 
@@ -630,6 +1172,7 @@ Modified: 2024-12-16T22:42:48.859274
 
 ### [PROV Historic Plans Collection 1836-1984](https://discover.data.vic.gov.au/dataset/2f202419-058f-4c6f-a29e-b306f1a789cc)
 
+Source: data.vic.gov.au  
 Created: 2025-07-22T02:42:46.183155  
 Modified: 2025-07-22T02:42:47.864267
 
@@ -637,6 +1180,7 @@ Modified: 2025-07-22T02:42:47.864267
 
 ### [PROV Index to Wills, Probate and Administration Records 1841-2009](https://discover.data.vic.gov.au/dataset/d2396144-d5fa-4c0c-9ff3-64fee31b82c0)
 
+Source: data.vic.gov.au  
 Created: 2014-12-22T15:31:47.407541  
 Modified: 2024-06-13T05:45:52.945860
 
@@ -644,6 +1188,7 @@ Modified: 2024-06-13T05:45:52.945860
 
 ### [PROV MapWarper Annotations 21-22](https://discover.data.vic.gov.au/dataset/3eeac47b-6318-4cc7-984d-f30fec633799)
 
+Source: data.vic.gov.au  
 Created: 2025-07-22T02:41:29.284303  
 Modified: 2025-07-22T02:41:31.847948
 
@@ -651,6 +1196,7 @@ Modified: 2025-07-22T02:41:31.847948
 
 ### [PROV Output Measures 2017–18](https://discover.data.vic.gov.au/dataset/4e43ddb9-13dd-4889-8753-7b08684a0c4f)
 
+Source: data.vic.gov.au  
 Created: 2019-05-15T16:39:32.199767  
 Modified: 2024-06-13T06:47:03.606991
 
@@ -658,6 +1204,7 @@ Modified: 2024-06-13T06:47:03.606991
 
 ### [PROV Policies issued in 2014 - 2015](https://discover.data.vic.gov.au/dataset/c10aa5e0-5e57-470c-9621-d184a1860346)
 
+Source: data.vic.gov.au  
 Created: 2015-11-25T23:55:33.612775  
 Modified: 2024-12-18T11:40:27.897611
 
@@ -665,6 +1212,7 @@ Modified: 2024-12-18T11:40:27.897611
 
 ### [PROV Reading Room Visitors](https://discover.data.vic.gov.au/dataset/0e607ac4-2a01-4b26-8bb6-fe78b2119e42)
 
+Source: data.vic.gov.au  
 Created: 2014-12-23T16:31:57.871325  
 Modified: 2024-12-16T22:52:37.427290
 
@@ -672,6 +1220,7 @@ Modified: 2024-12-16T22:52:37.427290
 
 ### [PROV Reading Room and Record Retrievals 22-23](https://discover.data.vic.gov.au/dataset/ab34c679-9e52-4731-8103-73ed8fea868a)
 
+Source: data.vic.gov.au  
 Created: 2024-07-09T00:25:48.956324  
 Modified: 2024-12-16T23:05:13.028611
 
@@ -679,6 +1228,7 @@ Modified: 2024-12-16T23:05:13.028611
 
 ### [PROV Recordkeeping Standards Framework Documents Issued  21-22](https://discover.data.vic.gov.au/dataset/de82906c-54f6-4797-a824-a904b1199d8b)
 
+Source: data.vic.gov.au  
 Created: 2024-07-09T00:22:41.124146  
 Modified: 2024-07-09T01:39:59.836633
 
@@ -686,6 +1236,7 @@ Modified: 2024-07-09T01:39:59.836633
 
 ### [PROV Recordkeeping Standards Framework Documents Issued 2022–23](https://discover.data.vic.gov.au/dataset/4928ddf7-038d-4cd6-b266-6c31fc02f3db)
 
+Source: data.vic.gov.au  
 Created: 2025-07-22T00:35:57.939201  
 Modified: 2025-07-22T00:36:05.909313
 
@@ -693,6 +1244,7 @@ Modified: 2025-07-22T00:36:05.909313
 
 ### [PROV Records Issued & Visitor Statistics 2014 - 2015](https://discover.data.vic.gov.au/dataset/bfda89f6-a8ee-4cbe-828a-aebc0ec6aeb7)
 
+Source: data.vic.gov.au  
 Created: 2015-11-25T04:21:45.656819  
 Modified: 2024-12-16T22:56:46.151335
 
@@ -700,6 +1252,7 @@ Modified: 2024-12-16T22:56:46.151335
 
 ### [PROV Records Issued & Visitor Statistics 2022-2023](https://discover.data.vic.gov.au/dataset/a63cfff9-625c-49fd-a750-68f48ad74f12)
 
+Source: data.vic.gov.au  
 Created: 2025-07-22T00:38:10.252743  
 Modified: 2025-07-22T00:38:12.216372
 
@@ -707,6 +1260,7 @@ Modified: 2025-07-22T00:38:12.216372
 
 ### [PROV Retention and Disposal Authority (RDA) Documents Issued or Varied 2022-23](https://discover.data.vic.gov.au/dataset/f798413c-71e6-462a-9418-016cbe3ef104)
 
+Source: data.vic.gov.au  
 Created: 2025-07-22T00:37:36.018149  
 Modified: 2025-07-22T00:37:38.441603
 
@@ -714,6 +1268,7 @@ Modified: 2025-07-22T00:37:38.441603
 
 ### [PROV Victorian Community History Award winners 2022-23](https://discover.data.vic.gov.au/dataset/7b5b4a26-4968-464f-aa68-5647efc9d7c6)
 
+Source: data.vic.gov.au  
 Created: 2024-07-09T00:30:11.017894  
 Modified: 2024-12-16T22:43:11.733324
 
@@ -721,6 +1276,7 @@ Modified: 2024-12-16T22:43:11.733324
 
 ### [PROV Victorian Government Agencies and Collections metadata](https://discover.data.vic.gov.au/dataset/78c5dfbc-3f92-45a7-86f7-2c44b3d760cf)
 
+Source: data.vic.gov.au  
 Created: 2014-12-22T15:32:52.262244  
 Modified: 2024-06-13T05:46:51.796868
 
@@ -728,6 +1284,7 @@ Modified: 2024-06-13T05:46:51.796868
 
 ### [PROV Workforce Data 21-22](https://discover.data.vic.gov.au/dataset/d75b0fe1-c7ba-426f-96fb-09cfe70ea354)
 
+Source: data.vic.gov.au  
 Created: 2024-07-09T00:20:53.214731  
 Modified: 2024-12-16T23:07:28.333653
 
@@ -735,6 +1292,7 @@ Modified: 2024-12-16T23:07:28.333653
 
 ### [Public Records Office Victoria Workforce](https://discover.data.vic.gov.au/dataset/83f30518-7b04-45de-b054-f9a2f869f429)
 
+Source: data.vic.gov.au  
 Created: 2015-11-25T04:22:30.520891  
 Modified: 2024-12-17T00:09:03.621337
 
@@ -742,6 +1300,7 @@ Modified: 2024-12-17T00:09:03.621337
 
 ### [Reading Room and Record Retrievals 20-21](https://discover.data.vic.gov.au/dataset/b32637ea-a62f-41ef-80c0-30214052d2d2)
 
+Source: data.vic.gov.au  
 Created: 2021-11-23T05:09:13.935619  
 Modified: 2024-12-16T22:44:42.732175
 
@@ -749,6 +1308,7 @@ Modified: 2024-12-16T22:44:42.732175
 
 ### [Records transferred to PROV custody](https://discover.data.vic.gov.au/dataset/d0e6af8f-5949-4af8-99ed-3929fadecc5d)
 
+Source: data.vic.gov.au  
 Created: 2014-12-22T15:31:07.647124  
 Modified: 2024-06-13T05:47:18.664606
 
@@ -756,6 +1316,7 @@ Modified: 2024-06-13T05:47:18.664606
 
 ### [Unassisted Inward Passengers 1852-1923](https://discover.data.vic.gov.au/dataset/2d04bd6b-7e4b-46c3-8d0a-56926e5dda50)
 
+Source: data.vic.gov.au  
 Created: 2025-07-22T00:42:10.518018  
 Modified: 2025-07-22T00:42:10.518026
 
@@ -765,6 +1326,7 @@ Modified: 2025-07-22T00:42:10.518026
 
 ### [$10k Contracts Queensland Museum December 2025](https://data.qld.gov.au/dataset/8904381f-5c88-4db6-bac9-6ff669ded473)
 
+Source: data.qld.gov.au  
 Created: 2026-01-28T02:47:31.837742  
 Modified: 2026-01-28T02:48:49.052486
 
@@ -772,6 +1334,7 @@ Modified: 2026-01-28T02:48:49.052486
 
 ### [$10k Contracts Queensland Museum February to August 2025](https://data.qld.gov.au/dataset/2a29a979-5f6d-4900-91e2-b92839f11be8)
 
+Source: data.qld.gov.au  
 Created: 2025-09-22T00:28:02.169869  
 Modified: 2025-09-22T00:35:43.543601
 
@@ -779,6 +1342,7 @@ Modified: 2025-09-22T00:35:43.543601
 
 ### [$10k Contracts Queensland Museum January 2026](https://data.qld.gov.au/dataset/fea68518-f3b6-449c-b22d-55235cf19129)
 
+Source: data.qld.gov.au  
 Created: 2026-03-16T01:13:32.855460  
 Modified: 2026-03-16T01:14:54.243806
 
@@ -786,6 +1350,7 @@ Modified: 2026-03-16T01:14:54.243806
 
 ### [$10k Contracts Queensland Museum November 2025](https://data.qld.gov.au/dataset/69d7cd74-7173-4bfa-b90d-3039d2d97f40)
 
+Source: data.qld.gov.au  
 Created: 2025-12-17T05:58:20.141653  
 Modified: 2025-12-17T06:00:06.964537
 
@@ -793,6 +1358,7 @@ Modified: 2025-12-17T06:00:06.964537
 
 ### [$10k Contracts Queensland Museum October 2025](https://data.qld.gov.au/dataset/ef2c3814-6328-47ee-b76f-52167c069f3e)
 
+Source: data.qld.gov.au  
 Created: 2025-11-26T00:33:26.562869  
 Modified: 2025-11-26T00:44:57.800623
 
@@ -800,6 +1366,7 @@ Modified: 2025-11-26T00:44:57.800623
 
 ### [$10k Contracts Queensland Museum September 2025](https://data.qld.gov.au/dataset/bbffbab0-b8da-4568-80e8-c31d096c70ba)
 
+Source: data.qld.gov.au  
 Created: 2025-10-14T07:00:42.705992  
 Modified: 2025-10-14T07:06:02.101522
 
@@ -807,6 +1374,7 @@ Modified: 2025-10-14T07:06:02.101522
 
 ### [3D model of the dinosaur skeleton of Minmi sp.](https://data.qld.gov.au/dataset/4b63fe30-b774-4832-b195-8026b7146176)
 
+Source: data.qld.gov.au  
 Created: 2014-07-09T00:46:08.789190  
 Modified: 2026-03-27T01:31:37.653123
 
@@ -820,6 +1388,7 @@ Modified: 2026-03-27T01:31:37.653123
 
 ### [3D model of the fish skeleton of Percalates antiquus](https://data.qld.gov.au/dataset/444c068b-4925-4a36-9d4f-bb56b820db29)
 
+Source: data.qld.gov.au  
 Created: 2014-07-09T23:37:41.604672  
 Modified: 2026-03-27T01:31:53.358103
 
@@ -833,6 +1402,7 @@ Modified: 2026-03-27T01:31:53.358103
 
 ### [3D model of the mandible of Sarcophilus laniarius](https://data.qld.gov.au/dataset/da34ffc8-b31e-4467-b4e3-0071790158ea)
 
+Source: data.qld.gov.au  
 Created: 2014-07-10T00:02:47.607586  
 Modified: 2026-03-27T01:32:07.599873
 
@@ -846,6 +1416,7 @@ Modified: 2026-03-27T01:32:07.599873
 
 ### [Board of Queensland Museum  Annual Report 2020-21 Data - Overseas Travel](https://data.qld.gov.au/dataset/7571da7b-7722-4a34-b690-2f700649a5aa)
 
+Source: data.qld.gov.au  
 Created: 2021-10-05T06:20:36.450955  
 Modified: 2026-03-27T01:26:35.800353
 
@@ -853,6 +1424,7 @@ Modified: 2026-03-27T01:26:35.800353
 
 ### [Board of Queensland Museum Annual Report 2022-23 Data – Overseas Travel](https://data.qld.gov.au/dataset/53bcf1c1-8269-402b-bd6e-3189e405919c)
 
+Source: data.qld.gov.au  
 Created: 2024-07-16T01:58:57.029720  
 Modified: 2024-07-16T03:50:14.543298
 
@@ -860,6 +1432,7 @@ Modified: 2024-07-16T03:50:14.543298
 
 ### [Board of Queensland Museum Annual Report Data Consultancies](https://data.qld.gov.au/dataset/b08789de-ac3c-4912-9280-ef0e6eabbd3e)
 
+Source: data.qld.gov.au  
 Created: 2021-10-05T06:07:01.697544  
 Modified: 2026-03-27T01:26:48.969624
 
@@ -867,6 +1440,7 @@ Modified: 2026-03-27T01:26:48.969624
 
 ### [Board of the Queensland Museum Annual Report - Consultancies 2016-2017](https://data.qld.gov.au/dataset/58cef66f-2e4b-4283-8511-ded8d28fd9aa)
 
+Source: data.qld.gov.au  
 Created: 2018-10-23T02:46:33.941097  
 Modified: 2026-03-27T01:34:20.486783
 
@@ -874,6 +1448,7 @@ Modified: 2026-03-27T01:34:20.486783
 
 ### [Board of the Queensland Museum Annual Report - Consultancies 2017-2018](https://data.qld.gov.au/dataset/58a58e7c-51ed-4477-9549-e29153ba0b96)
 
+Source: data.qld.gov.au  
 Created: 2018-10-12T06:24:02.188222  
 Modified: 2026-03-27T01:34:07.333911
 
@@ -881,6 +1456,7 @@ Modified: 2026-03-27T01:34:07.333911
 
 ### [Board of the Queensland Museum Annual Report - Consultancies 2019-2020](https://data.qld.gov.au/dataset/135a8ed3-ea45-4906-b7b4-889d1a1a657c)
 
+Source: data.qld.gov.au  
 Created: 2020-09-30T04:20:57.940458  
 Modified: 2023-03-13T06:11:34.212454
 
@@ -888,6 +1464,7 @@ Modified: 2023-03-13T06:11:34.212454
 
 ### [Board of the Queensland Museum Annual Report - Overseas Travel 2016-2017](https://data.qld.gov.au/dataset/b3248d33-5118-464b-9e06-dc291934bfc2)
 
+Source: data.qld.gov.au  
 Created: 2018-10-23T02:51:51.574782  
 Modified: 2023-03-13T06:11:45.930218
 
@@ -895,6 +1472,7 @@ Modified: 2023-03-13T06:11:45.930218
 
 ### [Board of the Queensland Museum Annual Report - Overseas Travel 2017-2018](https://data.qld.gov.au/dataset/947d2ae4-5497-453d-b528-b57e742d3242)
 
+Source: data.qld.gov.au  
 Created: 2018-10-12T06:28:44.035627  
 Modified: 2026-03-27T01:34:37.811410
 
@@ -902,6 +1480,7 @@ Modified: 2026-03-27T01:34:37.811410
 
 ### [Board of the Queensland Museum Annual Report - Overseas Travel 2019-2020](https://data.qld.gov.au/dataset/d94f760b-b1c9-4fd6-b7de-ab3c68be5485)
 
+Source: data.qld.gov.au  
 Created: 2020-09-30T04:54:22.172465  
 Modified: 2023-03-13T06:11:57.173917
 
@@ -909,6 +1488,7 @@ Modified: 2023-03-13T06:11:57.173917
 
 ### [Board of the Queensland Museum Annual Report 2022-23 Data - Consultancies](https://data.qld.gov.au/dataset/5a7efd6d-8ce1-494d-8025-a359808a95dd)
 
+Source: data.qld.gov.au  
 Created: 2024-07-16T02:05:29.731623  
 Modified: 2024-07-16T03:52:37.417674
 
@@ -916,6 +1496,7 @@ Modified: 2024-07-16T03:52:37.417674
 
 ### [Contracts over $10k Qld Museum July 2024 to January 2025](https://data.qld.gov.au/dataset/72acd927-aea1-427e-afe7-8a1cd003d040)
 
+Source: data.qld.gov.au  
 Created: 2025-02-25T03:09:09.188285  
 Modified: 2025-02-25T03:11:22.855224
 
@@ -923,6 +1504,7 @@ Modified: 2025-02-25T03:11:22.855224
 
 ### [Printable 3D model of a Muttaburrasaurus skull](https://data.qld.gov.au/dataset/a0c42251-ce88-48a2-b8f9-a940c88521fe)
 
+Source: data.qld.gov.au  
 Created: 2016-07-28T05:01:08.866363  
 Modified: 2026-03-27T01:34:50.555165
 
@@ -930,6 +1512,7 @@ Modified: 2026-03-27T01:34:50.555165
 
 ### [Printable 3D model of a block of Ammonite](https://data.qld.gov.au/dataset/f8b174d5-48a3-4867-b34f-1bf2e62f6ce6)
 
+Source: data.qld.gov.au  
 Created: 2016-07-28T04:16:37.988385  
 Modified: 2026-03-27T01:32:33.562448
 
@@ -938,6 +1521,7 @@ Modified: 2026-03-27T01:32:33.562448
 
 ### [Printable 3D model of an Ammonite](https://data.qld.gov.au/dataset/755b51fb-22f3-4f74-9652-2ad943dce747)
 
+Source: data.qld.gov.au  
 Created: 2016-07-28T04:40:16.614711  
 Modified: 2026-03-27T01:32:46.869993
 
@@ -946,13 +1530,24 @@ Modified: 2026-03-27T01:32:46.869993
 
 ### [Printable 3D model of an Ichthyosaur paddle](https://data.qld.gov.au/dataset/9b7382a5-3589-424b-8351-153946c2576c)
 
+Source: data.qld.gov.au  
 Created: 2016-07-28T04:53:24.933290  
 Modified: 2026-03-27T01:35:02.873618
 
 * [Printable 3D model of an Ichthyosaur paddle - OBJ file](http://www.qm.qld.gov.au/microsites/data/3d-models/Ichthyosaur-Paddle/Ichthyosaur_Paddle.obj) (OBJ)
 
+### [Queensland Museum Contract Disclosure](https://data.qld.gov.au/dataset/1e494c75-89f6-4f45-acc0-f70bdd1e1590)
+
+Source: data.qld.gov.au  
+Created: 2026-05-08T01:25:24.781213  
+Modified: 2026-09-03T22:23:15.720367
+
+* [Queensland Museum Contract Disclosure 2025-26](https://www.data.qld.gov.au/dataset/1e494c75-89f6-4f45-acc0-f70bdd1e1590/resource/b376de9a-bdd1-4630-a9cf-f471e582ec3a/download/queensland-museum-contract-disclosure-2025-26.csv) (CSV)
+* [Queensland Museum Contract Disclosure 2026-27.csv](https://www.data.qld.gov.au/dataset/1e494c75-89f6-4f45-acc0-f70bdd1e1590/resource/6dead1af-d509-410f-8c34-72362c022a97/download/queensland-museum-contract-disclosure-2026-27.csv) (CSV)
+
 ### [Queensland Museum collection of amphibians and reptiles](https://data.qld.gov.au/dataset/42ced2fa-73fb-4eb1-a24d-64cb241de9a5)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T22:36:38.813763  
 Modified: 2026-03-27T01:33:51.844236
 
@@ -960,6 +1555,7 @@ Modified: 2026-03-27T01:33:51.844236
 
 ### [Queensland Museum collection of arachnid specimens](https://data.qld.gov.au/dataset/640a5401-eeaf-43b8-b95f-986aada54327)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T22:44:14.425584  
 Modified: 2026-03-27T01:27:28.128363
 
@@ -967,6 +1563,7 @@ Modified: 2026-03-27T01:27:28.128363
 
 ### [Queensland Museum collection of bird specimens](https://data.qld.gov.au/dataset/28bc722a-270c-4575-8d23-6cf3f06dec1f)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T22:46:12.580451  
 Modified: 2026-03-27T01:27:40.679517
 
@@ -974,6 +1571,7 @@ Modified: 2026-03-27T01:27:40.679517
 
 ### [Queensland Museum collection of coral specimens](https://data.qld.gov.au/dataset/2e3d04f7-213c-4833-a1c9-9a4cf3b16865)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T22:58:48.728592  
 Modified: 2026-03-27T01:28:00.416389
 
@@ -981,6 +1579,7 @@ Modified: 2026-03-27T01:28:00.416389
 
 ### [Queensland Museum collection of crustacean specimens](https://data.qld.gov.au/dataset/3276586f-2db0-4a4e-aa69-e623b7e8ecb1)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T23:00:09.810287  
 Modified: 2026-03-27T01:28:16.141076
 
@@ -988,6 +1587,7 @@ Modified: 2026-03-27T01:28:16.141076
 
 ### [Queensland Museum collection of entomology specimens](https://data.qld.gov.au/dataset/10d28f0b-4dc7-43d2-8b17-8c1089ec4515)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T23:01:35.439275  
 Modified: 2026-03-27T01:28:47.467965
 
@@ -995,6 +1595,7 @@ Modified: 2026-03-27T01:28:47.467965
 
 ### [Queensland Museum collection of ethnographic objects](https://data.qld.gov.au/dataset/3abd76c0-8861-45af-9c51-967d7d5c66a5)
 
+Source: data.qld.gov.au  
 Created: 2014-06-25T05:06:33.560592  
 Modified: 2026-03-27T01:25:17.715509
 
@@ -1002,6 +1603,7 @@ Modified: 2026-03-27T01:25:17.715509
 
 ### [Queensland Museum collection of fish specimens](https://data.qld.gov.au/dataset/79b833bd-05d0-4697-89d8-423d83a819a9)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T23:03:21.761994  
 Modified: 2026-03-27T01:28:30.904839
 
@@ -1009,6 +1611,7 @@ Modified: 2026-03-27T01:28:30.904839
 
 ### [Queensland Museum collection of historical objects](https://data.qld.gov.au/dataset/bef12bdd-27de-4a74-bb84-ab18797a922e)
 
+Source: data.qld.gov.au  
 Created: 2014-06-25T05:09:11.124505  
 Modified: 2026-03-27T01:30:00.914546
 
@@ -1016,6 +1619,7 @@ Modified: 2026-03-27T01:30:00.914546
 
 ### [Queensland Museum collection of mammal specimens](https://data.qld.gov.au/dataset/4e62d6ff-628e-45d8-b889-68171ec6c30d)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T23:08:18.685885  
 Modified: 2026-03-27T01:29:00.607557
 
@@ -1023,6 +1627,7 @@ Modified: 2026-03-27T01:29:00.607557
 
 ### [Queensland Museum collection of mollusc specimens](https://data.qld.gov.au/dataset/e1e72632-985e-4509-99f6-8a27bd837e0e)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T23:13:21.911525  
 Modified: 2026-03-27T01:29:17.134377
 
@@ -1030,6 +1635,7 @@ Modified: 2026-03-27T01:29:17.134377
 
 ### [Queensland Museum collection of palaeontology specimens](https://data.qld.gov.au/dataset/4d4d7a14-7c40-4172-b93a-6e0d9b678d1d)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T23:16:11.099352  
 Modified: 2026-03-27T01:30:15.349661
 
@@ -1037,6 +1643,7 @@ Modified: 2026-03-27T01:30:15.349661
 
 ### [Queensland Museum collection of porifera specimens](https://data.qld.gov.au/dataset/fe0fb033-bc55-4c3a-8dde-084ae303c02f)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T23:17:33.156389  
 Modified: 2026-03-27T01:29:32.152212
 
@@ -1044,6 +1651,7 @@ Modified: 2026-03-27T01:29:32.152212
 
 ### [Queensland Museum collection of protozoan specimens](https://data.qld.gov.au/dataset/4f1071f2-f4fa-4918-b829-33b9fd586837)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T23:18:45.102073  
 Modified: 2026-03-27T01:29:46.310553
 
@@ -1051,6 +1659,7 @@ Modified: 2026-03-27T01:29:46.310553
 
 ### [Queensland Museum collection of specimens of other invertebrates](https://data.qld.gov.au/dataset/3efc094b-a1e3-4ca9-8f02-f5ce8ee0bd07)
 
+Source: data.qld.gov.au  
 Created: 2014-02-18T23:14:39.826733  
 Modified: 2026-03-27T01:27:14.560857
 
@@ -1058,6 +1667,7 @@ Modified: 2026-03-27T01:27:14.560857
 
 ### [Queensland Museum customer complaints—financial year](https://data.qld.gov.au/dataset/8f16e4fc-d863-491b-81e3-23701b73fa2d)
 
+Source: data.qld.gov.au  
 Created: 2020-08-03T23:09:23.411645  
 Modified: 2026-03-27T01:33:31.505000
 
@@ -1067,6 +1677,7 @@ Modified: 2026-03-27T01:33:31.505000
 
 ### [Aboriginal War Census Returns 1915-1916](https://data.qld.gov.au/dataset/74824ca8-2ba5-40d2-a7a0-f4d2f69e3dff)
 
+Source: data.qld.gov.au  
 Created: 2015-07-08T05:49:50.724123  
 Modified: 2026-03-05T06:54:01.485049
 
@@ -1074,6 +1685,7 @@ Modified: 2026-03-05T06:54:01.485049
 
 ### [Applications by Selectors 1868-1885](https://data.qld.gov.au/dataset/c56272b9-9159-4f84-8a4a-2eaabd5c7923)
 
+Source: data.qld.gov.au  
 Created: 2020-06-23T23:32:50.890198  
 Modified: 2023-10-03T03:52:25.693061
 
@@ -1081,6 +1693,7 @@ Modified: 2023-10-03T03:52:25.693061
 
 ### [Army Reservist payments 1909 to 1920](https://data.qld.gov.au/dataset/696f4c13-a846-4cf7-8765-a1fdc471f77c)
 
+Source: data.qld.gov.au  
 Created: 2016-08-16T23:27:57.390724  
 Modified: 2023-10-03T03:53:12.338625
 
@@ -1088,6 +1701,7 @@ Modified: 2023-10-03T03:53:12.338625
 
 ### [Assistant Immigration Agent Maryborough 1875 to 1884](https://data.qld.gov.au/dataset/7ccf8996-505a-43e3-aca8-437d9a7461f0)
 
+Source: data.qld.gov.au  
 Created: 2013-06-26T01:31:50.029453  
 Modified: 2023-10-03T03:53:49.670233
 
@@ -1096,6 +1710,7 @@ Modified: 2023-10-03T03:53:49.670233
 
 ### [Assisted immigration 1848 to 1912](https://data.qld.gov.au/dataset/ba182873-e8a7-45e1-b0e7-e0b6671fa1a9)
 
+Source: data.qld.gov.au  
 Created: 2013-03-04T06:34:34.270023  
 Modified: 2025-10-19T22:38:29.781437
 
@@ -1127,6 +1742,7 @@ Modified: 2025-10-19T22:38:29.781437
 
 ### [Australian South Sea Islanders 1867 to 1948](https://data.qld.gov.au/dataset/eae0afa9-681c-4bda-b335-fa0c53ddec96)
 
+Source: data.qld.gov.au  
 Created: 2014-06-25T04:29:57.438596  
 Modified: 2024-09-02T00:34:37.637860
 
@@ -1138,6 +1754,7 @@ Modified: 2024-09-02T00:34:37.637860
 
 ### [Beaudesert Shire Burials - Logan Village 1878-2000](https://data.qld.gov.au/dataset/ef941e0c-5914-4ba1-865f-bb8596e2b20c)
 
+Source: data.qld.gov.au  
 Created: 2020-06-24T03:36:33.551558  
 Modified: 2023-10-04T04:27:27.768199
 
@@ -1145,6 +1762,7 @@ Modified: 2023-10-04T04:27:27.768199
 
 ### [Book of Trials 1835-1842](https://data.qld.gov.au/dataset/4ecf80d4-56cc-48bd-be27-d2938cd19ff6)
 
+Source: data.qld.gov.au  
 Created: 2024-01-08T01:24:25.792436  
 Modified: 2024-07-12T05:13:19.609333
 
@@ -1152,6 +1770,7 @@ Modified: 2024-07-12T05:13:19.609333
 
 ### [Brisbane Gaol Hospital Admission registers 1889-1911](https://data.qld.gov.au/dataset/b6533ad0-f099-4363-ab3e-69b10e4fe62f)
 
+Source: data.qld.gov.au  
 Created: 2020-06-24T02:21:15.930949  
 Modified: 2023-10-04T04:27:51.741271
 
@@ -1159,6 +1778,7 @@ Modified: 2023-10-04T04:27:51.741271
 
 ### [Brisbane Gaol Prisoners 1850-1901](https://data.qld.gov.au/dataset/48b20ec4-7339-49c7-92eb-4cedc3686c7d)
 
+Source: data.qld.gov.au  
 Created: 2022-08-30T04:50:15.554342  
 Modified: 2024-10-18T04:58:55.453845
 
@@ -1166,6 +1786,7 @@ Modified: 2024-10-18T04:58:55.453845
 
 ### [Brisbane Hospital admissions 1872 to 1887](https://data.qld.gov.au/dataset/9ce049c6-e8b7-46f9-b859-7cfd427ac7fd)
 
+Source: data.qld.gov.au  
 Created: 2014-09-29T03:52:24.374120  
 Modified: 2023-10-04T04:28:39.606510
 
@@ -1173,6 +1794,7 @@ Modified: 2023-10-04T04:28:39.606510
 
 ### [Brisbane Hospital registers of deaths 1899 to 1913](https://data.qld.gov.au/dataset/34ff0384-e09a-4ba0-8ea4-f54534e1aace)
 
+Source: data.qld.gov.au  
 Created: 2014-09-29T04:04:36.141508  
 Modified: 2025-07-14T03:35:31.393399
 
@@ -1181,6 +1803,7 @@ Modified: 2025-07-14T03:35:31.393399
 
 ### [Brisbane Hospital registers of deaths 1933 to 1963](https://data.qld.gov.au/dataset/4f55671b-af6d-48e6-9510-4c73524dd3a7)
 
+Source: data.qld.gov.au  
 Created: 2014-09-29T04:14:30.937125  
 Modified: 2023-10-04T04:29:30.443081
 
@@ -1189,6 +1812,7 @@ Modified: 2023-10-04T04:29:30.443081
 
 ### [Brisbane Passenger Arrivals 1913-1915](https://data.qld.gov.au/dataset/f29969ee-6a1c-431e-8121-34e433f7b0bb)
 
+Source: data.qld.gov.au  
 Created: 2023-11-14T00:56:58.854770  
 Modified: 2026-04-07T23:30:02.036931
 
@@ -1196,6 +1820,7 @@ Modified: 2026-04-07T23:30:02.036931
 
 ### [Cabinet Minutes](https://data.qld.gov.au/dataset/8cfc4428-9c77-400c-9a9e-0225254411a5)
 
+Source: data.qld.gov.au  
 Created: 2017-06-29T03:47:22.564346  
 Modified: 2023-10-04T04:30:08.718007
 
@@ -1210,6 +1835,7 @@ Modified: 2023-10-04T04:30:08.718007
 
 ### [Cases & treatment Moreton Bay Hospital 1830-1862](https://data.qld.gov.au/dataset/163c7561-e6ca-4f81-8cab-9635d722909e)
 
+Source: data.qld.gov.au  
 Created: 2020-06-28T23:43:51.814188  
 Modified: 2024-08-30T01:32:55.029596
 
@@ -1217,6 +1843,7 @@ Modified: 2024-08-30T01:32:55.029596
 
 ### [Civil servants 1851 to 1867](https://data.qld.gov.au/dataset/c2201299-0277-46c5-9589-374bf6bcc38f)
 
+Source: data.qld.gov.au  
 Created: 2014-06-24T01:12:19.509146  
 Modified: 2023-10-04T04:36:09.273023
 
@@ -1224,6 +1851,7 @@ Modified: 2023-10-04T04:36:09.273023
 
 ### [Colonial Secretary's Office Correspondence 1859-1861](https://data.qld.gov.au/dataset/982569e3-2be7-4ea4-aa58-3093e854b541)
 
+Source: data.qld.gov.au  
 Created: 2018-12-17T05:09:43.591565  
 Modified: 2024-07-04T04:27:42.882771
 
@@ -1231,6 +1859,7 @@ Modified: 2024-07-04T04:27:42.882771
 
 ### [Coloured and asiatic aliens in Queensland 1913](https://data.qld.gov.au/dataset/614cfd9c-3240-4f38-ac94-d2718143430f)
 
+Source: data.qld.gov.au  
 Created: 2014-06-24T03:26:06.579166  
 Modified: 2023-10-04T04:37:55.075873
 
@@ -1238,6 +1867,7 @@ Modified: 2023-10-04T04:37:55.075873
 
 ### [Companies 1863 to 1959](https://data.qld.gov.au/dataset/cf3fb933-34a2-4200-9c6e-c806bbc58a1f)
 
+Source: data.qld.gov.au  
 Created: 2014-06-26T00:35:29.142514  
 Modified: 2023-10-04T04:38:19.160935
 
@@ -1245,6 +1875,7 @@ Modified: 2023-10-04T04:38:19.160935
 
 ### [Consumptive patients 1897 to 1903](https://data.qld.gov.au/dataset/f7cacf38-4f72-4f97-a393-81c3bfa1f1e8)
 
+Source: data.qld.gov.au  
 Created: 2014-09-29T04:42:14.691832  
 Modified: 2023-10-04T04:39:12.204544
 
@@ -1252,6 +1883,7 @@ Modified: 2023-10-04T04:39:12.204544
 
 ### [Convict register (chronological) 1824 to 1839](https://data.qld.gov.au/dataset/75d36b23-4510-463e-aa85-0fac1d7b3899)
 
+Source: data.qld.gov.au  
 Created: 2012-12-10T23:06:38.128577  
 Modified: 2023-10-04T04:39:37.764750
 
@@ -1259,6 +1891,7 @@ Modified: 2023-10-04T04:39:37.764750
 
 ### [Corporate School Files - Works/Facilities (Works Establishment Files) 1871-1998](https://data.qld.gov.au/dataset/c1d5bf09-e06d-49ab-9d84-290840574971)
 
+Source: data.qld.gov.au  
 Created: 2018-02-23T04:52:49.138137  
 Modified: 2023-10-04T04:40:05.710112
 
@@ -1267,6 +1900,7 @@ Modified: 2023-10-04T04:40:05.710112
 
 ### [Criminal depositions 1861-1900](https://data.qld.gov.au/dataset/e9bde4ac-6800-486f-ac32-725844eec666)
 
+Source: data.qld.gov.au  
 Created: 2012-12-10T23:44:26.070275  
 Modified: 2024-08-02T06:12:01.174163
 
@@ -1274,6 +1908,7 @@ Modified: 2024-08-02T06:12:01.174163
 
 ### [Dental Board 1900 to 1932](https://data.qld.gov.au/dataset/9832a40d-9b9b-46f8-b096-24dc4f1b1b0a)
 
+Source: data.qld.gov.au  
 Created: 2014-06-25T04:36:09.463356  
 Modified: 2025-01-09T01:38:42.634684
 
@@ -1284,6 +1919,7 @@ Modified: 2025-01-09T01:38:42.634684
 
 ### [Discharged Soldier Settler Loans 1917-1919](https://data.qld.gov.au/dataset/14ce20b8-cc04-4cdc-9f72-e7c9f47682ce)
 
+Source: data.qld.gov.au  
 Created: 2017-07-21T04:20:24.267159  
 Modified: 2023-10-04T04:50:03.160945
 
@@ -1292,6 +1928,7 @@ Modified: 2023-10-04T04:50:03.160945
 
 ### [Divorces 1861 to 1894](https://data.qld.gov.au/dataset/311d7008-5f29-4419-a50c-c490607e2373)
 
+Source: data.qld.gov.au  
 Created: 2013-03-04T06:19:24.196414  
 Modified: 2023-10-04T04:50:24.627981
 
@@ -1300,6 +1937,7 @@ Modified: 2023-10-04T04:50:24.627981
 
 ### [Dunwich Benevolent Asylum records](https://data.qld.gov.au/dataset/10a4b7e2-dc85-4c5a-98a4-705f61685392)
 
+Source: data.qld.gov.au  
 Created: 2020-08-06T01:50:18.138073  
 Modified: 2023-10-04T04:50:43.725181
 
@@ -1308,6 +1946,7 @@ Modified: 2023-10-04T04:50:43.725181
 
 ### [Education Office Gazette Scholarships 1900 - 1940](https://data.qld.gov.au/dataset/eba4f2f5-f4b5-4a6c-90f7-098ef6625c6b)
 
+Source: data.qld.gov.au  
 Created: 2020-06-24T01:55:57.509206  
 Modified: 2023-10-04T04:51:04.725351
 
@@ -1315,6 +1954,7 @@ Modified: 2023-10-04T04:51:04.725351
 
 ### [Engagement of Immigrants at the Immigration Depot - Bowen 1873-1912](https://data.qld.gov.au/dataset/fa8cb500-4fc9-482c-ae64-3c05c81fb023)
 
+Source: data.qld.gov.au  
 Created: 2020-06-29T02:49:53.271588  
 Modified: 2023-10-04T04:51:26.437395
 
@@ -1322,6 +1962,7 @@ Modified: 2023-10-04T04:51:26.437395
 
 ### [Equity files 1857 to 1899](https://data.qld.gov.au/dataset/1364e928-ed55-49d8-92ef-856fa52395c8)
 
+Source: data.qld.gov.au  
 Created: 2013-03-04T05:47:13.945336  
 Modified: 2023-10-04T04:51:44.287237
 
@@ -1330,6 +1971,7 @@ Modified: 2023-10-04T04:51:44.287237
 
 ### [Farm Lads 1911-1940](https://data.qld.gov.au/dataset/56d4bf7a-f31a-4d5f-bb6b-e471ce30ed5b)
 
+Source: data.qld.gov.au  
 Created: 2018-01-19T04:04:31.730680  
 Modified: 2024-10-10T04:59:52.056228
 
@@ -1338,6 +1980,7 @@ Modified: 2024-10-10T04:59:52.056228
 
 ### [Gympie Mining Claims 1868-1901](https://data.qld.gov.au/dataset/8094059e-7c1e-4549-8241-0a86dfdd53ec)
 
+Source: data.qld.gov.au  
 Created: 2023-01-30T03:16:14.848025  
 Modified: 2023-10-04T04:57:58.326661
 
@@ -1345,6 +1988,7 @@ Modified: 2023-10-04T04:57:58.326661
 
 ### [Hydrographic Charts 1802-2013](https://data.qld.gov.au/dataset/5b5e80a7-371b-4365-9280-37dca0f6ed0d)
 
+Source: data.qld.gov.au  
 Created: 2018-04-13T05:37:15.053379  
 Modified: 2023-10-04T05:04:56.265510
 
@@ -1353,6 +1997,7 @@ Modified: 2023-10-04T05:04:56.265510
 
 ### [Immigrant Remittances, IMA Maryborough 1864-1905](https://data.qld.gov.au/dataset/198f15d3-e781-4893-9310-b3691a48f3d2)
 
+Source: data.qld.gov.au  
 Created: 2021-07-23T01:09:33.580526  
 Modified: 2023-10-04T05:05:33.354474
 
@@ -1361,6 +2006,7 @@ Modified: 2023-10-04T05:05:33.354474
 
 ### [Immigrant Remittances, Nanango 1863-1901](https://data.qld.gov.au/dataset/ee2883ad-9ddf-400f-959d-5e3da2e91c0c)
 
+Source: data.qld.gov.au  
 Created: 2024-08-13T04:27:50.367718  
 Modified: 2026-04-07T23:26:19.438994
 
@@ -1368,6 +2014,7 @@ Modified: 2026-04-07T23:26:19.438994
 
 ### [Immigrants 1909-1932](https://data.qld.gov.au/dataset/54f314df-f2a0-4813-ae28-cf73e39cf552)
 
+Source: data.qld.gov.au  
 Created: 2020-06-30T00:51:24.723010  
 Modified: 2024-06-13T00:07:34.908820
 
@@ -1375,6 +2022,7 @@ Modified: 2024-06-13T00:07:34.908820
 
 ### [Immigrants Nominated for Passage, Maryborough 1884-1907](https://data.qld.gov.au/dataset/8a0928d0-60c2-4ce3-be0a-c07c6a89be0f)
 
+Source: data.qld.gov.au  
 Created: 2013-06-26T01:18:08.393308  
 Modified: 2023-10-04T05:06:44.887526
 
@@ -1384,6 +2032,7 @@ Modified: 2023-10-04T05:06:44.887526
 
 ### [Immigrants and Crew 1860-1864](https://data.qld.gov.au/dataset/8f59a9eb-af92-4cfc-9444-ce7e0c317acf)
 
+Source: data.qld.gov.au  
 Created: 2020-06-24T03:18:09.942255  
 Modified: 2024-06-13T00:09:21.317524
 
@@ -1391,6 +2040,7 @@ Modified: 2024-06-13T00:09:21.317524
 
 ### [Immigrants and Missing Immigrants cards 1920-1945](https://data.qld.gov.au/dataset/f3e8bf66-fdf8-4cfb-a470-4570aced36ec)
 
+Source: data.qld.gov.au  
 Created: 2024-01-08T03:35:20.384062  
 Modified: 2026-04-07T23:24:32.769937
 
@@ -1398,6 +2048,7 @@ Modified: 2026-04-07T23:24:32.769937
 
 ### [Immigrants landed Bowen 1888-1896](https://data.qld.gov.au/dataset/44a0d454-d077-4d98-91de-f6fb6fd7b849)
 
+Source: data.qld.gov.au  
 Created: 2022-05-06T02:07:14.901974  
 Modified: 2024-06-13T00:25:36.335759
 
@@ -1405,6 +2056,7 @@ Modified: 2024-06-13T00:25:36.335759
 
 ### [Immigrants, Bowen Immigration Depot 1885-1892](https://data.qld.gov.au/dataset/b8de8a10-2974-4bad-a9ec-4b2bbe619523)
 
+Source: data.qld.gov.au  
 Created: 2021-07-22T23:02:08.108715  
 Modified: 2023-10-04T05:07:47.327434
 
@@ -1412,6 +2064,7 @@ Modified: 2023-10-04T05:07:47.327434
 
 ### [Immigrants, Maryborough 1871-1915](https://data.qld.gov.au/dataset/0f5ec4ac-cd7c-4e1e-a191-7ca80a71c73c)
 
+Source: data.qld.gov.au  
 Created: 2023-11-17T04:35:30.613731  
 Modified: 2026-04-07T23:30:31.096746
 
@@ -1419,6 +2072,7 @@ Modified: 2026-04-07T23:30:31.096746
 
 ### [Immigration 1922 to 1940](https://data.qld.gov.au/dataset/34e0e222-b4da-4d8d-9512-a1d7ed80ffcd)
 
+Source: data.qld.gov.au  
 Created: 2013-06-26T01:45:19.980511  
 Modified: 2023-10-04T05:10:08.811582
 
@@ -1427,6 +2081,7 @@ Modified: 2023-10-04T05:10:08.811582
 
 ### [Immigration Agent Toowoomba 1880 to 1888](https://data.qld.gov.au/dataset/6d5d7b26-b247-4525-b57c-f4d826b30e60)
 
+Source: data.qld.gov.au  
 Created: 2017-01-12T00:25:32.170678  
 Modified: 2024-09-10T03:13:29.936463
 
@@ -1435,6 +2090,7 @@ Modified: 2024-09-10T03:13:29.936463
 
 ### [Imperial pensions 1872 to 1915](https://data.qld.gov.au/dataset/2d77d70c-ff4d-407c-a65c-4b1937a11842)
 
+Source: data.qld.gov.au  
 Created: 2014-06-23T23:17:10.257065  
 Modified: 2023-10-04T05:11:03.712923
 
@@ -1443,6 +2099,7 @@ Modified: 2023-10-04T05:11:03.712923
 
 ### [Index to Deed Polls (Change of Name) 1889-1920](https://data.qld.gov.au/dataset/4a387272-144e-4ac4-bc14-2c183715d5fa)
 
+Source: data.qld.gov.au  
 Created: 2024-01-08T03:46:07.082146  
 Modified: 2026-04-07T23:29:14.228176
 
@@ -1450,6 +2107,7 @@ Modified: 2026-04-07T23:29:14.228176
 
 ### [Index to Register of Aliens 1922-1923 - Sugar Exemptions](https://data.qld.gov.au/dataset/359f31cd-92ca-453c-a539-09dc261856bb)
 
+Source: data.qld.gov.au  
 Created: 2018-03-06T05:20:53.084150  
 Modified: 2023-10-04T05:14:22.533465
 
@@ -1458,6 +2116,7 @@ Modified: 2023-10-04T05:14:22.533465
 
 ### [Index to Ships 1848-1990](https://data.qld.gov.au/dataset/2378c3ce-8769-4780-aaf4-b3c892b45503)
 
+Source: data.qld.gov.au  
 Created: 2023-11-14T00:32:28.962094  
 Modified: 2026-04-07T23:28:21.725169
 
@@ -1465,6 +2124,7 @@ Modified: 2026-04-07T23:28:21.725169
 
 ### [Indigence Cases 1899 to 1948](https://data.qld.gov.au/dataset/e890753e-18c8-4867-85c4-85a5d8baf457)
 
+Source: data.qld.gov.au  
 Created: 2016-08-16T23:41:13.153192  
 Modified: 2025-01-09T01:08:45.041131
 
@@ -1472,6 +2132,7 @@ Modified: 2025-01-09T01:08:45.041131
 
 ### [Inquests 1859 - 1905  (non-digital)](https://data.qld.gov.au/dataset/b9866690-6b75-4d1d-a0b6-e3868afa0c1d)
 
+Source: data.qld.gov.au  
 Created: 2013-03-04T05:52:20.137413  
 Modified: 2024-07-09T03:48:13.994600
 
@@ -1479,6 +2140,7 @@ Modified: 2024-07-09T03:48:13.994600
 
 ### [Inquests 1859 - 1905 (digital)](https://data.qld.gov.au/dataset/588c6ffc-4242-4ccd-8415-4d14ec460c17)
 
+Source: data.qld.gov.au  
 Created: 2023-11-20T01:02:50.614281  
 Modified: 2026-04-07T23:23:20.695902
 
@@ -1486,6 +2148,7 @@ Modified: 2026-04-07T23:23:20.695902
 
 ### [Instruments of renunciation 1915 to 1983](https://data.qld.gov.au/dataset/91bad7e1-cfb4-4466-bccf-887948ca9921)
 
+Source: data.qld.gov.au  
 Created: 2013-03-04T06:05:30.102024  
 Modified: 2023-10-04T05:15:46.558344
 
@@ -1494,6 +2157,7 @@ Modified: 2023-10-04T05:15:46.558344
 
 ### [Justices of the Peace 1857 to 1957](https://data.qld.gov.au/dataset/faa9a8a1-fe96-497b-b295-267141e2d722)
 
+Source: data.qld.gov.au  
 Created: 2013-03-04T06:11:49.927680  
 Modified: 2023-10-26T00:44:01.994599
 
@@ -1501,6 +2165,7 @@ Modified: 2023-10-26T00:44:01.994599
 
 ### [Land Orders 1861 - 1878](https://data.qld.gov.au/dataset/d3916617-a967-4cd9-a69b-d8cfb93c822e)
 
+Source: data.qld.gov.au  
 Created: 2022-11-30T02:34:19.747468  
 Modified: 2023-10-04T05:16:39.579662
 
@@ -1508,6 +2173,7 @@ Modified: 2023-10-04T05:16:39.579662
 
 ### [Land Selections 1885-1981](https://data.qld.gov.au/dataset/03e462ee-9ad3-4974-a770-e536cf827bd0)
 
+Source: data.qld.gov.au  
 Created: 2021-07-23T02:31:25.710719  
 Modified: 2025-08-06T06:17:27.472540
 
@@ -1515,6 +2181,7 @@ Modified: 2025-08-06T06:17:27.472540
 
 ### [Land orders 1861 to 1874](https://data.qld.gov.au/dataset/fc5dd876-5ae3-4b02-8894-c815b53eaedd)
 
+Source: data.qld.gov.au  
 Created: 2013-06-26T01:52:06.059027  
 Modified: 2023-10-04T05:17:17.683002
 
@@ -1523,6 +2190,7 @@ Modified: 2023-10-04T05:17:17.683002
 
 ### [Land orders 1862 to 1878](https://data.qld.gov.au/dataset/baab9c87-4ffc-40a2-9221-4123ddf0fe26)
 
+Source: data.qld.gov.au  
 Created: 2016-12-08T23:00:46.528209  
 Modified: 2023-10-04T05:16:53.160245
 
@@ -1530,6 +2198,7 @@ Modified: 2023-10-04T05:16:53.160245
 
 ### [Land orders 1865 to 1866 (Lands Dept)](https://data.qld.gov.au/dataset/ffad056d-2bd0-4cb4-bf47-483cab235072)
 
+Source: data.qld.gov.au  
 Created: 2016-02-22T23:27:37.316607  
 Modified: 2023-10-04T05:17:06.741867
 
@@ -1537,6 +2206,7 @@ Modified: 2023-10-04T05:17:06.741867
 
 ### [Lands sold 1842-1868](https://data.qld.gov.au/dataset/5b7d9112-4d06-4dd1-8680-def41ad552bc)
 
+Source: data.qld.gov.au  
 Created: 2022-05-03T01:13:36.284025  
 Modified: 2023-10-04T05:18:31.189770
 
@@ -1544,6 +2214,7 @@ Modified: 2023-10-04T05:18:31.189770
 
 ### [Lazaret patient registers](https://data.qld.gov.au/dataset/0e9439a4-1d31-49bc-a915-070723363899)
 
+Source: data.qld.gov.au  
 Created: 2021-08-02T03:56:42.736987  
 Modified: 2023-10-04T05:18:46.807974
 
@@ -1551,6 +2222,7 @@ Modified: 2023-10-04T05:18:46.807974
 
 ### [Leases, Selections and Pastoral Runs and other related records 1850-2014](https://data.qld.gov.au/dataset/72bf362f-3e2c-489b-8da5-2f644d576175)
 
+Source: data.qld.gov.au  
 Created: 2020-06-29T03:14:56.601750  
 Modified: 2023-10-04T05:19:16.151468
 
@@ -1558,6 +2230,7 @@ Modified: 2023-10-04T05:19:16.151468
 
 ### [List of Queensland State Archives First World War records](https://data.qld.gov.au/dataset/63430b99-b12c-4285-9674-042baa155423)
 
+Source: data.qld.gov.au  
 Created: 2015-04-20T03:51:12.004780  
 Modified: 2023-10-04T05:36:35.124387
 
@@ -1566,6 +2239,7 @@ Modified: 2023-10-04T05:36:35.124387
 
 ### [Mackay Hospital admissions 1891 to 1908](https://data.qld.gov.au/dataset/55a637d1-a33b-4ab2-9fdf-afc4d953e0e8)
 
+Source: data.qld.gov.au  
 Created: 2014-09-29T04:55:47.017787  
 Modified: 2023-10-04T05:37:30.163043
 
@@ -1573,6 +2247,7 @@ Modified: 2023-10-04T05:37:30.163043
 
 ### [Marine Infrastructure and Vessels 1860-2006](https://data.qld.gov.au/dataset/6af32e8b-78e6-4f7c-8bc1-aa9d89b225f6)
 
+Source: data.qld.gov.au  
 Created: 2018-04-13T05:42:37.824366  
 Modified: 2023-10-04T05:37:55.943587
 
@@ -1581,6 +2256,7 @@ Modified: 2023-10-04T05:37:55.943587
 
 ### [Mariner's certificates 1877-1939](https://data.qld.gov.au/dataset/a75235d6-9135-4810-bc5f-ec4640b2ae05)
 
+Source: data.qld.gov.au  
 Created: 2022-04-27T01:13:39.928624  
 Modified: 2026-04-07T23:21:25.210816
 
@@ -1588,6 +2264,7 @@ Modified: 2026-04-07T23:21:25.210816
 
 ### [Migrant Ship and Aircraft files 1947-1976](https://data.qld.gov.au/dataset/c3746e58-0ba7-4b18-888c-dab4840937f2)
 
+Source: data.qld.gov.au  
 Created: 2018-02-23T04:47:50.201505  
 Modified: 2023-10-04T05:38:40.431384
 
@@ -1596,6 +2273,7 @@ Modified: 2023-10-04T05:38:40.431384
 
 ### [Mineral leases 1871 to 1940](https://data.qld.gov.au/dataset/5b7849d5-64ff-4357-a32f-a88501eecf6e)
 
+Source: data.qld.gov.au  
 Created: 2013-10-14T05:58:43.027039  
 Modified: 2025-07-15T02:54:48.967766
 
@@ -1603,6 +2281,7 @@ Modified: 2025-07-15T02:54:48.967766
 
 ### [Miners rights 1874 to 1880](https://data.qld.gov.au/dataset/36352106-4a6c-4a00-906b-ff202187e3f4)
 
+Source: data.qld.gov.au  
 Created: 2014-03-20T23:02:00.065481  
 Modified: 2023-10-04T05:43:53.108500
 
@@ -1611,6 +2290,7 @@ Modified: 2023-10-04T05:43:53.108500
 
 ### [Monthly and half yearly returns for Moreton Bay 1829 to 1837](https://data.qld.gov.au/dataset/e8e5868c-f721-443c-a8b5-d9d1daa84745)
 
+Source: data.qld.gov.au  
 Created: 2016-09-08T01:59:03.521532  
 Modified: 2023-10-04T05:44:14.197420
 
@@ -1618,6 +2298,7 @@ Modified: 2023-10-04T05:44:14.197420
 
 ### [Naturalisations 1851-1908](https://data.qld.gov.au/dataset/91970fa7-d3c3-4171-a89d-410481cb90e9)
 
+Source: data.qld.gov.au  
 Created: 2013-03-04T04:49:28.828542  
 Modified: 2025-01-09T01:59:36.516591
 
@@ -1626,6 +2307,7 @@ Modified: 2025-01-09T01:59:36.516591
 
 ### [Nominated immigrants 1905 to 1928](https://data.qld.gov.au/dataset/74de1b90-7a77-48ec-b8ef-05cd0eff1e23)
 
+Source: data.qld.gov.au  
 Created: 2013-06-26T01:03:31.341446  
 Modified: 2024-08-29T03:04:58.351618
 
@@ -1634,6 +2316,7 @@ Modified: 2024-08-29T03:04:58.351618
 
 ### [Nurses examinations 1915 to 1925](https://data.qld.gov.au/dataset/80631c7b-1d9a-401b-83eb-2157b4a6dc8e)
 
+Source: data.qld.gov.au  
 Created: 2014-06-24T01:06:55.203366  
 Modified: 2023-10-04T05:44:55.050059
 
@@ -1642,6 +2325,7 @@ Modified: 2023-10-04T05:44:55.050059
 
 ### [Oronsay immigration 1914 to 1972](https://data.qld.gov.au/dataset/eea439b1-f2c9-4ee3-858f-e4583b52f344)
 
+Source: data.qld.gov.au  
 Created: 2015-05-28T05:28:02.659648  
 Modified: 2023-10-04T05:45:13.058266
 
@@ -1650,6 +2334,7 @@ Modified: 2023-10-04T05:45:13.058266
 
 ### [Outdoor Relief 1892-1920](https://data.qld.gov.au/dataset/2137a9c3-3931-4637-aca7-3ce1b5e2b00a)
 
+Source: data.qld.gov.au  
 Created: 2020-06-29T23:53:14.098780  
 Modified: 2023-10-04T05:45:47.872186
 
@@ -1657,6 +2342,7 @@ Modified: 2023-10-04T05:45:47.872186
 
 ### [Passage certificates 1887 to 1906](https://data.qld.gov.au/dataset/8a682383-88a8-4799-8c18-3845040daef3)
 
+Source: data.qld.gov.au  
 Created: 2013-06-26T01:39:38.432133  
 Modified: 2023-10-04T05:49:50.712236
 
@@ -1665,6 +2351,7 @@ Modified: 2023-10-04T05:49:50.712236
 
 ### [Passport Clearances 1923-1940](https://data.qld.gov.au/dataset/fc87f25a-dc02-4802-910f-bc72eb5ed70e)
 
+Source: data.qld.gov.au  
 Created: 2013-10-14T06:10:08.409229  
 Modified: 2024-07-04T04:04:49.682240
 
@@ -1672,6 +2359,7 @@ Modified: 2024-07-04T04:04:49.682240
 
 ### [Pensions 1908-1909](https://data.qld.gov.au/dataset/85d0b672-ef16-4bee-9928-bd07074bb55a)
 
+Source: data.qld.gov.au  
 Created: 2020-06-28T23:02:30.928354  
 Modified: 2023-10-04T05:50:24.208508
 
@@ -1679,6 +2367,7 @@ Modified: 2023-10-04T05:50:24.208508
 
 ### [Perpetual Lease Selections of soldier settlements 1917 - 1929](https://data.qld.gov.au/dataset/67801dc9-2d9d-466b-a14a-9e95438ffcb9)
 
+Source: data.qld.gov.au  
 Created: 2018-11-13T06:33:19.096349  
 Modified: 2023-10-04T05:52:25.819495
 
@@ -1686,6 +2375,7 @@ Modified: 2023-10-04T05:52:25.819495
 
 ### [Photographic records of prisoners 1875-1936](https://data.qld.gov.au/dataset/e3de3131-575b-46d4-946b-82ed0949b7da)
 
+Source: data.qld.gov.au  
 Created: 2021-01-19T01:18:01.419883  
 Modified: 2024-10-29T00:33:41.697573
 
@@ -1693,6 +2383,7 @@ Modified: 2024-10-29T00:33:41.697573
 
 ### [Pneumonic influenza patients, Wallangarra Quarantine Compound](https://data.qld.gov.au/dataset/d380e5ef-f245-448c-ba63-7149b5df9968)
 
+Source: data.qld.gov.au  
 Created: 2021-07-26T02:01:18.196241  
 Modified: 2024-09-02T06:25:27.449631
 
@@ -1700,6 +2391,7 @@ Modified: 2024-09-02T06:25:27.449631
 
 ### [Queensland State Archives' digitised collection](https://data.qld.gov.au/dataset/2793ae3a-48cc-4b00-9191-c48fcf825175)
 
+Source: data.qld.gov.au  
 Created: 2021-02-15T04:09:15.674473  
 Modified: 2023-10-04T23:02:58.143720
 
@@ -1707,6 +2399,7 @@ Modified: 2023-10-04T23:02:58.143720
 
 ### [Recordkeeping Survey of Queensland Public Authorities, 2014-15](https://data.qld.gov.au/dataset/0d8e0095-4183-4e77-a75b-217cfdc2b224)
 
+Source: data.qld.gov.au  
 Created: 2016-04-06T04:26:31.356853  
 Modified: 2023-10-04T23:03:21.203039
 
@@ -1715,6 +2408,7 @@ Modified: 2023-10-04T23:03:21.203039
 
 ### [Records on Frontier Wars and violence in Queensland](https://data.qld.gov.au/dataset/0f383a9b-238a-45c2-923b-5cf2762895b5)
 
+Source: data.qld.gov.au  
 Created: 2023-05-29T06:41:28.963432  
 Modified: 2023-10-04T23:03:40.073946
 
@@ -1722,6 +2416,7 @@ Modified: 2023-10-04T23:03:40.073946
 
 ### [Redeemed Land Orders 1860-1906](https://data.qld.gov.au/dataset/9af53e64-10ef-4c34-8329-9ace7df871d2)
 
+Source: data.qld.gov.au  
 Created: 2021-07-21T04:32:48.433331  
 Modified: 2025-09-03T02:31:04.509159
 
@@ -1729,6 +2424,7 @@ Modified: 2025-09-03T02:31:04.509159
 
 ### [Reformatory School for Boys 1871 to 1906](https://data.qld.gov.au/dataset/42636bbc-0d97-4385-8cca-80f56025db08)
 
+Source: data.qld.gov.au  
 Created: 2014-11-03T05:00:03.834119  
 Modified: 2024-07-29T03:17:41.374245
 
@@ -1736,6 +2432,7 @@ Modified: 2024-07-29T03:17:41.374245
 
 ### [Register of Court Fees Marburg 1885 to 1908](https://data.qld.gov.au/dataset/72290732-3960-486d-9ef0-05c3634f58f8)
 
+Source: data.qld.gov.au  
 Created: 2016-09-08T01:50:59.387998  
 Modified: 2023-10-04T23:04:45.263713
 
@@ -1743,6 +2440,7 @@ Modified: 2023-10-04T23:04:45.263713
 
 ### [Register of immigrants 1864 to 1878](https://data.qld.gov.au/dataset/32e5cda7-dee5-4cc2-a5f5-88b9a04da882)
 
+Source: data.qld.gov.au  
 Created: 2013-10-15T01:26:05.409929  
 Modified: 2023-10-04T23:05:21.872323
 
@@ -1750,6 +2448,7 @@ Modified: 2023-10-04T23:05:21.872323
 
 ### [Register of immigrants, Brisbane 1885 to 1917](https://data.qld.gov.au/dataset/f6c0b435-5c62-41ad-bce0-3e89e9ca9e63)
 
+Source: data.qld.gov.au  
 Created: 2013-10-15T01:19:59.184215  
 Modified: 2025-08-25T01:30:43.888381
 
@@ -1757,6 +2456,7 @@ Modified: 2025-08-25T01:30:43.888381
 
 ### [Register of land sold 1842 to 1859](https://data.qld.gov.au/dataset/926b2ea1-78c1-4f0a-a1a9-83da92b2fc6d)
 
+Source: data.qld.gov.au  
 Created: 2014-01-05T23:17:03.022613  
 Modified: 2023-10-04T23:06:41.857369
 
@@ -1765,6 +2465,7 @@ Modified: 2023-10-04T23:06:41.857369
 
 ### [Register of lands 1861 to 1868](https://data.qld.gov.au/dataset/6503746b-18e0-48d7-a9a3-a42ee9b3152e)
 
+Source: data.qld.gov.au  
 Created: 2014-01-05T23:21:57.845903  
 Modified: 2023-10-04T23:06:31.400270
 
@@ -1773,6 +2474,7 @@ Modified: 2023-10-04T23:06:31.400270
 
 ### [Register of lands sold 1849 to 1861](https://data.qld.gov.au/dataset/de65716c-2c81-4652-9bb9-b9d2f4cf53c8)
 
+Source: data.qld.gov.au  
 Created: 2014-03-20T23:23:06.486395  
 Modified: 2023-10-04T23:06:56.468594
 
@@ -1780,6 +2482,7 @@ Modified: 2023-10-04T23:06:56.468594
 
 ### [Register of pastoral holdings 1863 to 1880](https://data.qld.gov.au/dataset/40b98318-11ab-4c1b-8e41-9b11a2db6071)
 
+Source: data.qld.gov.au  
 Created: 2016-04-06T06:55:29.352765  
 Modified: 2024-08-29T02:07:58.552850
 
@@ -1788,6 +2491,7 @@ Modified: 2024-08-29T02:07:58.552850
 
 ### [Registers of Agricultural Lessees 1885-1908](https://data.qld.gov.au/dataset/dac1c5bb-0aa6-49fe-9d7b-b971b7fb25ed)
 
+Source: data.qld.gov.au  
 Created: 2020-06-29T05:07:47.704757  
 Modified: 2025-08-06T04:09:25.329536
 
@@ -1795,6 +2499,7 @@ Modified: 2025-08-06T04:09:25.329536
 
 ### [Registers of Immigrants, Rockhampton 1882-1915](https://data.qld.gov.au/dataset/51584b7e-7e76-43aa-bdbf-ae1b308301ca)
 
+Source: data.qld.gov.au  
 Created: 2020-06-29T06:00:01.878605  
 Modified: 2023-10-04T23:08:17.261703
 
@@ -1802,6 +2507,7 @@ Modified: 2023-10-04T23:08:17.261703
 
 ### [Registers of immigrants 1882 to 1938](https://data.qld.gov.au/dataset/3b20c3ba-a9a9-4f39-b35a-9edb642fe6be)
 
+Source: data.qld.gov.au  
 Created: 2015-01-27T04:15:03.017042  
 Modified: 2023-10-04T23:08:53.815970
 
@@ -1812,6 +2518,7 @@ Modified: 2023-10-04T23:08:53.815970
 
 ### [Rents payable on pastoral runs 1860 to 1911](https://data.qld.gov.au/dataset/aa426d46-3ec2-45cd-a80b-e0da3ffcc03f)
 
+Source: data.qld.gov.au  
 Created: 2016-10-06T04:37:51.963115  
 Modified: 2024-09-19T01:05:49.498490
 
@@ -1819,6 +2526,7 @@ Modified: 2024-09-19T01:05:49.498490
 
 ### [Road and Bridge Job Files 1861-2017](https://data.qld.gov.au/dataset/5888451d-5ccd-4440-ad3d-a54a00fc28bc)
 
+Source: data.qld.gov.au  
 Created: 2018-04-30T23:04:33.206794  
 Modified: 2023-10-04T23:09:31.410088
 
@@ -1827,6 +2535,7 @@ Modified: 2023-10-04T23:09:31.410088
 
 ### [School Admissions Registers 1878-2001](https://data.qld.gov.au/dataset/a524638c-c19c-4c18-9f44-9603a69fa07a)
 
+Source: data.qld.gov.au  
 Created: 2017-06-29T05:54:35.461097  
 Modified: 2023-10-04T23:24:50.370244
 
@@ -1834,6 +2543,7 @@ Modified: 2023-10-04T23:24:50.370244
 
 ### [School Inspectors' Reports 1974-1991](https://data.qld.gov.au/dataset/d1ade7c0-1265-45d8-a2df-f26016aaa27c)
 
+Source: data.qld.gov.au  
 Created: 2018-04-11T03:39:12.090482  
 Modified: 2023-10-04T23:25:26.051551
 
@@ -1842,6 +2552,7 @@ Modified: 2023-10-04T23:25:26.051551
 
 ### [School inspectors reports 1872-1875](https://data.qld.gov.au/dataset/28836b75-3c78-4854-ba00-f8b0aaa05fe2)
 
+Source: data.qld.gov.au  
 Created: 2020-06-30T05:26:48.063186  
 Modified: 2023-10-04T23:25:15.196621
 
@@ -1849,6 +2560,7 @@ Modified: 2023-10-04T23:25:15.196621
 
 ### [Seamen 1882 to 1919](https://data.qld.gov.au/dataset/f2a5a173-f234-4234-9851-427adf3efc11)
 
+Source: data.qld.gov.au  
 Created: 2014-06-23T23:30:33.115531  
 Modified: 2023-10-04T23:25:59.499657
 
@@ -1857,6 +2569,7 @@ Modified: 2023-10-04T23:25:59.499657
 
 ### [Soldier Settlement ledgers 1917 to 1929](https://data.qld.gov.au/dataset/6a356f9d-5088-4969-81e6-1fab7c677917)
 
+Source: data.qld.gov.au  
 Created: 2016-11-02T04:00:05.643774  
 Modified: 2023-10-04T23:27:02.122658
 
@@ -1865,6 +2578,7 @@ Modified: 2023-10-04T23:27:02.122658
 
 ### [South African (Boer) War 1899 to 1902](https://data.qld.gov.au/dataset/6ccfc1d7-c9cf-4df9-a1bd-8e7d2f9f9f50)
 
+Source: data.qld.gov.au  
 Created: 2014-06-24T00:57:08.534392  
 Modified: 2024-09-05T05:10:45.717169
 
@@ -1873,6 +2587,7 @@ Modified: 2024-09-05T05:10:45.717169
 
 ### [St Helena prisoners 1863 to 1936](https://data.qld.gov.au/dataset/4a4bb1af-54ab-45ef-8903-f755e2c02076)
 
+Source: data.qld.gov.au  
 Created: 2012-12-10T23:34:57.629766  
 Modified: 2023-10-04T23:29:37.081753
 
@@ -1880,6 +2595,7 @@ Modified: 2023-10-04T23:29:37.081753
 
 ### [Stage licences 1891 to 1904](https://data.qld.gov.au/dataset/47757fba-12e5-4668-b8a7-f64e3a6d1e3d)
 
+Source: data.qld.gov.au  
 Created: 2015-12-18T01:24:56.638776  
 Modified: 2023-10-04T23:32:13.841390
 
@@ -1887,6 +2603,7 @@ Modified: 2023-10-04T23:32:13.841390
 
 ### [Steam locomotive drawings and railway plans](https://data.qld.gov.au/dataset/6f28db04-5568-4776-9359-28449a022bb7)
 
+Source: data.qld.gov.au  
 Created: 2017-01-17T03:47:37.179290  
 Modified: 2023-10-04T23:32:33.717499
 
@@ -1897,6 +2614,7 @@ Modified: 2023-10-04T23:32:33.717499
 
 ### [TB Home applications 1923 to 1932](https://data.qld.gov.au/dataset/e866f868-e11c-4fce-9df7-365b1b8b3452)
 
+Source: data.qld.gov.au  
 Created: 2014-06-24T03:03:45.073887  
 Modified: 2023-10-04T23:32:54.090957
 
@@ -1905,6 +2623,7 @@ Modified: 2023-10-04T23:32:54.090957
 
 ### [Teachers 1860 to 1905](https://data.qld.gov.au/dataset/ca2bf49a-6f27-47b9-8be8-7f09649b97a7)
 
+Source: data.qld.gov.au  
 Created: 2015-07-01T04:19:08.161316  
 Modified: 2024-10-09T00:42:02.422698
 
@@ -1912,6 +2631,7 @@ Modified: 2024-10-09T00:42:02.422698
 
 ### [Teachers in the Education Office Gazettes 1926-1952](https://data.qld.gov.au/dataset/02555677-b963-4fb2-920b-405bfb9299cd)
 
+Source: data.qld.gov.au  
 Created: 2022-08-30T03:53:23.072636  
 Modified: 2023-10-04T23:34:14.673399
 
@@ -1919,6 +2639,7 @@ Modified: 2023-10-04T23:34:14.673399
 
 ### [Toowoomba Girls Industrial School 1881-1903](https://data.qld.gov.au/dataset/a7f789f9-0297-42b5-bbfc-171d9e620562)
 
+Source: data.qld.gov.au  
 Created: 2014-11-03T04:20:30.610877  
 Modified: 2024-11-11T04:33:08.690914
 
@@ -1926,6 +2647,7 @@ Modified: 2024-11-11T04:33:08.690914
 
 ### [Toowoomba Girls Reformatory discharges 1882 to 1903](https://data.qld.gov.au/dataset/43182766-d54e-4545-a15e-59547c42a916)
 
+Source: data.qld.gov.au  
 Created: 2014-11-03T04:40:20.277177  
 Modified: 2023-10-04T23:34:42.010098
 
@@ -1933,6 +2655,7 @@ Modified: 2023-10-04T23:34:42.010098
 
 ### [Toowoomba prison records 1864 to 1906](https://data.qld.gov.au/dataset/0f17f39e-d89a-4ab1-8ee9-62387380d4de)
 
+Source: data.qld.gov.au  
 Created: 2015-07-01T23:02:18.577723  
 Modified: 2023-10-04T23:35:16.851872
 
@@ -1948,6 +2671,7 @@ Modified: 2023-10-04T23:35:16.851872
 
 ### [Transfer of runs 1848 to 1874](https://data.qld.gov.au/dataset/53bffe22-95e2-4c99-a410-7d74266a03ed)
 
+Source: data.qld.gov.au  
 Created: 2015-06-01T05:08:07.048267  
 Modified: 2023-10-04T23:35:36.724582
 
@@ -1955,6 +2679,7 @@ Modified: 2023-10-04T23:35:36.724582
 
 ### [Treasury Rents Payable on Pastoral Runs 1860-1911](https://data.qld.gov.au/dataset/4b679d4e-94ea-4c04-a1f9-8b778bb779f8)
 
+Source: data.qld.gov.au  
 Created: 2017-07-26T03:42:02.772932  
 Modified: 2023-10-04T23:35:57.097076
 
@@ -1962,6 +2687,7 @@ Modified: 2023-10-04T23:35:57.097076
 
 ### [Trustee files 1889 to 1929](https://data.qld.gov.au/dataset/92b77bd9-d694-4a4c-949b-8b21513756be)
 
+Source: data.qld.gov.au  
 Created: 2013-03-04T06:27:18.408943  
 Modified: 2023-10-04T23:36:13.828179
 
@@ -1970,6 +2696,7 @@ Modified: 2023-10-04T23:36:13.828179
 
 ### [Wills 1857-1940 (digital)](https://data.qld.gov.au/dataset/fcc4af5f-324a-476e-84c2-52d0eb61df22)
 
+Source: data.qld.gov.au  
 Created: 2025-01-09T04:35:48.021040  
 Modified: 2026-02-26T02:33:50.922140
 
@@ -1977,6 +2704,7 @@ Modified: 2026-02-26T02:33:50.922140
 
 ### [Wills 1857-1940 (non-digital)](https://data.qld.gov.au/dataset/3242a20a-b0aa-4b6e-94e7-04279506d7ce)
 
+Source: data.qld.gov.au  
 Created: 2014-06-24T03:12:55.337606  
 Modified: 2026-02-26T03:02:36.041101
 
@@ -1984,6 +2712,7 @@ Modified: 2026-02-26T03:02:36.041101
 
 ### [Windsor Town Council Honour Roll 1914 to 1925](https://data.qld.gov.au/dataset/a47fa641-6d03-426b-998d-c18534c46c67)
 
+Source: data.qld.gov.au  
 Created: 2015-11-24T05:31:47.361772  
 Modified: 2023-10-04T23:37:28.067464
 
@@ -1992,6 +2721,7 @@ Modified: 2023-10-04T23:37:28.067464
 
 ### [Writs 1857-2008](https://data.qld.gov.au/dataset/f93dfe6f-d377-410f-86ea-adfa24fc7c0c)
 
+Source: data.qld.gov.au  
 Created: 2018-01-19T04:13:50.385047  
 Modified: 2023-10-04T23:37:43.594370
 
@@ -2002,6 +2732,7 @@ Modified: 2023-10-04T23:37:43.594370
 
 ### [South Australian Museum - Australian Helminthological Collection](https://data.sa.gov.au/data/dataset/f47e5aea-fbcc-49b8-b1b3-b48dca31ec79)
 
+Source: data.sa.gov.au  
 Created: 2013-05-25T04:34:09.962514  
 Modified: 2022-03-21T01:24:16.064650
 
@@ -2011,6 +2742,7 @@ Modified: 2022-03-21T01:24:16.064650
 
 ### [South Australian Museum - Complaints](https://data.sa.gov.au/data/dataset/c39fe206-a5b4-4df5-805e-7095aaf6d04e)
 
+Source: data.sa.gov.au  
 Created: 2019-08-15T04:04:04.497286  
 Modified: 2024-12-19T02:34:33.805739
 
@@ -2027,6 +2759,7 @@ Modified: 2024-12-19T02:34:33.805739
 
 ### [South Australian Museum - Consultants](https://data.sa.gov.au/data/dataset/c0217995-614f-4724-849a-3d5f032da0dd)
 
+Source: data.sa.gov.au  
 Created: 2019-08-15T03:56:41.725035  
 Modified: 2024-12-19T02:28:38.176618
 
@@ -2044,6 +2777,7 @@ Modified: 2024-12-19T02:28:38.176618
 
 ### [South Australian Museum - Contractors](https://data.sa.gov.au/data/dataset/93b403e1-2660-4678-ad59-225f9c06081b)
 
+Source: data.sa.gov.au  
 Created: 2019-08-15T03:58:27.191500  
 Modified: 2024-12-19T02:37:24.372040
 
@@ -2061,6 +2795,7 @@ Modified: 2024-12-19T02:37:24.372040
 
 ### [South Australian Museum - Executive Employment](https://data.sa.gov.au/data/dataset/1acd777b-4877-452f-ac3a-36e3ef8d404c)
 
+Source: data.sa.gov.au  
 Created: 2019-08-15T03:53:56.674169  
 Modified: 2024-12-19T02:39:22.960873
 
@@ -2078,6 +2813,7 @@ Modified: 2024-12-19T02:39:22.960873
 
 ### [South Australian Museum - Fraud](https://data.sa.gov.au/data/dataset/e50f5de4-1568-4bf9-880a-b481edfc9231)
 
+Source: data.sa.gov.au  
 Created: 2019-08-15T04:00:51.826093  
 Modified: 2024-12-19T02:42:14.403178
 
@@ -2095,6 +2831,7 @@ Modified: 2024-12-19T02:42:14.403178
 
 ### [South Australian Museum - Whistle Blowers](https://data.sa.gov.au/data/dataset/ad435283-7254-4467-b4bc-0afa4fc54b1f)
 
+Source: data.sa.gov.au  
 Created: 2019-08-15T04:02:36.377113  
 Modified: 2024-12-19T02:43:39.200470
 
@@ -2112,6 +2849,7 @@ Modified: 2024-12-19T02:43:39.200470
 
 ### [South Australian Museum - Work Health and Safety](https://data.sa.gov.au/data/dataset/779c678d-6dc6-4ae4-b25a-ea5bf39c9a2b)
 
+Source: data.sa.gov.au  
 Created: 2019-08-15T02:02:11.516432  
 Modified: 2024-12-19T02:45:49.692905
 
@@ -2130,6 +2868,7 @@ Modified: 2024-12-19T02:45:49.692905
 
 ### [South Australian Museum Annual Report 2023-2024](https://data.sa.gov.au/data/dataset/73df112d-02da-4b76-8e3f-ef6808fbfd86)
 
+Source: data.sa.gov.au  
 Created: 2024-12-04T23:28:35.929644  
 Modified: 2024-12-04T23:29:48.126158
 
@@ -2137,6 +2876,7 @@ Modified: 2024-12-04T23:29:48.126158
 
 ### [South Australian Museum Arachnology Collection](https://data.sa.gov.au/data/dataset/6812c858-5ff1-4188-9997-befffbc42dbe)
 
+Source: data.sa.gov.au  
 Created: 2016-06-24T05:00:45.749753  
 Modified: 2020-02-18T01:13:20.998657
 
@@ -2144,6 +2884,7 @@ Modified: 2020-02-18T01:13:20.998657
 
 ### [South Australian Museum Herpetology Collection](https://data.sa.gov.au/data/dataset/e0cc2850-5096-44ec-9602-7b5abfaa2094)
 
+Source: data.sa.gov.au  
 Created: 2013-03-21T05:07:17.288715  
 Modified: 2020-02-18T01:28:14.693870
 
@@ -2154,6 +2895,7 @@ Modified: 2020-02-18T01:28:14.693870
 
 ### [South Australian Museum Ichthyology Collection](https://data.sa.gov.au/data/dataset/a09d615c-79f1-4918-9cb4-8c4c636c80eb)
 
+Source: data.sa.gov.au  
 Created: 2013-03-21T05:15:15.690837  
 Modified: 2020-02-18T23:51:32.608265
 
@@ -2164,6 +2906,7 @@ Modified: 2020-02-18T23:51:32.608265
 
 ### [South Australian Museum Mammalogy Collection](https://data.sa.gov.au/data/dataset/35f2b0e5-a207-4114-b2c5-b2f12aa8b8ad)
 
+Source: data.sa.gov.au  
 Created: 2013-03-21T05:53:24.949394  
 Modified: 2020-02-18T01:29:11.710141
 
@@ -2174,6 +2917,7 @@ Modified: 2020-02-18T01:29:11.710141
 
 ### [South Australian Museum Marine Invertebrates collection](https://data.sa.gov.au/data/dataset/c82dc4f6-85d7-4999-b5d5-6eeb97dfef85)
 
+Source: data.sa.gov.au  
 Created: 2016-07-05T03:33:27.070432  
 Modified: 2017-05-08T02:34:29.724267
 
@@ -2182,6 +2926,7 @@ Modified: 2017-05-08T02:34:29.724267
 
 ### [South Australian Museum Meteorite Collection](https://data.sa.gov.au/data/dataset/1436651b-0684-42f1-b2e3-7dd113e2c007)
 
+Source: data.sa.gov.au  
 Created: 2013-05-25T04:42:17.987059  
 Modified: 2016-07-03T23:29:22.729078
 
@@ -2190,6 +2935,7 @@ Modified: 2016-07-03T23:29:22.729078
 
 ### [South Australian Museum Minerals Collection](https://data.sa.gov.au/data/dataset/fe72a51c-def3-4229-b58c-cf9fef5d30ba)
 
+Source: data.sa.gov.au  
 Created: 2013-05-25T04:48:34.200039  
 Modified: 2016-07-08T02:32:04.460744
 
@@ -2199,6 +2945,7 @@ Modified: 2016-07-08T02:32:04.460744
 
 ### [South Australian Museum Ornithology Collection](https://data.sa.gov.au/data/dataset/a4fbf1a3-bb6f-4b59-860a-3283200e7a90)
 
+Source: data.sa.gov.au  
 Created: 2013-03-21T05:59:59.088745  
 Modified: 2020-02-18T01:29:42.117037
 
@@ -2209,6 +2956,7 @@ Modified: 2020-02-18T01:29:42.117037
 
 ### [South Australian Museum Terrestrial Invertebrate Collection](https://data.sa.gov.au/data/dataset/a81870be-82eb-4868-81e9-0a8d11622675)
 
+Source: data.sa.gov.au  
 Created: 2013-03-21T05:57:20.220041  
 Modified: 2016-07-05T03:45:43.422359
 
@@ -2218,24 +2966,107 @@ Modified: 2016-07-05T03:45:43.422359
 * [Information about terrestrial invertebrates at the South Australian Museum](https://www.samuseum.sa.gov.au/collections/biological-sciences/terrestrial-invertebrates) (HTML)
 * [Type Specimen images from the South Australian Museum Terrestrial Invertebrates collection](https://biocache.ala.org.au/occurrence/search?q=data_resource_uid:dr742) ()
 
-## State Library of NSW
+## State Library of New South Wales
 
 ### [Albums recently added to SLNSW's Manuscripts, Oral History and Pictures catalogue](https://data.nsw.gov.au/data/dataset/986cbe9b-1e7a-492d-9f1a-c90cb6b20a0f)
 
+Source: data.nsw.gov.au  
 Created: 2013-05-24T05:31:04.374275  
 Modified: 2016-07-20T12:13:56.770980
 
 * [Albums recently added to SLNSW's Manuscripts, Oral History and Pictures catalogue](http://feeds.feedburner.com/recentalbumsmohp) (RSS)
 
+### [Australian Gas Light Company maps](https://data.gov.au/dataset/403b117f-157a-4b94-b1d4-3f01ef084988)
+
+Source: data.gov.au  
+Created: 2013-05-12T08:54:53.361122  
+Modified: 2023-08-11T02:11:17.388878
+
+* [australian-gas-light-company.csv](http://data.gov.au/storage/f/2013-05-12T185422/tmpJif9Yeaustralian-gas-light-company.csv) (CSV)
+* [australian-gas-light-company.xls](http://data.gov.au/storage/f/2013-05-12T185427/tmpGKuNLbaustralian-gas-light-company.xls) (XLS)
+
 ### [Collection of the State Library of NSW](https://data.nsw.gov.au/data/dataset/dd806ef6-e316-410e-bf5c-540311947d5a)
 
+Source: data.nsw.gov.au  
 Created: 2013-05-24T05:32:35.564263  
 Modified: 2022-01-17T05:44:46.859872
 
 * [Collection of the State Library of New South Wales](https://collection.sl.nsw.gov.au/) (website link)
 
+### [First Fleet Collection](https://data.gov.au/dataset/5d263488-ab5a-48f5-9030-21ea2524fb1d)
+
+Source: data.gov.au  
+Created: 2013-05-12T10:00:51.881967  
+Modified: 2023-08-11T06:26:41.988896
+
+* [first-fleet.xls](http://data.gov.au/storage/f/2013-05-12T200020/tmpg34Btnfirst-fleet.xls) (XLS)
+* [first-fleet.csv](http://data.gov.au/storage/f/2013-05-12T200027/tmpKw1Wzyfirst-fleet.csv) (CSV)
+
+### [First Fleet maps](https://data.gov.au/dataset/3643f4b2-0dd7-4bdc-8548-faf6d5445ae1)
+
+Source: data.gov.au  
+Created: 2013-05-12T10:38:36.009789  
+Modified: 2023-08-11T06:26:44.496716
+
+* [first-fleet-maps.csv](http://data.gov.au/storage/f/2013-05-12T203805/tmpqDifgmfirst-fleet-maps.csv) (CSV)
+* [first-fleet-maps.xls](http://data.gov.au/storage/f/2013-05-12T203809/tmpbciXIKfirst-fleet-maps.xls) (XLS)
+
+### [Maps of the Southern Hemisphere 16th-18th centuries](https://data.gov.au/dataset/85168dd3-e8fb-4980-8966-9dcaa75b360d)
+
+Source: data.gov.au  
+Created: 2013-05-12T10:35:10.302916  
+Modified: 2023-08-11T10:03:43.628597
+
+* [crux-maps.csv](http://data.gov.au/storage/f/2013-05-12T203439/tmpdXfyvbcrux-maps.csv) (CSV)
+* [crux-maps.xls](http://data.gov.au/storage/f/2013-05-12T203443/tmpCP38Z4crux-maps.xls) (XLS)
+
+### [NSW newspapers catalogue data](https://data.gov.au/dataset/c5e63058-f56f-4c09-9a10-21f056e43981)
+
+Source: data.gov.au  
+Created: 2013-05-12T09:40:06.596053  
+Modified: 2023-08-09T09:32:18.718437
+
+* [nswnews.xml](http://data.gov.au/storage/f/2013-05-12T193935/tmpiRL_ionswnews.xml) (XML)
+
+### [New South Wales officers and men of the Australian Imperial Force (A.I.F.) and the Australian Naval Forces : portrait collection, 1919](https://data.gov.au/dataset/0b73c39d-0304-41f2-bde4-b95a3dc53844)
+
+Source: data.gov.au  
+Created: 2013-05-12T09:16:18.892989  
+Modified: 2023-08-11T10:39:28.860433
+
+* [nsw-ww1-servicemen-portraits.csv](http://data.gov.au/storage/f/2013-05-12T191553/tmp0BZDwknsw-ww1-servicemen-portraits.csv) (CSV)
+* [nsw-ww1-servicemen-portraits.xls](http://data.gov.au/storage/f/2013-05-12T191604/tmpPaFx0hnsw-ww1-servicemen-portraits.xls) (XLS)
+
+### [Photographs of NSW life pre 1955](https://data.gov.au/dataset/f6055020-ac33-4af8-9168-dfb4decb99f3)
+
+Source: data.gov.au  
+Created: 2013-05-12T08:44:46.388565  
+Modified: 2023-08-11T11:18:11.700922
+
+* [home-and-away.csv](http://data.gov.au/storage/f/2013-05-12T184417/tmpAJ_D0lhome-and-away.csv) (CSV)
+* [home-and-away.xls](http://data.gov.au/storage/f/2013-05-12T184550/tmp3oPIhjhome-and-away.xls) (XLS)
+
+### [Photographs of Sydney before 1885](https://data.gov.au/dataset/75d201b9-b045-4071-8a8a-8311e5cfaaf0)
+
+Source: data.gov.au  
+Created: 2013-05-12T11:06:14.112486  
+Modified: 2023-08-11T11:18:15.608600
+
+* [sydney-pictures.csv](http://data.gov.au/storage/f/2013-05-12T210543/tmpCYp8JMsydney-pictures.csv) (CSV)
+* [sydney-pictures.xls](http://data.gov.au/storage/f/2013-05-12T210549/tmpKsOAm1sydney-pictures.xls) (XLS)
+
+### [Rare printed books](https://data.gov.au/dataset/2c585c70-9f22-49e1-a54b-b52ad47601d6)
+
+Source: data.gov.au  
+Created: 2013-05-12T11:51:58.764966  
+Modified: 2023-08-11T11:45:45.637885
+
+* [rare-printed-items.csv](http://data.gov.au/storage/f/2013-05-12T215127/tmpt2UJrvrare-printed-items.csv) (CSV)
+* [rare-printed-items.xls](http://data.gov.au/storage/f/2013-05-12T215135/tmp_7HydSrare-printed-items.xls) (XLS)
+
 ### [State Library of NSW Collection Photostream](https://data.nsw.gov.au/data/dataset/b6922426-8725-4f2e-bcf3-d419a49f61ef)
 
+Source: data.nsw.gov.au  
 Created: 2013-05-24T02:10:25.292436  
 Modified: 2016-07-20T12:15:53.827269
 
@@ -2243,13 +3074,33 @@ Modified: 2016-07-20T12:15:53.827269
 
 ### [State Library of NSW GitHub](https://data.nsw.gov.au/data/dataset/d6bf9721-5489-4b74-982d-6864988fe99c)
 
+Source: data.nsw.gov.au  
 Created: 2016-08-15T06:22:53.062928  
 Modified: 2016-08-31T06:48:58.110513
 
 * [State Library of NSW's GitHub account](https://raw.githubusercontent.com/slnsw-webdev) (CSS, Java, PHP, JavaScript)
 
+### [Sydney bond store maps 1894](https://data.gov.au/dataset/f51c36fe-2d9b-40ed-bab3-5607d0a457f0)
+
+Source: data.gov.au  
+Created: 2013-05-12T08:28:23.739081  
+Modified: 2023-08-11T14:38:52.624734
+
+* [bonded-free-store-plans.csv](http://data.gov.au/storage/f/2013-05-12T182753/tmpVwqO3gbonded-free-store-plans.csv) (CSV)
+* [bonded-free-store-plans.xls](http://data.gov.au/storage/f/2013-05-12T182757/tmpUBzEh3bonded-free-store-plans.xls) (XLS)
+
+### [Sydney maps 1917](https://data.gov.au/dataset/fcac036b-5c52-42c8-91c3-4904e50dd9af)
+
+Source: data.gov.au  
+Created: 2013-05-12T08:42:49.828686  
+Modified: 2023-08-11T14:38:56.618643
+
+* [city-of-sydney.csv](http://data.gov.au/storage/f/2013-05-12T184218/tmpqqiWKVcity-of-sydney.csv) (CSV)
+* [city-of-sydney.xls](http://data.gov.au/storage/f/2013-05-12T184224/tmp91SheRcity-of-sydney.xls) (XLS)
+
 ### [WW1 Diary and Letter Transcripts](https://data.nsw.gov.au/data/dataset/4095e38b-785f-4f3c-917f-d041fce0e408)
 
+Source: data.nsw.gov.au  
 Created: 2016-07-25T22:26:44.309321  
 Modified: 2016-07-25T22:26:59.738806
 
@@ -2259,8 +3110,9 @@ Modified: 2016-07-25T22:26:59.738806
 
 ### [State Library of Queensland -  Consultancies](https://data.qld.gov.au/dataset/7038af67-fa75-4f36-a554-aba83003beb1)
 
+Source: data.qld.gov.au  
 Created: 2014-10-20T02:53:26.336420  
-Modified: 2025-10-01T01:37:42.564172
+Modified: 2026-07-24T05:09:31.084012
 
 * [Explanatory information - Consultancies](https://www.data.qld.gov.au/dataset/7038af67-fa75-4f36-a554-aba83003beb1/resource/0f0cd08e-d31d-4b55-9cd5-f9c6d5fac6eb/download/consultancies-explanatory-information.rtf) (RTF)
 * [Consultancies 2024-25](https://www.data.qld.gov.au/dataset/7038af67-fa75-4f36-a554-aba83003beb1/resource/5ac82693-5d89-47c9-9b1e-2f1a18cf8c1a/download/2024-25-annual-report-consultancies-reporting.csv) (CSV)
@@ -2278,15 +3130,17 @@ Modified: 2025-10-01T01:37:42.564172
 
 ### [State Library of Queensland -  Queensland mining accidents 1882-1945](https://data.qld.gov.au/dataset/2e5b65d7-09d5-403f-a5d5-a552410f2d5d)
 
+Source: data.qld.gov.au  
 Created: 2014-11-23T23:18:39.363230  
-Modified: 2024-06-13T23:20:27.742211
+Modified: 2026-07-24T05:07:57.423734
 
 * [Queensland mining accidents 1882-1945](https://www.data.qld.gov.au/dataset/2e5b65d7-09d5-403f-a5d5-a552410f2d5d/resource/35ea936d-083e-4ad6-beab-e0fede2cd3a6/download/slqqldminingaccidents.csv) (CSV)
 
 ### [State Library of Queensland - Aboriginal and Torres Strait Islander languages word lists](https://data.qld.gov.au/dataset/3fa7a159-f280-48f9-9a83-9209f73942ef)
 
+Source: data.qld.gov.au  
 Created: 2017-09-13T23:37:15.981177  
-Modified: 2024-06-13T06:00:08.400927
+Modified: 2026-07-24T05:08:19.186255
 
 * [Explanatory Information](https://www.data.qld.gov.au/dataset/3fa7a159-f280-48f9-9a83-9209f73942ef/resource/5c0d6488-63f0-48db-afc4-610773e1ea82/download/indigenous-languages-word-lists.docx) (DOCX)
 * [Barunggam word list](https://www.data.qld.gov.au/dataset/3fa7a159-f280-48f9-9a83-9209f73942ef/resource/e877c83a-be8a-4475-a496-7e808fa07935/download/barunggam.csv) (CSV)
@@ -2314,25 +3168,30 @@ Modified: 2024-06-13T06:00:08.400927
 
 ### [State Library of Queensland - British convict transportation registers](https://data.qld.gov.au/dataset/458eb59f-e5f1-466f-925b-9dbcebb4f073)
 
+Source: data.qld.gov.au  
 Created: 2012-12-07T06:17:39.920160  
-Modified: 2022-06-20T13:24:38.768614
+Modified: 2026-07-24T05:07:42.548081
 
 * [British Convict Registers](https://www.data.qld.gov.au/dataset/458eb59f-e5f1-466f-925b-9dbcebb4f073/resource/dbcfa4a6-3ec7-4264-bcee-43b21a470d34/download/slqbritishconvictregisters201605.csv) (CSV)
 * [Convict_records.txt](https://www.data.qld.gov.au/dataset/458eb59f-e5f1-466f-925b-9dbcebb4f073/resource/6e3d0523-b3e1-4b4a-b26d-a918b1e403b1/download/convict_records.txt) (TXT)
 
 ### [State Library of Queensland - Catalogue records, World War 1](https://data.qld.gov.au/dataset/f80e941c-9fa4-4f81-99a6-2e562d469a05)
 
+Source: data.qld.gov.au  
 Created: 2015-07-02T22:21:09.276395  
-Modified: 2025-05-07T00:30:38.241420
+Modified: 2026-07-24T05:08:04.382278
 
 * [Catalogue records - World War 1](https://www.data.qld.gov.au/dataset/f80e941c-9fa4-4f81-99a6-2e562d469a05/resource/e966ff2f-c2a7-4a3f-9623-de5acf721a46/download/world-war-1-edited.csv) (CSV)
 
 ### [State Library of Queensland - Catalogue searches](https://data.qld.gov.au/dataset/cebb997c-1c42-4eb2-9039-8fa1b645db0b)
 
+Source: data.qld.gov.au  
 Created: 2012-12-07T05:55:14.502123  
-Modified: 2025-05-06T23:13:14.651807
+Modified: 2026-07-24T05:11:06.993819
 
-* [Explanatory information - Catalogue searches](https://www.data.qld.gov.au/dataset/cebb997c-1c42-4eb2-9039-8fa1b645db0b/resource/b7aa1b2c-6a49-4be6-b6b1-aedc86b1dc4f/download/explanatory-information-catalogue-searches.rtf) (RTF)
+* [Explanatory information - Catalogue searches](https://www.data.qld.gov.au/dataset/cebb997c-1c42-4eb2-9039-8fa1b645db0b/resource/b7aa1b2c-6a49-4be6-b6b1-aedc86b1dc4f/download/explanatory-information-catalogue-searches-202607.pdf) (PDF)
+* [June 2026 Catalogue searches](https://www.data.qld.gov.au/dataset/cebb997c-1c42-4eb2-9039-8fa1b645db0b/resource/4754c338-7002-4702-856a-43471802571d/download/catalogue_search_terms_june2026.csv) (CSV)
+* [May 2026 Catalogue searches](https://www.data.qld.gov.au/dataset/cebb997c-1c42-4eb2-9039-8fa1b645db0b/resource/60f070b7-e9b8-42a9-abe4-6c3320ac2588/download/catalogue_search_terms_may2026.csv) (CSV)
 * [February 2021 Catalogue searches](https://www.data.qld.gov.au/dataset/cebb997c-1c42-4eb2-9039-8fa1b645db0b/resource/6fb628db-64df-463c-91ee-59a061872cd5/download/catalogue-searches-2021-02-february.csv) (CSV)
 * [January 2021 Catalogue searches](https://www.data.qld.gov.au/dataset/cebb997c-1c42-4eb2-9039-8fa1b645db0b/resource/825365cf-9411-44fb-beb9-1c210f6102b9/download/catalogue-searches-2021-01-january.csv) (CSV)
 * [December 2020 Catalogue searches](https://www.data.qld.gov.au/dataset/cebb997c-1c42-4eb2-9039-8fa1b645db0b/resource/d39ce22b-247a-4cba-901e-59a5629258a7/download/catalogue-searches-2020-12-december.csv) (CSV)
@@ -2445,27 +3304,32 @@ Modified: 2025-05-06T23:13:14.651807
 
 ### [State Library of Queensland - Charter of Victims' Rights complaints](https://data.qld.gov.au/dataset/c578732b-6acf-424c-9d96-01246ad39ba0)
 
+Source: data.qld.gov.au  
 Created: 2025-10-01T01:44:40.633173  
-Modified: 2025-10-01T01:48:08.191677
+Modified: 2026-07-24T05:09:23.594967
 
 * [Charter of Victims' Rights - Number of complaints - Annual report 2024-25](https://www.data.qld.gov.au/dataset/c578732b-6acf-424c-9d96-01246ad39ba0/resource/f70f4a88-8528-45d6-bbd3-4153c7788664/download/2024-25-annual-report-charter-of-victims-rights-number-of-complaints.csv) (CSV)
 
 ### [State Library of Queensland - Collection items in Aboriginal and Torres Strait Islander languages](https://data.qld.gov.au/dataset/d3e6f278-8385-4a40-b5d7-83e964d8d5b0)
 
+Source: data.qld.gov.au  
 Created: 2019-08-23T03:35:13.061902  
-Modified: 2025-12-09T04:07:26.758677
+Modified: 2026-08-03T22:48:04.809190
 
-* [Explanatory information - Collection items in Aboriginal and Torres Strait Islander languages](https://www.data.qld.gov.au/dataset/d3e6f278-8385-4a40-b5d7-83e964d8d5b0/resource/c0991f03-4f51-4731-b76e-67a95a98dc63/download/explanatory-information-slq-aiatsis-language-materials-202512.rtf) (RTF)
+* [Explanatory information - Collection items in Aboriginal and Torres Strait Islander languages](https://www.data.qld.gov.au/dataset/d3e6f278-8385-4a40-b5d7-83e964d8d5b0/resource/c0991f03-4f51-4731-b76e-67a95a98dc63/download/explanatory-information-slq-aiatsis-language-materials-202607.pdf) (PDF)
 * [Collection items in Aboriginal and Torres Strait Islander languages](https://www.data.qld.gov.au/dataset/d3e6f278-8385-4a40-b5d7-83e964d8d5b0/resource/c06a87dd-452a-4d5b-ba9c-d63d5bb04879/download/slq-aiatsis-language-materials-202512.csv) (CSV)
 
 ### [State Library of Queensland - Contract disclosure](https://data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688)
 
+Source: data.qld.gov.au  
 Created: 2019-12-18T03:12:22.623759  
-Modified: 2026-03-26T03:34:19.287872
+Modified: 2026-07-29T06:20:47.222816
 
-* [Explanatory information - Contract disclosure](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/4f691845-9c73-4279-8f7c-fb6b1a60b340/download/explanatory-information-contract-disclosure.rtf) (RTF)
-* [Contract Disclosure Report October - December 2025.csv](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/d526b93d-fbec-4c17-afb9-725b09693591/download/contract-disclosure-report-october-december-2025.csv) (CSV)
-* [Contract Disclosure Report  July-September 2025](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/fef787d0-1898-4076-b069-a4c9f46a5ee7/download/contract-disclosure-report-july-september-2025.csv) (CSV)
+* [Explanatory information - Contract disclosure](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/4f691845-9c73-4279-8f7c-fb6b1a60b340/download/explanatory-information-contracts-disclosure-202607.pdf) (PDF)
+* [Contract Disclosure Report April-June 2026](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/e0b86945-777a-497c-84f2-e96485115d5b/download/report-contract-disclosure-april-june-2026-v2.csv) (CSV)
+* [Contract Disclosure Report January-March 2026](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/64cf8187-761d-4bab-95e8-7c2c4630ec54/download/contract-disclosure-report-january-march-2026.csv) (CSV)
+* [Contract Disclosure Report October-December 2025](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/d526b93d-fbec-4c17-afb9-725b09693591/download/contract-disclosure-report-october-december-2025.csv) (CSV)
+* [Contract Disclosure Report  July-September 2025](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/fef787d0-1898-4076-b069-a4c9f46a5ee7/download/contract-disclosure-report-july-september-2025-1.csv) (CSV)
 * [Contract Disclosure Report April-June 2025](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/9fb0e01b-3168-4a9b-a43f-c62b53e54d87/download/contract-disclosure-april-june-2025-1.csv) (CSV)
 * [Contract Disclosure Report January-March 2025](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/532b790a-bb4e-4926-af68-4104b7422cfb/download/contract-disclosure-january-march-2025.csv) (CSV)
 * [Contract Disclosure Report October-December 2024](https://www.data.qld.gov.au/dataset/e4a9d01b-45c0-4ac6-b6dc-6986af6e8688/resource/9f177996-4e98-40e2-be9a-a31d44bbea61/download/contract-disclosure-report-october-december-2024.csv) (CSV)
@@ -2500,35 +3364,41 @@ Modified: 2026-03-26T03:34:19.287872
 
 ### [State Library of Queensland - Digitised maps](https://data.qld.gov.au/dataset/befaf9ae-6100-441f-9f77-2f9ed377e105)
 
+Source: data.qld.gov.au  
 Created: 2012-12-07T06:01:01.780878  
-Modified: 2025-05-07T00:31:26.637655
+Modified: 2026-07-24T05:07:34.901172
 
 * [NASLA_maps_other_PA.xml](https://www.data.qld.gov.au/dataset/befaf9ae-6100-441f-9f77-2f9ed377e105/resource/3698d8e1-51cd-4cf7-84a4-68e67a3426f8/download/nasla_maps_other_pa.xml) (XML)
 * [NASLA_maps_other.csv](https://www.data.qld.gov.au/dataset/befaf9ae-6100-441f-9f77-2f9ed377e105/resource/22bd64b9-1c7b-4a30-9dff-cc86227632a8/download/nasla_maps_other.csv) (CSV)
 
 ### [State Library of Queensland - Gifts and Benefits Register](https://data.qld.gov.au/dataset/4c062939-e08c-4391-bcdb-971a43d0761e)
 
+Source: data.qld.gov.au  
 Created: 2024-07-05T03:30:41.708707  
-Modified: 2025-07-17T23:14:00.033926
+Modified: 2026-07-24T05:11:28.893350
 
 * [Explanatory information - Gifts and Benefits Register](https://www.data.qld.gov.au/dataset/4c062939-e08c-4391-bcdb-971a43d0761e/resource/d56254b2-30dc-4e0c-ac90-6a6d741c0d2d/download/slq-gifts-benefits_explanatory-information.rtf) (RTF)
+* [Gifts and Benefits 2025-26 State Library of Queensland](https://www.data.qld.gov.au/dataset/4c062939-e08c-4391-bcdb-971a43d0761e/resource/2a8e56ea-cdf0-4ce6-b958-94815a63060a/download/gifts-and-benefits-2025-26-state-library-of-queensland.csv) (CSV)
+* [Gifts and Benefits 2024-25 State Library of Queensland](https://www.data.qld.gov.au/dataset/4c062939-e08c-4391-bcdb-971a43d0761e/resource/ae249526-6106-42e7-b95f-beb6674bd2da/download/gifts-and-benefits-2024-25-state-library-of-queensland.csv) (CSV)
 * [Gifts and Benefits 2023-24 - State Library of Queensland](https://www.data.qld.gov.au/dataset/4c062939-e08c-4391-bcdb-971a43d0761e/resource/2c372b66-b4e8-43d8-adbc-cf6604dfaa3d/download/gifts-and-benefits-2023-24-state-library-of-queensland.csv) (CSV)
-* [Gifts and Benefits 2024-25 State Library of Queensland.csv](https://www.data.qld.gov.au/dataset/4c062939-e08c-4391-bcdb-971a43d0761e/resource/ae249526-6106-42e7-b95f-beb6674bd2da/download/gifts-and-benefits-2024-25-state-library-of-queensland.csv) (CSV)
 
 ### [State Library of Queensland - Indigenous languages map data](https://data.qld.gov.au/dataset/b6f6cc4f-15e8-422b-9cdf-dc57c1bab7b2)
 
+Source: data.qld.gov.au  
 Created: 2020-05-14T07:28:39.584497  
-Modified: 2024-06-13T05:36:54.024602
+Modified: 2026-07-24T05:09:06.781693
 
 * [Explanatory Information - Indigenous languages map of Queensland data](https://www.data.qld.gov.au/dataset/b6f6cc4f-15e8-422b-9cdf-dc57c1bab7b2/resource/55d8e3fb-cb30-45b0-a853-1ccf4456e935/download/explanatory-information-indigenous-languages-map-data.rtf) (RTF)
 * [Indigenous languages map of Queensland data](https://www.data.qld.gov.au/dataset/b6f6cc4f-15e8-422b-9cdf-dc57c1bab7b2/resource/0fc7c06c-e03d-4c08-9cb0-f6cbfd2b69b7/download/slq-indigenous-languages-map-data.csv) (CSV)
 
 ### [State Library of Queensland - Library membership](https://data.qld.gov.au/dataset/1f3f1d06-2dfa-4c4a-8737-235afdf3d1e0)
 
+Source: data.qld.gov.au  
 Created: 2014-09-25T02:14:19.128992  
-Modified: 2025-05-07T00:51:37.557128
+Modified: 2026-07-24T05:14:06.897226
 
 * [Explanatory information - Library membership](https://www.data.qld.gov.au/dataset/1f3f1d06-2dfa-4c4a-8737-235afdf3d1e0/resource/d948838d-cf45-4cf8-ba8c-63c167281412/download/explanatory-information-library-membership.rtf) (RTF)
+* [2026 Library membership](https://www.data.qld.gov.au/dataset/1f3f1d06-2dfa-4c4a-8737-235afdf3d1e0/resource/c8f7875f-686e-45a9-8d11-e9cbe9266afd/download/slqmembership202606.csv) (CSV)
 * [2024 Library membership](https://www.data.qld.gov.au/dataset/1f3f1d06-2dfa-4c4a-8737-235afdf3d1e0/resource/e5aa9146-762c-4452-9f9a-dcca9b69ce47/download/slqmembership202405.csv) (CSV)
 * [2021 Library membership](https://www.data.qld.gov.au/dataset/1f3f1d06-2dfa-4c4a-8737-235afdf3d1e0/resource/fceb1f83-d38d-4c00-899c-8707f03726bc/download/slqmembership202101.csv) (CSV)
 * [2019 Library membership](https://www.data.qld.gov.au/dataset/1f3f1d06-2dfa-4c4a-8737-235afdf3d1e0/resource/162ac9af-c720-49ef-9cfc-7962cae03a80/download/slqmembership201909.csv) (CSV)
@@ -2537,8 +3407,9 @@ Modified: 2025-05-07T00:51:37.557128
 
 ### [State Library of Queensland - Licensed Victuallers Index](https://data.qld.gov.au/dataset/96c624e5-c6fd-4e26-8c07-90a236185437)
 
+Source: data.qld.gov.au  
 Created: 2018-03-29T04:57:25.467993  
-Modified: 2023-04-20T06:47:27.764507
+Modified: 2026-07-24T05:08:29.761003
 
 * [Explanatory Information (updated April 2023)](https://www.data.qld.gov.au/dataset/96c624e5-c6fd-4e26-8c07-90a236185437/resource/05aa5933-b605-4a54-801a-07b77859afd8/download/licensedvictuallersinformationupdatedapril2023slq.docx) (DOCX)
 * [Licensed Victuallers Index (updated August 2022)](https://www.data.qld.gov.au/dataset/96c624e5-c6fd-4e26-8c07-90a236185437/resource/4e858498-e2c5-407d-b6fc-a88234b6311a/download/licensedvictuallers1900-1914august2022slq.csv) (CSV)
@@ -2547,26 +3418,29 @@ Modified: 2023-04-20T06:47:27.764507
 
 ### [State Library of Queensland - Music Queensland](https://data.qld.gov.au/dataset/dea96cd1-aab5-4b6b-be35-c37d0838ae37)
 
+Source: data.qld.gov.au  
 Created: 2012-12-07T06:10:57.854325  
-Modified: 2025-05-06T23:44:36.048057
+Modified: 2026-07-24T05:15:02.245148
 
-* [NASLA_music.csv](https://www.data.qld.gov.au/dataset/dea96cd1-aab5-4b6b-be35-c37d0838ae37/resource/e829bffa-dbde-44ed-acd0-92d09dbe2677/download/nasla_music.csv) (CSV)
-* [NASLA_music.xml](https://www.data.qld.gov.au/dataset/dea96cd1-aab5-4b6b-be35-c37d0838ae37/resource/4470dac5-e832-45a4-9270-c3a18bec3046/download/nasla_music.xml) (XML)
+* [Explanatory information - Music Queensland](https://www.data.qld.gov.au/dataset/dea96cd1-aab5-4b6b-be35-c37d0838ae37/resource/a129b209-01a2-4e16-9c9d-9d7e1b452405/download/explanatory-information-slq-music-qld-202606.pdf) (PDF)
+* [Catalogue Records - Music Queensland.csv](https://www.data.qld.gov.au/dataset/dea96cd1-aab5-4b6b-be35-c37d0838ae37/resource/e829bffa-dbde-44ed-acd0-92d09dbe2677/download/slq_music_qld_202606.csv) (CSV)
 
 ### [State Library of Queensland - Music Queensland - World War 1](https://data.qld.gov.au/dataset/041bbe44-dd8b-47b2-a315-157233c02b90)
 
+Source: data.qld.gov.au  
 Created: 2018-07-26T06:55:19.483413  
-Modified: 2025-12-09T05:13:49.855359
+Modified: 2026-07-24T05:10:04.299338
 
-* [Explanatory information - Music Queensland World War 1](https://www.data.qld.gov.au/dataset/041bbe44-dd8b-47b2-a315-157233c02b90/resource/e5de2cc6-7f02-4bc5-bac1-862641f49bb4/download/explanatory-information-slq-music-queensland-ww1-202512.rtf) (RTF)
+* [Explanatory information - Music Queensland World War 1](https://www.data.qld.gov.au/dataset/041bbe44-dd8b-47b2-a315-157233c02b90/resource/e5de2cc6-7f02-4bc5-bac1-862641f49bb4/download/explanatory-information-slq-music-queensland-ww1-202607.pdf) (PDF)
 * [Music Queensland World War 1](https://www.data.qld.gov.au/dataset/041bbe44-dd8b-47b2-a315-157233c02b90/resource/1275335e-72c8-4848-ae39-94275defe86d/download/slq-music-queensland-ww1-202512.csv) (CSV)
 
 ### [State Library of Queensland - Open Data Maturity Assessments](https://data.qld.gov.au/dataset/3f48e308-5572-491d-9a00-2208d70b4562)
 
+Source: data.qld.gov.au  
 Created: 2019-10-30T05:00:15.341235  
-Modified: 2025-05-07T00:58:07.421653
+Modified: 2026-07-24T05:08:52.257960
 
-* [Explanatory information - Open Data Maturity Assessments](https://www.data.qld.gov.au/dataset/3f48e308-5572-491d-9a00-2208d70b4562/resource/aab6df1a-0210-4425-9cc6-75e0bfe1b2d5/download/explanatory-information-open-data-maturity-assessments.rtf) (RTF)
+* [Explanatory information - Open Data Maturity Assessments](https://www.data.qld.gov.au/dataset/3f48e308-5572-491d-9a00-2208d70b4562/resource/aab6df1a-0210-4425-9cc6-75e0bfe1b2d5/download/explanatory-information-open-data-maturity-assessments-202607.pdf) (PDF)
 * [2020 Answers - Open Data Maturity Assessment](https://www.data.qld.gov.au/dataset/3f48e308-5572-491d-9a00-2208d70b4562/resource/0bfd0628-b831-42fe-ae71-94299c092b01/download/2020-answers-open-data-maturity-assessment.csv) (CSV)
 * [2020 Scores - Open Data Maturity Assessment](https://www.data.qld.gov.au/dataset/3f48e308-5572-491d-9a00-2208d70b4562/resource/4b4c1944-b3da-48db-8dae-4b801a695e61/download/2020-scores-open-data-maturity-assessment.csv) (CSV)
 * [2019 Scores - Open Data Maturity Assessment](https://www.data.qld.gov.au/dataset/3f48e308-5572-491d-9a00-2208d70b4562/resource/e4de3be9-2a32-4449-8bbc-b0372469ef10/download/2019-scores-open-data-maturity-assessment.csv) (CSV)
@@ -2580,8 +3454,9 @@ Modified: 2025-05-07T00:58:07.421653
 
 ### [State Library of Queensland - Overseas travel](https://data.qld.gov.au/dataset/a53ff296-9c2e-4621-a824-11498959b75c)
 
+Source: data.qld.gov.au  
 Created: 2014-10-20T02:38:25.823218  
-Modified: 2025-10-01T01:36:12.167386
+Modified: 2026-07-24T05:09:38.947637
 
 * [Explanatory information - Overseas travel](https://www.data.qld.gov.au/dataset/a53ff296-9c2e-4621-a824-11498959b75c/resource/5349a591-4d94-4bfe-b5f3-a91d57443d68/download/overseas-travel_explanatory-information.rtf) (RTF)
 * [Overseas travel 2024-25](https://www.data.qld.gov.au/dataset/a53ff296-9c2e-4621-a824-11498959b75c/resource/dfec2ba5-3a45-4482-83a4-78b511e4fb14/download/2024-25-annual-report-overseas-travel-reporting.csv) (CSV)
@@ -2599,23 +3474,26 @@ Modified: 2025-10-01T01:36:12.167386
 
 ### [State Library of Queensland - Persons called before Queensland Government committees 1860-1920](https://data.qld.gov.au/dataset/623d1ff9-8c20-486b-ada2-a69a35c16134)
 
+Source: data.qld.gov.au  
 Created: 2019-07-24T04:23:53.628883  
-Modified: 2026-02-25T01:15:28.318889
+Modified: 2026-08-03T22:47:56.793490
 
 * [Explanatory information - Persons called before Queensland government committees 1860-1920](https://www.data.qld.gov.au/dataset/623d1ff9-8c20-486b-ada2-a69a35c16134/resource/87d9faed-be67-4559-bd16-3f5dcde827da/download/persons-called-before-qld-govt-committees-explanatory-information-202602.rtf) (RTF)
-* [Persons called before Queensland Government committees 1860-1920](https://www.data.qld.gov.au/dataset/623d1ff9-8c20-486b-ada2-a69a35c16134/resource/390ffd43-8a07-4b3f-b523-27dceadb904d/download/persons-called-before-qld-govt-committees-1860-1920-202602.csv) (CSV)
+* [Persons called before Queensland Government committees 1860-1920](https://www.data.qld.gov.au/dataset/623d1ff9-8c20-486b-ada2-a69a35c16134/resource/390ffd43-8a07-4b3f-b523-27dceadb904d/download/persons_called_1860-1920_full_record_set_updated_2026_04-20.csv) (CSV)
 
 ### [State Library of Queensland - Photographs 1914-1918](https://data.qld.gov.au/dataset/6b3dc1c0-4ca3-48f4-8524-3731285cc412)
 
+Source: data.qld.gov.au  
 Created: 2015-07-02T22:41:29.697651  
-Modified: 2025-12-09T04:04:28.761953
+Modified: 2026-07-24T05:08:11.741167
 
-* [Photographs 1914-1918](https://www.data.qld.gov.au/dataset/6b3dc1c0-4ca3-48f4-8524-3731285cc412/resource/b798fc3b-4bd7-4bd5-8e33-e2a46f3df7b0/download/photographs_1914_1918.csv) (CSV)
+* [Photographs 1914-1918](https://www.data.qld.gov.au/dataset/6b3dc1c0-4ca3-48f4-8524-3731285cc412/resource/b798fc3b-4bd7-4bd5-8e33-e2a46f3df7b0/download/meadataandurl-worldwar1.csv) (CSV)
 
 ### [State Library of Queensland - Picture Queensland](https://data.qld.gov.au/dataset/4295bf38-708a-4832-9665-443b6c08e4e1)
 
+Source: data.qld.gov.au  
 Created: 2012-12-05T03:06:55.733592  
-Modified: 2025-05-07T00:26:45.163969
+Modified: 2026-07-24T05:07:18.063324
 
 * [NASLA_non_ATSI_copyright_expired.xml](https://www.data.qld.gov.au/dataset/4295bf38-708a-4832-9665-443b6c08e4e1/resource/5300651a-3a85-4e74-b715-b6637efe3877/download/nasla_non_atsi_copyright_expired.xml) (XML)
 * [NASLA_non_ATSI_copyright_expired.csv](https://www.data.qld.gov.au/dataset/4295bf38-708a-4832-9665-443b6c08e4e1/resource/8a327cf9-cff9-4b34-a461-6f883bdc3a48/download/nasla_non_atsi_copyright_expired.csv) (CSV)
@@ -2623,8 +3501,9 @@ Modified: 2025-05-07T00:26:45.163969
 
 ### [State Library of Queensland - Police Gazette Inquests 1875-1885](https://data.qld.gov.au/dataset/f1a5089b-01f9-40a8-8aee-ce62a4721bde)
 
+Source: data.qld.gov.au  
 Created: 2020-04-03T05:08:36.402383  
-Modified: 2024-06-14T02:33:00.773715
+Modified: 2026-07-24T05:08:59.541803
 
 * [Explanatory information - Police Gazette Inquests 1875-1885 (updated Dec 2021)](https://www.data.qld.gov.au/dataset/f1a5089b-01f9-40a8-8aee-ce62a4721bde/resource/c2da9a7f-6b42-42f6-a300-25b0daa6d784/download/explanatory-information_police-gazettes-inquests-1875-1885-updated-dec-2021.rtf) (RTF)
 * [Explanatory information - Police Gazette Inquests 1875-1885](https://www.data.qld.gov.au/dataset/f1a5089b-01f9-40a8-8aee-ce62a4721bde/resource/b6f49f3c-a4e8-45cc-946b-945b98bb80aa/download/explanatory-information_police-gazettes-inquests-1875-1885.rtf) (RTF)
@@ -2633,25 +3512,29 @@ Modified: 2024-06-14T02:33:00.773715
 
 ### [State Library of Queensland - Portraits of WW1 soldiers from the Australasian Traveller](https://data.qld.gov.au/dataset/71375e54-eab8-4344-9a04-72515ef53edd)
 
+Source: data.qld.gov.au  
 Created: 2018-08-20T01:44:51.169514  
-Modified: 2025-05-23T02:41:29.531944
+Modified: 2026-07-24T05:10:34.244313
 
-* [Explanatory Information - Portraits of WW1 soldiers from the Australasian Traveller](https://www.data.qld.gov.au/dataset/71375e54-eab8-4344-9a04-72515ef53edd/resource/d36ae90e-6ce6-432b-84b8-81149e215709/download/slq-australasian-traveller_explanatory-information.rtf) (RTF)
-* [Portraits of WW1 soldiers - Australasian Traveller](https://www.data.qld.gov.au/dataset/71375e54-eab8-4344-9a04-72515ef53edd/resource/6684dfdc-34f7-43bf-bb71-b3bb043bdb61/download/slq_australasian_traveller_202409.csv) (CSV)
+* [Explanatory Information - Portraits of WW1 soldiers from the Australasian Traveller](https://www.data.qld.gov.au/dataset/71375e54-eab8-4344-9a04-72515ef53edd/resource/d36ae90e-6ce6-432b-84b8-81149e215709/download/slq-australasian-traveller_explanatory-information-202607.pdf) (PDF)
+* [Portraits of WW1 soldiers - Australasian Traveller](https://www.data.qld.gov.au/dataset/71375e54-eab8-4344-9a04-72515ef53edd/resource/6684dfdc-34f7-43bf-bb71-b3bb043bdb61/download/slq_australasian_traveller_202606.csv) (CSV)
 
 ### [State Library of Queensland - Portraits of soldiers from the South African War (1899-1902)](https://data.qld.gov.au/dataset/91efa00c-b982-4df9-8735-f9a2d3bfdd34)
 
+Source: data.qld.gov.au  
 Created: 2014-09-26T00:18:25.128694  
-Modified: 2024-06-14T07:40:09.550177
+Modified: 2026-07-24T05:07:50.159691
 
 * [Portraits of soldiers from the South African War (1899-1902)](https://www.data.qld.gov.au/dataset/91efa00c-b982-4df9-8735-f9a2d3bfdd34/resource/3ce930b0-3c44-49e5-b956-4aea7a57d89f/download/indsawextract.csv) (CSV)
 
 ### [State Library of Queensland - Public Library grants to local government (Queensland)](https://data.qld.gov.au/dataset/dee2765b-1167-4bb3-a8b9-af86bc55b0f4)
 
+Source: data.qld.gov.au  
 Created: 2014-09-25T02:31:50.999865  
-Modified: 2025-05-07T00:46:53.617110
+Modified: 2026-07-24T05:11:55.339605
 
-* [Explanatory Information - Public Library grants to local government (Queensland)](https://www.data.qld.gov.au/dataset/dee2765b-1167-4bb3-a8b9-af86bc55b0f4/resource/d6b2086c-804b-4d40-beeb-611ababa9416/download/slqpubliclibrarygrantsinformation-2024.rtf) (RTF)
+* [Explanatory Information - Public Library grants to local government (Queensland)](https://www.data.qld.gov.au/dataset/dee2765b-1167-4bb3-a8b9-af86bc55b0f4/resource/d6b2086c-804b-4d40-beeb-611ababa9416/download/public_libraries_grants_explanatory_information_state-library.pdf) (PDF)
+* [Public Libraries Grants 2024-2026](https://www.data.qld.gov.au/dataset/dee2765b-1167-4bb3-a8b9-af86bc55b0f4/resource/3f2ce31c-882a-4bfa-a49a-3c8beffaa36d/download/public-library-grant-funding-2024-2026.csv) (CSV)
 * [Public Libraries Grants 2023-2024](https://www.data.qld.gov.au/dataset/dee2765b-1167-4bb3-a8b9-af86bc55b0f4/resource/f38af8c2-0426-4f85-a536-90e73f567d83/download/plconnect-grant-funding-2023-2024.csv) (CSV)
 * [Public Libraries Grants 2022-2023](https://www.data.qld.gov.au/dataset/dee2765b-1167-4bb3-a8b9-af86bc55b0f4/resource/6ee8cdbd-0351-4b2d-818a-6980b6359e8e/download/plconnect-grant-funding-2022-2023.csv) (CSV)
 * [Public Library Grants 2016-2018](https://www.data.qld.gov.au/dataset/dee2765b-1167-4bb3-a8b9-af86bc55b0f4/resource/194fff98-ae74-46ae-a944-51fb54944ed7/download/publiclibrarygrants1march2018slq.csv) (CSV)
@@ -2659,8 +3542,9 @@ Modified: 2025-05-07T00:46:53.617110
 
 ### [State Library of Queensland - Queensland Language Services](https://data.qld.gov.au/dataset/147d1ca9-bd43-4440-b42e-15db36e97d21)
 
+Source: data.qld.gov.au  
 Created: 2021-12-24T02:05:47.573910  
-Modified: 2025-10-01T01:34:12.036645
+Modified: 2026-07-24T05:09:47.798468
 
 * [Explanatory information - Queensland Language Services](https://www.data.qld.gov.au/dataset/147d1ca9-bd43-4440-b42e-15db36e97d21/resource/efa19eee-28df-40f2-8874-2cc04cbba207/download/explanatory-information_queenslandlanguages.rtf) (RTF)
 * [Language Services - Library Board of Queensland 2024-25](https://www.data.qld.gov.au/dataset/147d1ca9-bd43-4440-b42e-15db36e97d21/resource/95ee9101-dbdc-4491-b505-84b1fa0cee66/download/2024-25-annual-report-qlsp-reporting.csv) (CSV)
@@ -2671,41 +3555,50 @@ Modified: 2025-10-01T01:34:12.036645
 
 ### [State Library of Queensland - Queensland public libraries annual statistics](https://data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb)
 
+Source: data.qld.gov.au  
 Created: 2019-03-06T05:45:27.282956  
-Modified: 2025-05-07T00:42:30.136148
+Modified: 2026-07-24T05:13:04.282708
 
-* [Explanatory information 2023](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/95952a86-747e-4bd5-8494-92087863a9bd/download/explanatory-information-2023-qld-public-libraries-annual-statistics.rtf) (RTF)
-* [Branch data 2010/2011 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/30a86bed-8e1c-46ac-a7e4-98e3b6d91b97/download/branch-data-2010-2011-qld-public-libraries.csv) (CSV)
-* [Branch data 2011/2012 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/181ca4f5-44d5-4a86-b1b2-119222782433/download/branch-data-2011-2012-qld-public-libraries.csv) (CSV)
-* [Branch data 2012/2013 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/d2464d0d-a129-474c-aa8c-5164e6227152/download/branch-data-2012-2013-qld-public-libraries.csv) (CSV)
-* [Branch data 2013/2014 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/fa991503-0270-46f0-bfb3-e285cb0c3397/download/branch-data-2013-2014-qld-public-libraries.csv) (CSV)
-* [Branch data 2014/2015 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/f8ab1846-4b85-4d0d-a827-ae1637cca454/download/branch-data-2014-2015-qld-public-libraries.csv) (CSV)
-* [Branch data 2015/2016 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/4b0ec034-933f-4996-9d2b-00ab59e05219/download/branch-data-2015-2016-qld-public-libraries.csv) (CSV)
-* [Branch data 2016/2017 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/8fb732c9-19a7-4f5d-a1b0-f53382251759/download/branch-data-2016-2017-qld-public-libraries.csv) (CSV)
-* [Branch data 2017/2018 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/3344b984-7a50-4518-8d0d-06022a6e8e7d/download/branch-data-2017-2018-qld-public-libraries.csv) (CSV)
-* [Branch data 2018/2019 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/2b0c2d09-ed23-4a5a-a7b4-2f7ddfbaae3d/download/branch-data-2018-2019-qld-public-libraries.csv) (CSV)
-* [Branch data 2019/2020 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/0cd84d87-e4ae-4c8a-bb6d-e8e010ea0c39/download/branch-data-2019-2020-qld-public-libraries.csv) (CSV)
-* [Branch data 2020/2021 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/a7c410b3-0c90-470e-ae29-11ce10726d10/download/branch-data-2020-2021-queensland-public-libraries-annual-statistics.csv) (CSV)
-* [Branch data 2021/2022 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/75fdd03e-b5e4-4a9b-82c3-fddbd6c0fadb/download/branch-data-2021-2022-queensland-public-libraries-annual-statistics.csv) (CSV)
-* [Council data 2010/2011 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/8e754884-1546-4cfb-b9d5-74c59f78ee8b/download/council-data-2010-2011-qld-public-libraries.csv) (CSV)
-* [Council data 2011/2012 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/b0f4b4eb-6615-4ea6-8aaf-b25d34965063/download/council-data-2011-2012-qld-public-libraries.csv) (CSV)
-* [Council data 2012/2013 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/36205294-7934-4eac-9f42-e9b7ec3cb857/download/council-data-2012-2013-qld-public-libraries.csv) (CSV)
-* [Council data 2013/2014 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/a816de2d-9a4f-48ff-8605-6a3c3c28d37d/download/council-data-2013-2014-qld-public-libraries.csv) (CSV)
-* [Council data 2014/2015 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/fb114a5b-0803-4a33-9292-0ec0ace6e6cf/download/council-data-2014-2015-qld-public-libraries.csv) (CSV)
-* [Council data 2015/2016 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/acf5fe9e-1744-439a-881e-b0b76477e8dc/download/council-data-2015-2016-qld-public-libraries.csv) (CSV)
-* [Council data 2016/2017 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/70fa159d-06f5-4dc2-bc0f-a19f557e8cf9/download/council-data-2016-2017-qld-public-libraries.csv) (CSV)
-* [Council data 2017/2018 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/3111aeb3-8d1c-4575-aa87-4fe7675a94fb/download/council-data-2017-2018-qld-public-libraries.csv) (CSV)
-* [Council data 2018/2019 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/f10df735-4a8a-45d6-8db9-b2a1a4a4289d/download/council-data-2018-2019-qld-public-libraries.csv) (CSV)
-* [Council data 2019/2020 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/0064493c-aa85-49ea-8e49-758cc9f46282/download/council-data-2019-2020-qld-public-libraries.csv) (CSV)
-* [Council data 2020/2021 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/7228e2ba-6761-49f5-952d-5b6d71224f7c/download/council-data-2020-2021-queensland-public-libraries-annual-statistics-csv-.csv) (CSV)
+* [Explanatory information](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/95952a86-747e-4bd5-8494-92087863a9bd/download/opendataportal-explanatory-information-2026-qld-public-libraries-annual-statisitcs.pdf) (PDF)
+* [Council data 2024/2025 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/7fb7dac3-0e04-479c-ad25-4dfd9cb4cafc/download/council-data-2024-2025-queensland-public-libraries-annual-statistics.csv) (CSV)
+* [Branch data 2024/2025 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/e593c005-39a0-41f0-ad5b-da1e03fd0a06/download/branch-data-2024-2025-queensland-public-libraries-annual-statistics.csv) (CSV)
+* [Council data 2023/2024 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/760d5f43-f765-4b78-99b3-1cf5ab5cfa5a/download/council-data-2023-2024-queensland-public-libraries-annual-statistics.csv) (CSV)
+* [Branch data 2023/2024 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/6ade155a-c1dc-4102-96c0-b63d0f580ab3/download/branch-data-2023-2024-queensland-public-libraries-annual-statistics.csv) (CSV)
+* [Council data 2022/2023 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/8d8d20b1-a3aa-452e-9127-c02e6c4ae9ef/download/council-data-2022-2023-queensland-public-libraries-annual-statistics.csv) (CSV)
+* [Branch data 2022/2023 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/3b1e8afe-3cac-4c99-ac61-7507862a9647/download/branch-data-2022-2023-queensland-public-libraries-annual-statistics.csv) (CSV)
 * [Council data 2021/2022 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/838d8cac-5d00-49b7-9e55-7393f9d64b2a/download/council-data-2021-2022-queensland-public-libraries-annual-statistics-csv-.csv) (CSV)
+* [Branch data 2021/2022 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/75fdd03e-b5e4-4a9b-82c3-fddbd6c0fadb/download/branch-data-2021-2022-queensland-public-libraries-annual-statistics.csv) (CSV)
+* [Council data 2020/2021 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/7228e2ba-6761-49f5-952d-5b6d71224f7c/download/council-data-2020-2021-queensland-public-libraries-annual-statistics-csv-.csv) (CSV)
+* [Branch data 2020/2021 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/a7c410b3-0c90-470e-ae29-11ce10726d10/download/branch-data-2020-2021-queensland-public-libraries-annual-statistics.csv) (CSV)
+* [Council data 2019/2020 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/0064493c-aa85-49ea-8e49-758cc9f46282/download/council-data-2019-2020-qld-public-libraries.csv) (CSV)
+* [Branch data 2019/2020 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/0cd84d87-e4ae-4c8a-bb6d-e8e010ea0c39/download/branch-data-2019-2020-qld-public-libraries.csv) (CSV)
+* [Council data 2018/2019 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/f10df735-4a8a-45d6-8db9-b2a1a4a4289d/download/council-data-2018-2019-qld-public-libraries.csv) (CSV)
+* [Branch data 2018/2019 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/2b0c2d09-ed23-4a5a-a7b4-2f7ddfbaae3d/download/branch-data-2018-2019-qld-public-libraries.csv) (CSV)
+* [Council data 2017/2018 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/3111aeb3-8d1c-4575-aa87-4fe7675a94fb/download/council-data-2017-2018-qld-public-libraries.csv) (CSV)
+* [Branch data 2017/2018 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/3344b984-7a50-4518-8d0d-06022a6e8e7d/download/branch-data-2017-2018-qld-public-libraries.csv) (CSV)
+* [Council data 2016/2017 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/70fa159d-06f5-4dc2-bc0f-a19f557e8cf9/download/council-data-2016-2017-qld-public-libraries.csv) (CSV)
+* [Branch data 2016/2017 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/8fb732c9-19a7-4f5d-a1b0-f53382251759/download/branch-data-2016-2017-qld-public-libraries.csv) (CSV)
+* [Council data 2015/2016 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/acf5fe9e-1744-439a-881e-b0b76477e8dc/download/council-data-2015-2016-qld-public-libraries.csv) (CSV)
+* [Branch data 2015/2016 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/4b0ec034-933f-4996-9d2b-00ab59e05219/download/branch-data-2015-2016-qld-public-libraries.csv) (CSV)
+* [Council data 2014/2015 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/fb114a5b-0803-4a33-9292-0ec0ace6e6cf/download/council-data-2014-2015-qld-public-libraries.csv) (CSV)
+* [Branch data 2014/2015 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/f8ab1846-4b85-4d0d-a827-ae1637cca454/download/branch-data-2014-2015-qld-public-libraries.csv) (CSV)
+* [Council data 2013/2014 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/a816de2d-9a4f-48ff-8605-6a3c3c28d37d/download/council-data-2013-2014-qld-public-libraries.csv) (CSV)
+* [Branch data 2013/2014 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/fa991503-0270-46f0-bfb3-e285cb0c3397/download/branch-data-2013-2014-qld-public-libraries.csv) (CSV)
+* [Council data 2012/2013 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/36205294-7934-4eac-9f42-e9b7ec3cb857/download/council-data-2012-2013-qld-public-libraries.csv) (CSV)
+* [Branch data 2012/2013 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/d2464d0d-a129-474c-aa8c-5164e6227152/download/branch-data-2012-2013-qld-public-libraries.csv) (CSV)
+* [Council data 2011/2012 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/b0f4b4eb-6615-4ea6-8aaf-b25d34965063/download/council-data-2011-2012-qld-public-libraries.csv) (CSV)
+* [Branch data 2011/2012 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/181ca4f5-44d5-4a86-b1b2-119222782433/download/branch-data-2011-2012-qld-public-libraries.csv) (CSV)
+* [Council data 2010/2011 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/8e754884-1546-4cfb-b9d5-74c59f78ee8b/download/council-data-2010-2011-qld-public-libraries.csv) (CSV)
+* [Branch data 2010/2011 — Queensland public libraries annual statistics](https://www.data.qld.gov.au/dataset/f78aa2f5-5fa8-4655-bd38-1b5f051e1adb/resource/30a86bed-8e1c-46ac-a7e4-98e3b6d91b97/download/branch-data-2010-2011-qld-public-libraries.csv) (CSV)
 
 ### [State Library of Queensland - Queensland public libraries directory](https://data.qld.gov.au/dataset/537ff4c4-b49a-41f6-8c56-489b8bc731af)
 
+Source: data.qld.gov.au  
 Created: 2012-12-07T06:21:10.275483  
-Modified: 2025-05-07T00:35:30.427920
+Modified: 2026-07-24T05:13:54.186651
 
-* [Explanatory information - Queensland public libraries directory](https://www.data.qld.gov.au/dataset/537ff4c4-b49a-41f6-8c56-489b8bc731af/resource/e4faf0bf-4eb9-49c7-b5ec-28a7956dc155/download/qld-public-libraries-explantory-info-20240917.rtf) (RTF)
+* [Explanatory information - Queensland public libraries directory](https://www.data.qld.gov.au/dataset/537ff4c4-b49a-41f6-8c56-489b8bc731af/resource/e4faf0bf-4eb9-49c7-b5ec-28a7956dc155/download/public_libraries_directory_explanatory_information_.pdf) (PDF)
+* [Queensland Public Libraries 2026](https://www.data.qld.gov.au/dataset/537ff4c4-b49a-41f6-8c56-489b8bc731af/resource/0cfcb57e-4cfc-41ca-a337-39ce1cb99344/download/opendata_2026_public_library_directory_.csv) (CSV)
 * [Queensland Public Libraries May 2024](https://www.data.qld.gov.au/dataset/537ff4c4-b49a-41f6-8c56-489b8bc731af/resource/804eb167-9858-43cd-a6e2-c34eed1bad53/download/plconnect-directory-branches-2024-05-29.csv) (CSV)
 * [Queensland Public Libraries January 2021](https://www.data.qld.gov.au/dataset/537ff4c4-b49a-41f6-8c56-489b8bc731af/resource/b6cddba1-5084-4b40-a222-de885d59d617/download/plconnect-directory-branches-2021-01-13.csv) (CSV)
 * [Queensland Public Libraries May 2020](https://www.data.qld.gov.au/dataset/537ff4c4-b49a-41f6-8c56-489b8bc731af/resource/4dde7282-6adc-4ab3-86bb-68f0ab517ff7/download/plconnect-directory-branches-2020-05-25.csv) (CSV)
@@ -2719,8 +3612,9 @@ Modified: 2025-05-07T00:35:30.427920
 
 ### [State Library of Queensland - Queensland railway employees 1890-1915](https://data.qld.gov.au/dataset/a6149d43-9f72-40e3-8ed6-905b3131ef55)
 
+Source: data.qld.gov.au  
 Created: 2018-05-18T01:54:24.761168  
-Modified: 2025-05-29T03:57:24.990862
+Modified: 2026-07-24T05:08:37.189417
 
 * [Explanatory information](https://www.data.qld.gov.au/dataset/a6149d43-9f72-40e3-8ed6-905b3131ef55/resource/98907f7e-774d-4a37-891a-fb57525eb2dd/download/qld-railway-employees-explanatory-information27feb2024.docx) (DOCX)
 * [Queensland railway appointees 1890-1915](https://www.data.qld.gov.au/dataset/a6149d43-9f72-40e3-8ed6-905b3131ef55/resource/cdafbbbf-c9ca-46a1-9f18-ecd9e8943040/download/appointments_1890_1915_railway-employees_final.csv) (CSV)
@@ -2728,16 +3622,18 @@ Modified: 2025-05-29T03:57:24.990862
 
 ### [State Library of Queensland - Real estate maps](https://data.qld.gov.au/dataset/959d611f-a9cf-4e80-affa-1ebd978cafea)
 
+Source: data.qld.gov.au  
 Created: 2012-12-07T06:05:16.640302  
-Modified: 2025-05-23T05:34:38.050365
+Modified: 2026-07-24T05:10:42.330820
 
-* [Explanatory Information - Real Estate Maps](https://www.data.qld.gov.au/dataset/959d611f-a9cf-4e80-affa-1ebd978cafea/resource/4dfea0af-bdc0-40b6-8ef7-beb869798a95/download/realestatemapsinformation21february2018slq.rtf) (RTF)
-* [Real Estate Maps](https://www.data.qld.gov.au/dataset/959d611f-a9cf-4e80-affa-1ebd978cafea/resource/9eaeeceb-e8e3-49a1-928a-4df76b059c2d/download/slq_real_estate_maps_digitised_202409.csv) (CSV)
+* [Explanatory Information - Real Estate Maps](https://www.data.qld.gov.au/dataset/959d611f-a9cf-4e80-affa-1ebd978cafea/resource/4dfea0af-bdc0-40b6-8ef7-beb869798a95/download/real-estate-maps-explanatory-information-state-library-202607.pdf) (PDF)
+* [Real Estate Maps](https://www.data.qld.gov.au/dataset/959d611f-a9cf-4e80-affa-1ebd978cafea/resource/9eaeeceb-e8e3-49a1-928a-4df76b059c2d/download/slq_real_estate_maps_digitised_202606.csv) (CSV)
 
 ### [State Library of Queensland - Southern and Western Railway employees 1866-1876](https://data.qld.gov.au/dataset/eef8cc6b-6bdd-4439-994e-5f74c509618a)
 
+Source: data.qld.gov.au  
 Created: 2019-07-23T01:11:54.015370  
-Modified: 2024-07-25T06:57:23.737939
+Modified: 2026-08-03T22:47:48.120676
 
 * [Explanatory information](https://www.data.qld.gov.au/dataset/eef8cc6b-6bdd-4439-994e-5f74c509618a/resource/027cdd56-f0c7-4d10-8151-ff852de6090e/download/southern-and-western-railway-employees-explanatory-information25july2024.rtf) (RTF)
 * [Southern and Western Railway appointees 1866-1876](https://www.data.qld.gov.au/dataset/eef8cc6b-6bdd-4439-994e-5f74c509618a/resource/9e230691-9ca2-41a8-ba09-ae9ca70c9f00/download/qld-southern-and-western-railway-appointees-1866-1876.csv) (CSV)
@@ -2745,8 +3641,9 @@ Modified: 2024-07-25T06:57:23.737939
 
 ### [State Library of Queensland - Teachers in the Education Office Gazettes 1899-1925 and 1926-1952](https://data.qld.gov.au/dataset/994c6866-4118-4661-a11b-b924f906acda)
 
+Source: data.qld.gov.au  
 Created: 2020-06-29T05:16:47.502321  
-Modified: 2024-01-16T01:28:38.452975
+Modified: 2026-07-24T05:09:16.256809
 
 * [Teachers in the Education Office Gazettes 1899-1925 and 1926-1952 Explanatory Information](https://www.data.qld.gov.au/dataset/994c6866-4118-4661-a11b-b924f906acda/resource/af222448-c925-411f-b9a0-d9edf9aea63a/download/teachers-in-the-education-office-gazettes-1899-1925_1926-1952-explanatory-information.rtf) (RTF)
 * [Teachers in the Education Office Gazettes 1899-1925](https://www.data.qld.gov.au/dataset/994c6866-4118-4661-a11b-b924f906acda/resource/51363722-c062-4a3f-ac7c-d86a847a715b/download/teachers-in-the-education-office-gazettes-1899-1925.csv) (CSV)
@@ -2754,18 +3651,26 @@ Modified: 2024-01-16T01:28:38.452975
 
 ### [State Library of Queensland - The Queenslander newspaper photographs 1914-1918](https://data.qld.gov.au/dataset/9b34c6a9-d105-4495-9590-a035ffc59f0e)
 
+Source: data.qld.gov.au  
 Created: 2015-07-02T22:48:39.521715  
-Modified: 2025-05-23T02:51:26.159528
+Modified: 2026-07-24T05:15:12.245482
 
-* [Explanatory Information - The Queenslander newspaper photographs](https://www.data.qld.gov.au/dataset/9b34c6a9-d105-4495-9590-a035ffc59f0e/resource/01ce0a28-0c1d-4930-b0f0-b8b2498523ed/download/slq-queenslander-pictorial_explanatory-information.rtf) (RTF)
-* [The Queenslander newspaper photographs 1914-1918](https://www.data.qld.gov.au/dataset/9b34c6a9-d105-4495-9590-a035ffc59f0e/resource/cf4d43d8-2aad-4512-99e6-f6be2bf24466/download/slq_queenslander_pictorial_202409.csv) (CSV)
+* [Explanatory Information - The Queenslander newspaper photographs](https://www.data.qld.gov.au/dataset/9b34c6a9-d105-4495-9590-a035ffc59f0e/resource/01ce0a28-0c1d-4930-b0f0-b8b2498523ed/download/slq-queenslander-pictorial_explanatory-information-202607.pdf) (PDF)
+* [The Queenslander newspaper photographs 1914-1918](https://www.data.qld.gov.au/dataset/9b34c6a9-d105-4495-9590-a035ffc59f0e/resource/cf4d43d8-2aad-4512-99e6-f6be2bf24466/download/slq_queenslander_pictorial_202606.csv) (CSV)
 
 ### [State Library of Queensland - Unstacked logs - Catalogue usage](https://data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b)
 
+Source: data.qld.gov.au  
 Created: 2019-05-17T04:27:32.465035  
-Modified: 2026-03-03T00:33:49.302101
+Modified: 2026-08-31T23:14:29.194662
 
-* [Explanatory information — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/dac7865a-6d02-428a-8737-48eb08851146/download/slq-unstacked-logs-explanatory-information.rtf) (RTF)
+* [Explanatory information — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/dac7865a-6d02-428a-8737-48eb08851146/download/slq-unstacked-logs-explanatory-information-202607.pdf) (PDF)
+* [August 2026 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/211d84f4-4720-4493-9ab1-21813f653711/download/unstacked-export-202608-json.csv) (CSV)
+* [July 2026 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/7f52c359-9e11-4201-88bb-cc0c5e040c5c/download/unstacked-export-202607-json.csv) (CSV)
+* [June 2026 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/3ca15cb8-6f84-494e-b472-b7c4c3071ef5/download/unstacked-export-202606-json.csv) (CSV)
+* [May 2026 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/9f1d5dda-0b07-4939-b801-3bf22bcc5890/download/unstacked-export-202605-json.csv) (CSV)
+* [April 2026 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/d9e22147-fbd4-47cb-bab9-44eecb441b7f/download/unstacked-export-202604-json.csv) (CSV)
+* [March 2026 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/1db96485-6775-4590-8e73-4101a1a54af2/download/unstacked-export-202603-json.csv) (CSV)
 * [February 2026 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/60ec08d0-01ea-4000-b509-d6c7a151a7ad/download/unstacked-export-202602-json.csv) (CSV)
 * [January 2026 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/2a6e88d9-1fad-4f48-aa20-7e337b1ba5b4/download/unstacked-export-202601-json.csv) (CSV)
 * [December 2025 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/6b8ae776-0303-4db2-b9c6-a72586b79235/download/unstacked-export-202512-json.csv) (CSV)
@@ -2832,27 +3737,20 @@ Modified: 2026-03-03T00:33:49.302101
 * [April 2018 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/973f0b88-d340-4e66-8c95-021c26eb0a1a/download/slq-unstacked-logs-201804-april.csv) (CSV)
 * [March 2018 — Unstacked logs - Catalogue usage](https://www.data.qld.gov.au/dataset/eca99ce9-dbf6-4e54-904e-d6a3cd0e3c2b/resource/4fe198ff-b3b2-49af-9d0d-cd5c37b25380/download/slq-unstacked-logs-201803-march.csv) (CSV)
 
-### [State Library of Queensland - Visits to the State Library building](https://data.qld.gov.au/dataset/45a7b914-2191-4d4d-aed4-4c28178045b3)
-
-Created: 2014-06-17T23:28:34.880186  
-Modified: 2025-05-07T00:55:49.949053
-
-* [Explanatory Information](https://www.data.qld.gov.au/dataset/45a7b914-2191-4d4d-aed4-4c28178045b3/resource/c761e7f3-62ac-4ad8-a960-41f2814d50e5/download/entries-to-state-library-of-queensland-2017.rtf) (RTF)
-* [People counter data to 20150630](https://www.data.qld.gov.au/dataset/45a7b914-2191-4d4d-aed4-4c28178045b3/resource/fc4b6e6e-6466-4e1a-a027-b98e78d6a746/download/onsite-visits-2015-06-30.csv) (CSV)
-* [People counter data to 20140609](https://www.data.qld.gov.au/dataset/45a7b914-2191-4d4d-aed4-4c28178045b3/resource/9ce474f1-da1b-4f78-859b-7247d826f6e1/download/20140609peoplecounterdata.csv) (CSV)
-
 ### [State Library of Queensland - World War 1 soldier portraits](https://data.qld.gov.au/dataset/4a99c4e7-393b-40cb-afb7-1754cd23a551)
 
+Source: data.qld.gov.au  
 Created: 2015-07-02T22:58:35.977993  
-Modified: 2025-05-23T03:29:27.374514
+Modified: 2026-07-24T05:10:59.345378
 
-* [Explanatory Information - WW1 Soldier Portraits](https://www.data.qld.gov.au/dataset/4a99c4e7-393b-40cb-afb7-1754cd23a551/resource/62606b9e-e827-447d-99ae-3d70b5be5934/download/slq-ww1-soldier-portraits_explanatory-information.rtf) (RTF)
-* [World War 1 soldier portraits](https://www.data.qld.gov.au/dataset/4a99c4e7-393b-40cb-afb7-1754cd23a551/resource/a46b4d2b-243f-41f9-9a61-a231f1d1b6d0/download/slq_queenslander_pictorial_soldiers_202409.csv) (CSV)
+* [Explanatory Information - WW1 Soldier Portraits](https://www.data.qld.gov.au/dataset/4a99c4e7-393b-40cb-afb7-1754cd23a551/resource/62606b9e-e827-447d-99ae-3d70b5be5934/download/slq-ww1-soldier-portraits_explanatory-information_202607.pdf) (PDF)
+* [World War 1 soldier portraits](https://www.data.qld.gov.au/dataset/4a99c4e7-393b-40cb-afb7-1754cd23a551/resource/a46b4d2b-243f-41f9-9a61-a231f1d1b6d0/download/slq_ww1_soldier_portraits_202606.csv) (CSV)
 
 ## State Library of South Australia
 
 ### [19th Century Photographs by Captain Samuel Sweet](https://data.sa.gov.au/data/dataset/28baf505-4c5f-4e45-9fae-2605ee1cf7c1)
 
+Source: data.sa.gov.au  
 Created: 2014-06-10T13:51:09.849031  
 Modified: 2022-01-24T04:24:02.651995
 
@@ -2865,6 +3763,7 @@ Modified: 2022-01-24T04:24:02.651995
 
 ### [19th Century Photographs by Ernest Gall](https://data.sa.gov.au/data/dataset/54c50844-6653-4704-8dc8-5f5c8f5f14eb)
 
+Source: data.sa.gov.au  
 Created: 2014-06-10T13:32:58.334603  
 Modified: 2017-07-06T06:11:06.592081
 
@@ -2877,6 +3776,7 @@ Modified: 2017-07-06T06:11:06.592081
 
 ### [19th Century Photographs by Townsend Duryea](https://data.sa.gov.au/data/dataset/97f60b3e-9b50-4cc2-9960-73288d076c51)
 
+Source: data.sa.gov.au  
 Created: 2014-06-10T12:57:32.375370  
 Modified: 2019-08-29T04:40:29.655895
 
@@ -2889,6 +3789,7 @@ Modified: 2019-08-29T04:40:29.655895
 
 ### [Adelaide plan 40 feet to 1 inch, fire insurance maps, 1911-1914](https://data.sa.gov.au/data/dataset/c2b6d9a4-9b7e-42bd-9cba-856320e2e139)
 
+Source: data.sa.gov.au  
 Created: 2014-06-22T16:20:16.664531  
 Modified: 2016-06-06T05:46:02.528493
 
@@ -2897,6 +3798,7 @@ Modified: 2016-06-06T05:46:02.528493
 
 ### [Art Deco Adelaide](https://data.sa.gov.au/data/dataset/fa23a719-89de-4227-9b2f-0ad23cf5ead3)
 
+Source: data.sa.gov.au  
 Created: 2016-06-29T04:07:05.891761  
 Modified: 2020-01-15T06:45:34.419827
 
@@ -2904,6 +3806,7 @@ Modified: 2020-01-15T06:45:34.419827
 
 ### [Australia 1:63,360 military survey (S.A.), 1914-1958](https://data.sa.gov.au/data/dataset/2e0da08c-6d18-4469-ad77-d9b266e30f0c)
 
+Source: data.sa.gov.au  
 Created: 2014-06-22T16:40:44.929206  
 Modified: 2016-06-08T01:47:53.690120
 
@@ -2912,6 +3815,7 @@ Modified: 2016-06-08T01:47:53.690120
 
 ### [Beaches, Jetties and Lifesaver Photographs](https://data.sa.gov.au/data/dataset/fdb37fa4-83e9-4daf-8ad0-66a63d8c7c88)
 
+Source: data.sa.gov.au  
 Created: 2013-05-21T06:59:02.465709  
 Modified: 2020-01-15T06:43:40.065749
 
@@ -2919,6 +3823,7 @@ Modified: 2020-01-15T06:43:40.065749
 
 ### [Bradman Collection](https://data.sa.gov.au/data/dataset/08119936-12ac-40d9-85ec-75fafcd60156)
 
+Source: data.sa.gov.au  
 Created: 2013-11-19T00:30:39.276203  
 Modified: 2016-07-06T03:58:04.742146
 
@@ -2927,6 +3832,7 @@ Modified: 2016-07-06T03:58:04.742146
 
 ### [Departed spirits: Lost pubs of Adelaide](https://data.sa.gov.au/data/dataset/e91c7cfa-341a-49d3-b7d9-074c0b138dd6)
 
+Source: data.sa.gov.au  
 Created: 2016-06-29T04:35:15.964399  
 Modified: 2020-01-15T06:47:38.894121
 
@@ -2934,6 +3840,7 @@ Modified: 2020-01-15T06:47:38.894121
 
 ### [Dewey call numbers used in the South Australian Public Library One Card Network](https://data.sa.gov.au/data/dataset/8d057a25-324d-47d8-a841-2d0a8b60adab)
 
+Source: data.sa.gov.au  
 Created: 2015-11-04T04:23:58.932060  
 Modified: 2019-08-28T05:28:09.471978
 
@@ -2943,6 +3850,7 @@ Modified: 2019-08-28T05:28:09.471978
 
 ### [Election Ephemera](https://data.sa.gov.au/data/dataset/d2633f93-d2e9-4d32-acb8-2c3883db8651)
 
+Source: data.sa.gov.au  
 Created: 2013-05-06T03:19:09.193539  
 Modified: 2016-07-01T05:44:24.139830
 
@@ -2955,6 +3863,7 @@ Modified: 2016-07-01T05:44:24.139830
 
 ### [Heroes of the Great War Chronicle Newspaper 1915-1919](https://data.sa.gov.au/data/dataset/a3fe22b1-0807-4409-bdab-46dbbad6c300)
 
+Source: data.sa.gov.au  
 Created: 2013-05-21T09:33:48.665233  
 Modified: 2019-08-07T04:30:27.193034
 
@@ -2964,6 +3873,7 @@ Modified: 2019-08-07T04:30:27.193034
 
 ### [Heroes of the Great War Chronicle Newspaper Portraits 1915-1919](https://data.sa.gov.au/data/dataset/11ed7815-8efa-4e72-a932-aea9f00e3d4f)
 
+Source: data.sa.gov.au  
 Created: 2013-05-21T09:41:06.618734  
 Modified: 2019-08-07T04:35:58.574343
 
@@ -2973,6 +3883,7 @@ Modified: 2019-08-07T04:35:58.574343
 
 ### [Hundred maps](https://data.sa.gov.au/data/dataset/1f9fba5d-6f58-43b2-96fa-b3fa6e636e12)
 
+Source: data.sa.gov.au  
 Created: 2016-06-29T04:25:02.105580  
 Modified: 2020-01-15T06:46:35.298889
 
@@ -2980,6 +3891,7 @@ Modified: 2020-01-15T06:46:35.298889
 
 ### [Libraries Board of South Australia Annual Report data](https://data.sa.gov.au/data/dataset/3070a7b7-f76d-432d-8c9a-f9daf6077efa)
 
+Source: data.sa.gov.au  
 Created: 2017-11-08T23:22:10.102294  
 Modified: 2024-12-05T00:19:40.566880
 
@@ -2994,6 +3906,7 @@ Modified: 2024-12-05T00:19:40.566880
 
 ### [Lost Adelaide Architecture Photographs](https://data.sa.gov.au/data/dataset/2b0e3d83-159f-4118-a7e2-9612367372ed)
 
+Source: data.sa.gov.au  
 Created: 2013-05-21T07:06:04.920232  
 Modified: 2020-01-15T06:43:11.152721
 
@@ -3002,6 +3915,7 @@ Modified: 2020-01-15T06:43:11.152721
 
 ### [Maps and Charts](https://data.sa.gov.au/data/dataset/5d5dcaf1-44e9-44d1-aec7-ca0fe1509a30)
 
+Source: data.sa.gov.au  
 Created: 2016-06-29T04:49:22.153678  
 Modified: 2020-01-15T06:48:55.606434
 
@@ -3009,6 +3923,7 @@ Modified: 2020-01-15T06:48:55.606434
 
 ### [Murray Bridge Photographs](https://data.sa.gov.au/data/dataset/02ae1642-b8cc-4c98-a7d7-6e2c7e1ec7cb)
 
+Source: data.sa.gov.au  
 Created: 2013-05-21T08:35:27.894785  
 Modified: 2019-11-15T06:10:14.516240
 
@@ -3016,6 +3931,7 @@ Modified: 2019-11-15T06:10:14.516240
 
 ### [Newspaper Articles relating to Sir Ross Smith](https://data.sa.gov.au/data/dataset/1338ff17-9b2f-43b9-ae6c-711fc3644d34)
 
+Source: data.sa.gov.au  
 Created: 2019-06-24T02:47:32.528709  
 Modified: 2019-08-29T04:43:40.630658
 
@@ -3028,6 +3944,7 @@ Modified: 2019-08-29T04:43:40.630658
 
 ### [Old Colonists photographs](https://data.sa.gov.au/data/dataset/9f1775b6-9c4f-4e27-819b-33c83d0601f9)
 
+Source: data.sa.gov.au  
 Created: 2019-06-17T04:23:32.034128  
 Modified: 2019-08-29T04:44:14.837878
 
@@ -3038,6 +3955,7 @@ Modified: 2019-08-29T04:44:14.837878
 
 ### [Oral Histories](https://data.sa.gov.au/data/dataset/a1fce9bf-9afe-426f-a4b8-e2661e611436)
 
+Source: data.sa.gov.au  
 Created: 2016-06-29T05:56:30.682753  
 Modified: 2019-08-29T04:33:50.156866
 
@@ -3048,6 +3966,7 @@ Modified: 2019-08-29T04:33:50.156866
 
 ### [Photographs relating to Sir Ross Smith and Sir Keith Smith](https://data.sa.gov.au/data/dataset/91181472-c11c-4bd9-9045-82cfe3a67175)
 
+Source: data.sa.gov.au  
 Created: 2019-06-20T04:28:06.459148  
 Modified: 2019-08-29T04:34:28.134125
 
@@ -3056,6 +3975,7 @@ Modified: 2019-08-29T04:34:28.134125
 
 ### [River Murray Steamers Photographs](https://data.sa.gov.au/data/dataset/43833a96-103b-4d76-b017-b8a2bfff4b24)
 
+Source: data.sa.gov.au  
 Created: 2013-05-21T08:50:23.798607  
 Modified: 2020-01-15T06:40:22.394087
 
@@ -3063,6 +3983,7 @@ Modified: 2020-01-15T06:40:22.394087
 
 ### [River Murray general plan SA, 1910](https://data.sa.gov.au/data/dataset/2bf90e40-45bc-447b-8423-a122d682a9d9)
 
+Source: data.sa.gov.au  
 Created: 2014-06-22T16:54:49.101553  
 Modified: 2022-01-24T04:26:16.272965
 
@@ -3071,6 +3992,7 @@ Modified: 2022-01-24T04:26:16.272965
 
 ### [S. A. Speaks: An Oral History of Life in South Australia before 1930](https://data.sa.gov.au/data/dataset/387e2e32-f30c-4f9b-9d8f-848d06dfe18d)
 
+Source: data.sa.gov.au  
 Created: 2016-06-29T07:00:04.358496  
 Modified: 2019-08-29T04:32:01.228089
 
@@ -3081,15 +4003,9 @@ Modified: 2019-08-29T04:32:01.228089
 * [S. A. Speaks: An Oral History of Life in South Australia before 1930](https://data.sa.gov.au/data/dataset/387e2e32-f30c-4f9b-9d8f-848d06dfe18d/resource/42c57421-be53-468e-b8f8-8d2dd57f234e/download/saspeaksoralhistory.csv) (CSV)
 * [S. A. Speaks: An Oral History of Life in South Australia before 1930 - Excel workbook](https://data.sa.gov.au/data/dataset/387e2e32-f30c-4f9b-9d8f-848d06dfe18d/resource/04931a8a-c47c-4705-bed9-d95e71b41fee/download/saspeaksoralhistory.xlsx) (XLSX)
 
-### [SA Memory](https://data.sa.gov.au/data/dataset/7cd90f98-1d89-4921-8373-151f4ad5d1a1)
-
-Created: 2013-03-07T16:15:35.228085  
-Modified: 2019-08-29T02:29:51.427322
-
-* [SA Memory](https://data.sa.gov.au/data/dataset/7cd90f98-1d89-4921-8373-151f4ad5d1a1/resource/4e3c2761-9938-4da1-9208-764fa204fda1/download/samemorycontentobjects_2011.csv) (CSV)
-
 ### [Ship Photographs](https://data.sa.gov.au/data/dataset/e52b0259-2b57-4121-8e04-be333025fb3b)
 
+Source: data.sa.gov.au  
 Created: 2016-06-29T06:44:18.959542  
 Modified: 2019-08-29T04:35:07.834064
 
@@ -3102,6 +4018,7 @@ Modified: 2019-08-29T04:35:07.834064
 
 ### [Significant South Australians Photographs](https://data.sa.gov.au/data/dataset/167684de-6a7a-4957-9bb7-b14c26660127)
 
+Source: data.sa.gov.au  
 Created: 2013-05-21T09:02:06.138696  
 Modified: 2020-01-15T06:44:24.506061
 
@@ -3109,6 +4026,7 @@ Modified: 2020-01-15T06:44:24.506061
 
 ### [South Australia in 1914](https://data.sa.gov.au/data/dataset/afba67c9-f5c7-4d6a-9c23-93cbeb652abc)
 
+Source: data.sa.gov.au  
 Created: 2016-06-29T06:20:22.800452  
 Modified: 2020-01-15T06:53:28.283259
 
@@ -3116,6 +4034,7 @@ Modified: 2020-01-15T06:53:28.283259
 
 ### [South Australian Photographs](https://data.sa.gov.au/data/dataset/62c4e993-8d5b-48a4-9d11-9e9dd4708455)
 
+Source: data.sa.gov.au  
 Created: 2013-03-07T14:40:31.091907  
 Modified: 2019-08-29T04:36:26.010768
 
@@ -3158,6 +4077,7 @@ Modified: 2019-08-29T04:36:26.010768
 
 ### [South Australian Photographs World War 1 1914-1929](https://data.sa.gov.au/data/dataset/49266c9b-ae27-47bc-8e23-866a2d027403)
 
+Source: data.sa.gov.au  
 Created: 2013-05-31T07:08:43.848160  
 Modified: 2019-08-29T04:37:07.788643
 
@@ -3171,6 +4091,7 @@ Modified: 2019-08-29T04:37:07.788643
 
 ### [South Australian Red Cross Information Bureau](https://data.sa.gov.au/data/dataset/59af795b-aa47-4633-8405-b61b9da8e574)
 
+Source: data.sa.gov.au  
 Created: 2015-06-16T07:13:31.330095  
 Modified: 2016-07-04T06:14:08.552618
 
@@ -3178,6 +4099,7 @@ Modified: 2016-07-04T06:14:08.552618
 
 ### [South Australian Sheet Music 1852-1927](https://data.sa.gov.au/data/dataset/02f2e8e0-f843-4a37-9e0a-eeb4d366991c)
 
+Source: data.sa.gov.au  
 Created: 2013-03-07T14:38:12.818813  
 Modified: 2019-08-29T02:33:15.378498
 
@@ -3185,6 +4107,7 @@ Modified: 2019-08-29T02:33:15.378498
 
 ### [South Australians of World War 1 Photographs Flickr set](https://data.sa.gov.au/data/dataset/0384a465-903c-4b2b-93ec-826acbe2c66b)
 
+Source: data.sa.gov.au  
 Created: 2013-05-21T09:06:33.212603  
 Modified: 2020-02-24T02:07:29.790770
 
@@ -3194,6 +4117,7 @@ Modified: 2020-02-24T02:07:29.790770
 
 ### [Summer Under Southern Skies](https://data.sa.gov.au/data/dataset/dcd4c4f3-d492-433e-81f1-67be77b97cea)
 
+Source: data.sa.gov.au  
 Created: 2016-06-29T06:54:44.177674  
 Modified: 2020-01-15T06:49:53.914979
 
@@ -3201,6 +4125,7 @@ Modified: 2020-01-15T06:49:53.914979
 
 ### [Water in South Australia Photographs](https://data.sa.gov.au/data/dataset/70a74bde-2be4-4e1c-92b8-7c2e8be53e20)
 
+Source: data.sa.gov.au  
 Created: 2013-05-21T09:17:14.679278  
 Modified: 2019-11-15T06:18:32.384891
 
@@ -3210,6 +4135,7 @@ Modified: 2019-11-15T06:18:32.384891
 
 ### [Argus Historical Newspaper Front Pages](https://discover.data.vic.gov.au/dataset/fdf4917b-a71a-4d1c-a792-8cb1e49cfdd8)
 
+Source: data.vic.gov.au  
 Created: 2017-09-28T15:51:43.105655  
 Modified: 2025-05-02T06:59:24.944595
 
@@ -3217,6 +4143,7 @@ Modified: 2025-05-02T06:59:24.944595
 
 ### [Melbourne City Landmarks - Historical Images](https://discover.data.vic.gov.au/dataset/e651b9e7-e47e-4959-a9d9-825ec42e5c1c)
 
+Source: data.vic.gov.au  
 Created: 2017-03-29T04:21:51.300121  
 Modified: 2024-12-16T22:30:39.173634
 
@@ -3224,6 +4151,7 @@ Modified: 2024-12-16T22:30:39.173634
 
 ### [Melbourne and Metropolitan Board of Works (MMBW) - Historical plans](https://discover.data.vic.gov.au/dataset/52d9a583-8edf-4f9a-93a3-278a3a28c1d1)
 
+Source: data.vic.gov.au  
 Created: 2017-03-29T04:20:55.474574  
 Modified: 2024-12-16T23:38:02.369665
 
@@ -3231,6 +4159,7 @@ Modified: 2024-12-16T23:38:02.369665
 
 ### [Melbourne and metropolitan hotels, pubs and publicans - Historical Lists](https://discover.data.vic.gov.au/dataset/b227d8e7-88f0-4c9e-8ab9-dcc89da0b619)
 
+Source: data.vic.gov.au  
 Created: 2017-03-29T04:21:23.993304  
 Modified: 2024-12-16T23:32:14.820212
 
@@ -3238,6 +4167,7 @@ Modified: 2024-12-16T23:32:14.820212
 
 ### [Victorian Hotels - Historical Images](https://discover.data.vic.gov.au/dataset/e213c601-315e-430e-b308-1faca7964f99)
 
+Source: data.vic.gov.au  
 Created: 2017-03-29T04:20:27.309099  
 Modified: 2024-12-16T23:20:30.888114
 
@@ -3247,6 +4177,7 @@ Modified: 2024-12-16T23:20:30.888114
 
 ### [Adopt a Soldier](https://catalogue.data.wa.gov.au/dataset/706ed446-6f0a-42fd-aba5-8e4295675107)
 
+Source: data.wa.gov.au  
 Created: 2016-07-25T05:36:51.433567  
 Modified: 2022-05-25T18:46:18.447066
 
@@ -3256,6 +4187,7 @@ Modified: 2022-05-25T18:46:18.447066
 
 ### [Bird songs online](https://catalogue.data.wa.gov.au/dataset/9fc37834-e4ee-4e5a-a798-27da5c5af7da)
 
+Source: data.wa.gov.au  
 Created: 2016-07-25T04:40:33.444695  
 Modified: 2022-05-25T18:46:13.911322
 
@@ -3265,6 +4197,7 @@ Modified: 2022-05-25T18:46:13.911322
 
 ### [Digital Photographic Collection](https://catalogue.data.wa.gov.au/dataset/7faa2336-7601-447c-91b0-4b771ee26b6f)
 
+Source: data.wa.gov.au  
 Created: 2016-07-25T03:53:22.224986  
 Modified: 2022-05-25T18:46:16.346659
 
@@ -3276,6 +4209,7 @@ Modified: 2022-05-25T18:46:16.346659
 
 ### [In Memoriam Cards](https://catalogue.data.wa.gov.au/dataset/bc4c50bf-3de1-44d1-8484-a07a30bfe974)
 
+Source: data.wa.gov.au  
 Created: 2016-07-25T05:41:51.814231  
 Modified: 2022-05-25T18:46:19.894827
 
@@ -3285,6 +4219,7 @@ Modified: 2022-05-25T18:46:19.894827
 
 ### [Krantz & Sheldon Architectural images](https://catalogue.data.wa.gov.au/dataset/1cf612f0-3245-427a-aa92-e78ef79b1ea6)
 
+Source: data.wa.gov.au  
 Created: 2016-07-25T04:08:00.645899  
 Modified: 2022-05-25T18:46:17.979308
 
@@ -3295,6 +4230,7 @@ Modified: 2022-05-25T18:46:17.979308
 
 ### [Lands and Surveys Historic Map Series](https://catalogue.data.wa.gov.au/dataset/72c0f3f4-64c6-43da-afb8-0aa64dd71c90)
 
+Source: data.wa.gov.au  
 Created: 2016-07-25T05:29:13.333781  
 Modified: 2022-05-25T18:46:18.951344
 
@@ -3305,6 +4241,7 @@ Modified: 2022-05-25T18:46:18.951344
 
 ### [Newspaper Titles at State Library of WA](https://catalogue.data.wa.gov.au/dataset/c8d68516-0eb8-445d-913a-c2f692366150)
 
+Source: data.wa.gov.au  
 Created: 2016-07-25T01:01:24.493264  
 Modified: 2022-05-25T18:46:15.354572
 
@@ -3312,6 +4249,7 @@ Modified: 2022-05-25T18:46:15.354572
 
 ### [Obituaries indexed by State Library of WA](https://catalogue.data.wa.gov.au/dataset/2f8c1a74-8b10-4b58-b3bf-be339fb0fd09)
 
+Source: data.wa.gov.au  
 Created: 2018-09-04T02:22:59.855252  
 Modified: 2022-05-25T18:46:15.810879
 
@@ -3321,6 +4259,7 @@ Modified: 2022-05-25T18:46:15.810879
 
 ### [Richard Woldendorp Collection of Photographs](https://catalogue.data.wa.gov.au/dataset/b447acfc-51e5-42f5-8d38-6057fc8aafc5)
 
+Source: data.wa.gov.au  
 Created: 2018-08-03T03:01:35.691213  
 Modified: 2023-05-01T00:16:25.923349
 
@@ -3331,6 +4270,7 @@ Modified: 2023-05-01T00:16:25.923349
 
 ### [SLWA Commonwealth Games photographs](https://catalogue.data.wa.gov.au/dataset/45357ec0-dd39-4d08-b051-6b7d820cb954)
 
+Source: data.wa.gov.au  
 Created: 2018-04-04T03:33:45.801947  
 Modified: 2022-05-25T18:46:17.450244
 
@@ -3340,6 +4280,7 @@ Modified: 2022-05-25T18:46:17.450244
 
 ### [State Library of Western Australia Digitised Maps 1840-1985](https://catalogue.data.wa.gov.au/dataset/36bd6d24-69e0-4a0a-a7af-5adb08879be3)
 
+Source: data.wa.gov.au  
 Created: 2018-05-22T01:39:30.141933  
 Modified: 2022-05-25T18:46:14.858073
 
@@ -3349,6 +4290,7 @@ Modified: 2022-05-25T18:46:14.858073
 
 ### [State Library of Western Australia: WA Theatre Ephemera](https://catalogue.data.wa.gov.au/dataset/f0134fc1-147a-4620-8c5b-0d5ee56bc3e0)
 
+Source: data.wa.gov.au  
 Created: 2018-06-06T05:40:03.289277  
 Modified: 2023-05-01T00:19:16.865010
 
@@ -3362,6 +4304,7 @@ Modified: 2023-05-01T00:19:16.865010
 
 ### [WA Public Libraries](https://catalogue.data.wa.gov.au/dataset/f451a2a7-00a1-44fa-8c6f-f7f98651c234)
 
+Source: data.wa.gov.au  
 Created: 2016-07-25T01:12:15.163262  
 Modified: 2022-05-25T18:46:14.381862
 
@@ -3372,6 +4315,7 @@ Modified: 2022-05-25T18:46:14.381862
 
 ### [WABI Subset: Eastern Goldfields](https://catalogue.data.wa.gov.au/dataset/ce97329a-e406-4785-9e86-898e8e6ac1ef)
 
+Source: data.wa.gov.au  
 Created: 2016-07-28T07:34:54.097244  
 Modified: 2022-05-25T18:46:20.793885
 
@@ -3379,6 +4323,7 @@ Modified: 2022-05-25T18:46:20.793885
 
 ### [WABI subset: Police](https://catalogue.data.wa.gov.au/dataset/dd4ee469-0a8b-4da1-bdc3-962f9f515f5c)
 
+Source: data.wa.gov.au  
 Created: 2016-07-28T07:50:40.119564  
 Modified: 2022-05-25T18:46:19.469786
 
@@ -3386,6 +4331,7 @@ Modified: 2022-05-25T18:46:19.469786
 
 ### [WABI subset: York](https://catalogue.data.wa.gov.au/dataset/ff75fbbd-7b4d-4c1c-a946-2c5fe3073b8c)
 
+Source: data.wa.gov.au  
 Created: 2016-07-28T07:56:37.519742  
 Modified: 2022-05-25T18:46:21.384260
 
@@ -3393,6 +4339,7 @@ Modified: 2022-05-25T18:46:21.384260
 
 ### [WWI Centenary Project](https://catalogue.data.wa.gov.au/dataset/8ab80491-45b9-46b7-89ef-e2f29e9b68e4)
 
+Source: data.wa.gov.au  
 Created: 2016-07-25T04:32:21.709494  
 Modified: 2022-05-25T18:46:20.350897
 
@@ -3402,6 +4349,7 @@ Modified: 2022-05-25T18:46:20.350897
 
 ### [Western Australian Biographical Index (WABI)](https://catalogue.data.wa.gov.au/dataset/6c026ce8-8a18-4920-a7e2-f1719e0d8c47)
 
+Source: data.wa.gov.au  
 Created: 2016-07-28T05:59:15.171170  
 Modified: 2022-05-25T18:46:13.320421
 
@@ -3430,6 +4378,7 @@ Modified: 2022-05-25T18:46:13.320421
 
 ### [1955 Perth Central Area Development](https://catalogue.data.wa.gov.au/dataset/e09efc5b-6ced-4020-9159-8a04d9afc7a1)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T01:20:48.704735  
 Modified: 2022-05-25T14:59:14.543049
 
@@ -3437,6 +4386,7 @@ Modified: 2022-05-25T14:59:14.543049
 
 ### [1955 Perth Central Area Land Use](https://catalogue.data.wa.gov.au/dataset/545529d9-7ac2-4329-b371-af67cac964c6)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T01:17:27.962253  
 Modified: 2022-05-25T14:59:19.287443
 
@@ -3445,6 +4395,7 @@ Modified: 2022-05-25T14:59:19.287443
 
 ### [1955 Perth Central Area Land Zoning](https://catalogue.data.wa.gov.au/dataset/698c7eff-7aa9-4659-b6bd-5e4db9e180c5)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T01:19:06.485834  
 Modified: 2022-05-25T14:59:23.471751
 
@@ -3453,6 +4404,7 @@ Modified: 2022-05-25T14:59:23.471751
 
 ### [1955 Perth Development Proposals](https://catalogue.data.wa.gov.au/dataset/3449c73d-b79e-4e72-a52b-b12224b6d376)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T01:14:25.696606  
 Modified: 2022-05-25T14:59:18.318996
 
@@ -3461,6 +4413,7 @@ Modified: 2022-05-25T14:59:18.318996
 
 ### [1955 Perth Land Use](https://catalogue.data.wa.gov.au/dataset/b1c0a0a6-b9d2-47df-a8cc-eefa9d2dfa72)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T01:12:31.130959  
 Modified: 2022-05-25T14:59:12.193222
 
@@ -3469,6 +4422,7 @@ Modified: 2022-05-25T14:59:12.193222
 
 ### [Albany 1834  (Early Townsite of Albany & Environs)](https://catalogue.data.wa.gov.au/dataset/e7e913ce-192d-4acc-b151-23d6657c2228)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T01:29:10.336174  
 Modified: 2022-05-25T14:59:17.409958
 
@@ -3477,6 +4431,7 @@ Modified: 2022-05-25T14:59:17.409958
 
 ### [Arthur's Head Landuse Capability Survey, Fremantle 1838](https://catalogue.data.wa.gov.au/dataset/a64bda31-798c-4f86-b763-b728771e94b0)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T02:12:55.037566  
 Modified: 2022-05-25T14:59:20.280698
 
@@ -3485,6 +4440,7 @@ Modified: 2022-05-25T14:59:20.280698
 
 ### [Australind Townsite 1841 (Australind Town Plan)](https://catalogue.data.wa.gov.au/dataset/450ccc91-b399-4ba4-b0a2-ae78ef76b0e5)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T02:14:42.285715  
 Modified: 2022-05-25T14:59:17.854189
 
@@ -3493,6 +4449,7 @@ Modified: 2022-05-25T14:59:17.854189
 
 ### [Bunbury Townsite 1849](https://catalogue.data.wa.gov.au/dataset/449a6d26-bab9-44d8-a180-982f4deff277)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T02:29:19.160662  
 Modified: 2022-05-25T14:59:18.738647
 
@@ -3501,6 +4458,7 @@ Modified: 2022-05-25T14:59:18.738647
 
 ### [Early Townsite of Albany](https://catalogue.data.wa.gov.au/dataset/33ae82e2-b0c5-4cf8-9bef-a05d5e2fbc23)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T02:49:17.496572  
 Modified: 2022-05-25T14:59:26.024814
 
@@ -3509,6 +4467,7 @@ Modified: 2022-05-25T14:59:26.024814
 
 ### [Early Townsite of Augusta 1834 (Survey Map of Augusta)](https://catalogue.data.wa.gov.au/dataset/179f2b08-b70d-43a2-90ad-b0e530b86797)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T03:02:16.003184  
 Modified: 2022-05-25T14:59:25.032278
 
@@ -3517,6 +4476,7 @@ Modified: 2022-05-25T14:59:25.032278
 
 ### [Early Townsite of Beverley 1860s](https://catalogue.data.wa.gov.au/dataset/3622a014-1805-447e-a5d2-64ecc8283681)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T03:20:55.316986  
 Modified: 2022-05-25T14:59:24.508122
 
@@ -3525,6 +4485,7 @@ Modified: 2022-05-25T14:59:24.508122
 
 ### [Early Townsite of Bridgetown 1896](https://catalogue.data.wa.gov.au/dataset/50be185f-da00-4d70-aafc-e7fe9b9ffc34)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T03:22:45.076316  
 Modified: 2022-05-25T14:59:21.250777
 
@@ -3533,6 +4494,7 @@ Modified: 2022-05-25T14:59:21.250777
 
 ### [Early Townsite of Brookton 1894](https://catalogue.data.wa.gov.au/dataset/9a848526-ea79-4ea4-99ee-3812517f78c6)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T03:24:23.463539  
 Modified: 2022-05-25T14:59:28.350413
 
@@ -3541,6 +4503,7 @@ Modified: 2022-05-25T14:59:28.350413
 
 ### [Early Townsite of Broome](https://catalogue.data.wa.gov.au/dataset/3b54c5fb-b4b6-4cc3-a0a5-9f98630013f6)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T03:55:44.799322  
 Modified: 2022-05-25T14:59:26.959271
 
@@ -3549,6 +4512,7 @@ Modified: 2022-05-25T14:59:26.959271
 
 ### [Early Townsite of Busselton 1835](https://catalogue.data.wa.gov.au/dataset/32cd8e67-0362-4b09-a4e5-5ed02098b421)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:16:39.865854  
 Modified: 2022-05-25T14:59:19.757960
 
@@ -3557,6 +4521,7 @@ Modified: 2022-05-25T14:59:19.757960
 
 ### [Early Townsite of Carnarvon 1851](https://catalogue.data.wa.gov.au/dataset/16b7e61f-963a-4e6a-b576-98d175f93e0b)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:19:14.395737  
 Modified: 2022-05-25T14:59:30.761215
 
@@ -3565,6 +4530,7 @@ Modified: 2022-05-25T14:59:30.761215
 
 ### [Early Townsite of Collie 1899](https://catalogue.data.wa.gov.au/dataset/f7dda3d2-be06-4f3b-9169-7bc406fe6432)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:21:27.309870  
 Modified: 2022-05-25T14:59:15.447481
 
@@ -3573,6 +4539,7 @@ Modified: 2022-05-25T14:59:15.447481
 
 ### [Early Townsite of Coolgardie 1898](https://catalogue.data.wa.gov.au/dataset/eb962469-98d7-4222-9b9e-a4fe5d957019)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:23:29.884394  
 Modified: 2022-05-25T14:59:23.068457
 
@@ -3581,6 +4548,7 @@ Modified: 2022-05-25T14:59:23.068457
 
 ### [Early Townsite of Dongara 1896 (Port Denison Town Plan)](https://catalogue.data.wa.gov.au/dataset/3e30382d-6937-4eb2-a5d0-52eed573b44c)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:41:51.142204  
 Modified: 2022-05-25T14:59:21.736652
 
@@ -3589,6 +4557,7 @@ Modified: 2022-05-25T14:59:21.736652
 
 ### [Early Townsite of Esperance 1893](https://catalogue.data.wa.gov.au/dataset/ebb32be1-fb3c-4793-a846-ba7afda1c02e)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:43:26.331859  
 Modified: 2022-05-25T14:59:29.366963
 
@@ -3597,6 +4566,7 @@ Modified: 2022-05-25T14:59:29.366963
 
 ### [Early Townsite of Geraldton 1863-66](https://catalogue.data.wa.gov.au/dataset/81937fcd-d171-40cf-a760-6441b5496099)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:45:05.433734  
 Modified: 2022-05-25T14:59:15.919657
 
@@ -3605,6 +4575,7 @@ Modified: 2022-05-25T14:59:15.919657
 
 ### [Early Townsite of Hannans Find - Kalgoorlie 1894 (Kalgoorlie Town Plan)](https://catalogue.data.wa.gov.au/dataset/dffc2d49-6db0-45b6-b599-e4ecb74a5626)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:46:50.065125  
 Modified: 2022-05-25T14:59:23.963503
 
@@ -3613,6 +4584,7 @@ Modified: 2022-05-25T14:59:23.963503
 
 ### [Early Townsite of Kalgoorlie](https://catalogue.data.wa.gov.au/dataset/b5577f0a-de5d-4242-85eb-59eca3da14f4)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:49:15.401658  
 Modified: 2022-05-25T14:59:26.514011
 
@@ -3621,6 +4593,7 @@ Modified: 2022-05-25T14:59:26.514011
 
 ### [Early Townsite of Merredin](https://catalogue.data.wa.gov.au/dataset/c54dbc8f-6203-46ce-af19-c3bff7a303cd)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:51:45.037649  
 Modified: 2022-05-25T14:59:31.708796
 
@@ -3629,6 +4602,7 @@ Modified: 2022-05-25T14:59:31.708796
 
 ### [Early Townsite of Narrogin 1889](https://catalogue.data.wa.gov.au/dataset/9bc84957-f998-4b77-a037-2a0a40a974dc)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:53:15.782529  
 Modified: 2022-05-25T14:59:25.513006
 
@@ -3637,6 +4611,7 @@ Modified: 2022-05-25T14:59:25.513006
 
 ### [Early Townsite of Northam 1871](https://catalogue.data.wa.gov.au/dataset/a94f8aab-bb79-4575-992a-215910d15091)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T04:59:19.885125  
 Modified: 2022-05-25T14:59:28.836348
 
@@ -3645,6 +4620,7 @@ Modified: 2022-05-25T14:59:28.836348
 
 ### [Early Townsite of Port Hedland 1902 (Town Plan)](https://catalogue.data.wa.gov.au/dataset/61320d7e-e235-40b4-a34a-ba343f627ec8)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:02:37.221214  
 Modified: 2022-05-25T14:59:31.189140
 
@@ -3653,6 +4629,7 @@ Modified: 2022-05-25T14:59:31.189140
 
 ### [Early Townsite of Ravensthorpe 1900](https://catalogue.data.wa.gov.au/dataset/c617a1d4-72a4-438c-a8d0-212dd7f4c443)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:09:45.022839  
 Modified: 2022-05-25T14:59:22.610141
 
@@ -3661,6 +4638,7 @@ Modified: 2022-05-25T14:59:22.610141
 
 ### [Early Townsite of Toodyay 1852 (Town Plan)](https://catalogue.data.wa.gov.au/dataset/88b6de29-bcb0-4c9a-9eb8-64fc51a6803e)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:11:45.392099  
 Modified: 2022-05-25T14:59:29.866543
 
@@ -3669,6 +4647,7 @@ Modified: 2022-05-25T14:59:29.866543
 
 ### [Fitzroy River  1850](https://catalogue.data.wa.gov.au/dataset/9343f6a8-efac-4b4d-af2b-552d5992458b)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:13:00.044813  
 Modified: 2022-05-25T14:59:27.827761
 
@@ -3677,6 +4656,7 @@ Modified: 2022-05-25T14:59:27.827761
 
 ### [Fremantle Town Plan 1833.img](https://catalogue.data.wa.gov.au/dataset/81490ab9-c572-4a15-9d51-87b3a14ea5e3)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:17:01.444780  
 Modified: 2022-05-25T14:59:20.829437
 
@@ -3685,6 +4665,7 @@ Modified: 2022-05-25T14:59:20.829437
 
 ### [Fremantle Townsite 1844](https://catalogue.data.wa.gov.au/dataset/9a812b37-fa93-485c-ae60-96a2861d8445)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:15:04.973433  
 Modified: 2022-05-25T14:59:13.575606
 
@@ -3693,6 +4674,7 @@ Modified: 2022-05-25T14:59:13.575606
 
 ### [Garden Island to Port Leschenault - Bunbury 1829](https://catalogue.data.wa.gov.au/dataset/813f41d4-f4dc-4cf6-ac8a-5aa7efc3f0b0)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:21:06.448063  
 Modified: 2022-05-25T14:59:16.920183
 
@@ -3701,6 +4683,7 @@ Modified: 2022-05-25T14:59:16.920183
 
 ### [Geolocation index for WA townsite plans - AU WA S2168](https://catalogue.data.wa.gov.au/dataset/7a4f046f-9b1d-4faa-9d42-7f229ca3b5a4)
 
+Source: data.wa.gov.au  
 Created: 2017-06-01T04:26:54.360060  
 Modified: 2025-11-04T06:18:52.417614
 
@@ -3708,8 +4691,9 @@ Modified: 2025-11-04T06:18:52.417614
 
 ### [Historical Plans - Metropolitan Sewerage Scheme (SRO-001)](https://catalogue.data.wa.gov.au/dataset/e773bb79-85f8-4c4d-b932-34599fddc8e0)
 
+Source: data.wa.gov.au  
 Created: 2019-09-03T02:56:57.037637  
-Modified: 2026-04-09T22:15:13.826331
+Modified: 2026-09-15T22:55:52.901434
 
 * [List of Metropolitan Sewerage Scheme Plans](https://catalogue.data.wa.gov.au/dataset/e773bb79-85f8-4c4d-b932-34599fddc8e0/resource/05c6e8c3-3f66-4980-9ba8-3bdadb1f990f/download/srowa_series634_cons4156.csv) (CSV)
 * [Index Sheets to Metropolitan Sewerage Scheme Plans](https://catalogue.data.wa.gov.au/dataset/e773bb79-85f8-4c4d-b932-34599fddc8e0/resource/f72b3ba3-e2b3-4171-a1f1-1de98a0edee1/download/index-sheets-to-metropolitan-sewerage-scheme-plans.pdf) (PDF)
@@ -3720,6 +4704,7 @@ Modified: 2026-04-09T22:15:13.826331
 
 ### [Historical index to government entities](https://catalogue.data.wa.gov.au/dataset/6a3df6d1-f889-4059-892f-a335af6e1cc3)
 
+Source: data.wa.gov.au  
 Created: 2017-06-01T08:30:23.055707  
 Modified: 2025-11-04T06:18:52.135982
 
@@ -3727,6 +4712,7 @@ Modified: 2025-11-04T06:18:52.135982
 
 ### [Index to Western Australian group settlement information](https://catalogue.data.wa.gov.au/dataset/69bcdc4e-0025-4600-b5d4-a71a46a87b51)
 
+Source: data.wa.gov.au  
 Created: 2017-06-01T06:38:01.617882  
 Modified: 2025-11-04T06:18:54.423253
 
@@ -3734,6 +4720,7 @@ Modified: 2025-11-04T06:18:54.423253
 
 ### [Indexes](https://catalogue.data.wa.gov.au/dataset/69b465f2-602a-4cd9-8bcf-e6fa09a63f50)
 
+Source: data.wa.gov.au  
 Created: 2017-06-29T03:21:53.456006  
 Modified: 2025-11-04T06:53:14.437763
 
@@ -3742,6 +4729,7 @@ Modified: 2025-11-04T06:53:14.437763
 
 ### [Perth Townsite 1838](https://catalogue.data.wa.gov.au/dataset/52713dfc-25df-4cd5-9361-40bddf8f2070)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:29:19.782705  
 Modified: 2022-05-25T14:59:11.603633
 
@@ -3750,6 +4738,7 @@ Modified: 2022-05-25T14:59:11.603633
 
 ### [Perth Townsite 1845 (Perth Lakes Cross-Section Survey)](https://catalogue.data.wa.gov.au/dataset/2a178a88-eefe-48e6-8a83-805ccf46930d)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:32:18.162843  
 Modified: 2022-05-25T14:59:16.420647
 
@@ -3758,6 +4747,7 @@ Modified: 2022-05-25T14:59:16.420647
 
 ### [State Archives online catalogue](https://catalogue.data.wa.gov.au/dataset/be28f52b-52e9-4d2e-a5ff-27aa1716a903)
 
+Source: data.wa.gov.au  
 Created: 2017-03-09T03:41:23.165381  
 Modified: 2025-11-04T07:12:15.401441
 
@@ -3765,6 +4755,7 @@ Modified: 2025-11-04T07:12:15.401441
 
 ### [Western & Central Australia 1862](https://catalogue.data.wa.gov.au/dataset/52ede330-18dd-40ea-be2e-75026fd4a7b5)
 
+Source: data.wa.gov.au  
 Created: 2016-01-20T05:34:09.153873  
 Modified: 2022-05-25T14:59:14.095370
 
@@ -3773,6 +4764,7 @@ Modified: 2022-05-25T14:59:14.095370
 
 ### [Zotero for archive.sro.wa.gov.au](https://catalogue.data.wa.gov.au/dataset/55112b78-d248-4974-af49-1c56ba6d4933)
 
+Source: data.wa.gov.au  
 Created: 2017-07-27T07:09:41.639384  
 Modified: 2025-11-04T07:11:59.847781
 
@@ -3782,6 +4774,7 @@ Modified: 2025-11-04T07:11:59.847781
 
 ### [SA FOI - number of applications received by agency - State Government](https://data.sa.gov.au/data/dataset/304ed6e5-e573-4200-81a7-ceddce9ee5d0)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T03:58:46.920972  
 Modified: 2025-11-25T00:04:19.145500
 
@@ -3789,6 +4782,7 @@ Modified: 2025-11-25T00:04:19.145500
 
 ### [SA FOI – access applications overdue at year end by category, by sector, by year](https://data.sa.gov.au/data/dataset/a90a7b0d-4884-4704-97b2-9ec4d88a5d41)
 
+Source: data.sa.gov.au  
 Created: 2018-02-15T00:27:41.512880  
 Modified: 2025-11-25T00:23:05.992340
 
@@ -3796,6 +4790,7 @@ Modified: 2025-11-25T00:23:05.992340
 
 ### [SA FOI – access applications unfinished at year end by category, by sector, by year](https://data.sa.gov.au/data/dataset/dea2bc2a-d6a6-4622-95c3-0b08792b377e)
 
+Source: data.sa.gov.au  
 Created: 2018-02-15T00:22:36.119236  
 Modified: 2025-11-25T00:25:50.721027
 
@@ -3803,6 +4798,7 @@ Modified: 2025-11-25T00:25:50.721027
 
 ### [SA FOI – access determination outcome by category by sector by year](https://data.sa.gov.au/data/dataset/187d8bcb-66b6-464a-bdf7-fb79cb3a54af)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:32:54.519914  
 Modified: 2025-11-25T00:15:44.770896
 
@@ -3810,6 +4806,7 @@ Modified: 2025-11-25T00:15:44.770896
 
 ### [SA FOI – amendment application outcomes by year](https://data.sa.gov.au/data/dataset/a4828534-d9fc-443e-9521-b636714984d8)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:39:46.779829  
 Modified: 2025-11-25T01:36:37.246063
 
@@ -3817,6 +4814,7 @@ Modified: 2025-11-25T01:36:37.246063
 
 ### [SA FOI – internal review outcomes by year](https://data.sa.gov.au/data/dataset/3df0f44a-8636-4baf-a946-acad1cb3c986)
 
+Source: data.sa.gov.au  
 Created: 2018-02-15T00:19:46.085188  
 Modified: 2025-11-25T01:35:40.892790
 
@@ -3824,6 +4822,7 @@ Modified: 2025-11-25T01:35:40.892790
 
 ### [SA FOI – length of processing time for access apps by sector by year](https://data.sa.gov.au/data/dataset/173a2e09-d4f3-4120-ac07-f485006a3bfd)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:26:49.819997  
 Modified: 2025-11-25T00:11:04.520912
 
@@ -3831,6 +4830,7 @@ Modified: 2025-11-25T00:11:04.520912
 
 ### [SA FOI – number of FTE staff working on FOI](https://data.sa.gov.au/data/dataset/07ee57fb-3a4c-4930-b59c-a0794911d96b)
 
+Source: data.sa.gov.au  
 Created: 2018-02-15T00:34:49.626249  
 Modified: 2025-11-25T00:03:14.562194
 
@@ -3838,6 +4838,7 @@ Modified: 2025-11-25T00:03:14.562194
 
 ### [SA FOI – number of access applications made by MPs by year since 2001](https://data.sa.gov.au/data/dataset/b20da5d2-a18e-4eed-8c12-cc563724658e)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:24:15.873009  
 Modified: 2025-11-25T00:26:50.733297
 
@@ -3845,6 +4846,7 @@ Modified: 2025-11-25T00:26:50.733297
 
 ### [SA FOI – number of access applications received by all sectors by applicant type](https://data.sa.gov.au/data/dataset/283082d9-64dc-4e9d-9ace-fdc8f2921292)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:21:31.119222  
 Modified: 2025-11-25T00:29:52.230335
 
@@ -3852,6 +4854,7 @@ Modified: 2025-11-25T00:29:52.230335
 
 ### [SA FOI – number of applications received by agency - universities](https://data.sa.gov.au/data/dataset/af214147-ac3b-4005-8f80-0a1bef80b672)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:06:46.079277  
 Modified: 2025-11-25T00:06:49.237903
 
@@ -3859,6 +4862,7 @@ Modified: 2025-11-25T00:06:49.237903
 
 ### [SA FOI – number of applications received by agency – local government](https://data.sa.gov.au/data/dataset/612e379e-1ebf-431c-9906-380157877a96)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:04:29.901724  
 Modified: 2025-11-25T00:09:31.200612
 
@@ -3866,6 +4870,7 @@ Modified: 2025-11-25T00:09:31.200612
 
 ### [SA FOI – number of applications received by year by sector since 1991](https://data.sa.gov.au/data/dataset/4ef9fffc-61d4-4627-ad38-b7df0948343f)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:18:42.452451  
 Modified: 2025-11-25T00:38:21.936377
 
@@ -3873,6 +4878,7 @@ Modified: 2025-11-25T00:38:21.936377
 
 ### [SA FOI – number of fee waiver or reduction by reason by sector by year](https://data.sa.gov.au/data/dataset/f923f9b0-b72a-426c-a45e-04fff120eb2d)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:38:06.752608  
 Modified: 2025-11-25T01:38:44.371042
 
@@ -3880,6 +4886,7 @@ Modified: 2025-11-25T01:38:44.371042
 
 ### [SA FOI – number of negotiated extensions given by sector, by year](https://data.sa.gov.au/data/dataset/8649a3c4-7294-413e-b4ed-80070daf39c0)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:30:56.522921  
 Modified: 2022-11-22T00:15:34.122283
 
@@ -3887,6 +4894,7 @@ Modified: 2022-11-22T00:15:34.122283
 
 ### [SA FOI – number of s14(1) extensions given by sector, by year](https://data.sa.gov.au/data/dataset/44c450d8-410a-4d25-8e53-dbd6046b2123)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:29:01.238400  
 Modified: 2025-11-25T00:33:41.373473
 
@@ -3894,6 +4902,7 @@ Modified: 2025-11-25T00:33:41.373473
 
 ### [SA FOI – refusal reason for amendment application outcomes by year](https://data.sa.gov.au/data/dataset/4581271f-7f22-4a15-9f4b-0aec6cb70686)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:41:17.430429  
 Modified: 2022-11-21T23:56:23.838449
 
@@ -3901,6 +4910,7 @@ Modified: 2022-11-21T23:56:23.838449
 
 ### [SA FOI – use of other refusal reasons by reason by sector by year](https://data.sa.gov.au/data/dataset/504c67d9-f142-41a0-8f1b-8fbc9b8bf3df)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:36:30.786373  
 Modified: 2025-11-25T00:39:54.957408
 
@@ -3908,6 +4918,7 @@ Modified: 2025-11-25T00:39:54.957408
 
 ### [SA FOI – use of refusal reasons by clause by sector by year](https://data.sa.gov.au/data/dataset/eb831185-89bf-4ed9-b03c-4e4b780896bf)
 
+Source: data.sa.gov.au  
 Created: 2018-02-02T04:34:52.280282  
 Modified: 2025-11-25T00:14:18.148265
 
@@ -3915,6 +4926,7 @@ Modified: 2025-11-25T00:14:18.148265
 
 ### [State Records - Linear Metres of Unaccessioned Records](https://data.sa.gov.au/data/dataset/faeaed50-0031-476a-af91-b3b0cb1d682c)
 
+Source: data.sa.gov.au  
 Created: 2017-10-25T23:54:38.068972  
 Modified: 2019-12-03T04:24:43.980917
 
@@ -3922,6 +4934,7 @@ Modified: 2019-12-03T04:24:43.980917
 
 ### [State Records - Records relating to Access to records in State Records' custody](https://data.sa.gov.au/data/dataset/04d07af5-b8ac-449e-b9e6-f1a3f61d725b)
 
+Source: data.sa.gov.au  
 Created: 2017-10-26T01:13:05.480345  
 Modified: 2019-12-03T04:20:50.768154
 
@@ -3929,6 +4942,7 @@ Modified: 2019-12-03T04:20:50.768154
 
 ### [State Records - Records relating to arrangement and description](https://data.sa.gov.au/data/dataset/29f06b8c-7fc2-4a8f-8317-87a70137e68a)
 
+Source: data.sa.gov.au  
 Created: 2017-10-26T00:50:39.108115  
 Modified: 2019-12-03T04:24:17.811762
 
@@ -3936,6 +4950,7 @@ Modified: 2019-12-03T04:24:17.811762
 
 ### [State Records - Records relating to repository capacity](https://data.sa.gov.au/data/dataset/0a3cdfd5-e48c-4e46-82fb-7624e72ff068)
 
+Source: data.sa.gov.au  
 Created: 2017-10-26T00:53:29.079036  
 Modified: 2019-12-03T04:23:49.587085
 
@@ -3943,6 +4958,7 @@ Modified: 2019-12-03T04:23:49.587085
 
 ### [State Records - Records relating to shelf metres of temporary storage](https://data.sa.gov.au/data/dataset/b55e646f-74dc-48ae-acf7-c177ae0f0aa3)
 
+Source: data.sa.gov.au  
 Created: 2017-10-26T00:57:09.519326  
 Modified: 2019-12-03T04:21:56.548689
 
@@ -3950,6 +4966,7 @@ Modified: 2019-12-03T04:21:56.548689
 
 ### [State Records - Records relating to training](https://data.sa.gov.au/data/dataset/9568af57-165e-4d5f-8d7f-35e0eb37a654)
 
+Source: data.sa.gov.au  
 Created: 2017-10-26T01:01:22.987623  
 Modified: 2019-12-03T04:21:25.387125
 
@@ -3957,6 +4974,7 @@ Modified: 2019-12-03T04:21:25.387125
 
 ### [State Records - Records removed from the custody of State Records](https://data.sa.gov.au/data/dataset/cb253c22-c9e8-4213-a322-dbecdda27f5d)
 
+Source: data.sa.gov.au  
 Created: 2017-10-26T01:04:49.122278  
 Modified: 2019-12-03T04:23:22.907662
 
@@ -3964,6 +4982,7 @@ Modified: 2019-12-03T04:23:22.907662
 
 ### [State Records - Transfers not yet finalised](https://data.sa.gov.au/data/dataset/193901df-ba4e-4cc5-997d-f89962e6a7b6)
 
+Source: data.sa.gov.au  
 Created: 2017-10-26T01:07:11.803712  
 Modified: 2019-12-03T04:22:56.531382
 
@@ -3971,6 +4990,7 @@ Modified: 2019-12-03T04:22:56.531382
 
 ### [State Records - Transfers of records to State Records](https://data.sa.gov.au/data/dataset/51f34e68-4bba-4a28-9d9f-094eb203e733)
 
+Source: data.sa.gov.au  
 Created: 2017-10-26T01:09:57.930427  
 Modified: 2019-12-03T04:03:45.792564
 
@@ -3978,6 +4998,7 @@ Modified: 2019-12-03T04:03:45.792564
 
 ### [State Records - relating to conservation](https://data.sa.gov.au/data/dataset/c31629bf-c77c-4014-9748-0c80d613b79d)
 
+Source: data.sa.gov.au  
 Created: 2017-10-26T00:44:19.629110  
 Modified: 2019-12-03T04:22:29.156598
 
@@ -3985,6 +5006,7 @@ Modified: 2019-12-03T04:22:29.156598
 
 ### [State Records of South Australia Annual Report Performance Summary](https://data.sa.gov.au/data/dataset/a84b3640-1a64-49e6-934a-d7107ee38710)
 
+Source: data.sa.gov.au  
 Created: 2019-10-29T03:26:16.644865  
 Modified: 2019-11-06T10:52:02.628409
 
@@ -3994,36 +5016,80 @@ Modified: 2019-11-06T10:52:02.628409
 
 ### [Maritime Archaeological Sites (WAM-001)](https://catalogue.data.wa.gov.au/dataset/c4d24f2a-6740-4c05-a8ce-0b749d5bae6c)
 
+Source: data.wa.gov.au  
 Created: 2015-11-25T06:29:17.204398  
-Modified: 2026-04-09T22:16:33.381056
+Modified: 2026-09-15T23:03:19.930462
 
-* [GeoJSON](https://data-downloads.slip.wa.gov.au/WAM-001/GeoJSON) (GeoJSON)
-* [File Geodatabase](https://data-downloads.slip.wa.gov.au/WAM-001/File+Geodatabase) (FGDB)
-* [Shapefile](https://data-downloads.slip.wa.gov.au/WAM-001/Shapefile) (SHP)
-* [Geopackage](https://data-downloads.slip.wa.gov.au/WAM-001/Geopackage) (GeoPackage)
 * [ArcGIS Server Map Service](https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer/1) (API ArcGIS Server Map Service)
+* [Shapefile](https://data-downloads.slip.wa.gov.au/WAM-001/Shapefile) (SHP)
+* [GeoJSON](https://data-downloads.slip.wa.gov.au/WAM-001/GeoJSON) (GeoJSON)
+* [Geopackage](https://data-downloads.slip.wa.gov.au/WAM-001/Geopackage) (GeoPackage)
+* [File Geodatabase](https://data-downloads.slip.wa.gov.au/WAM-001/File+Geodatabase) (FGDB)
 
 ### [Shipwrecks (WAM-002)](https://catalogue.data.wa.gov.au/dataset/bf006416-589e-4d9f-bc46-566ac564c405)
 
+Source: data.wa.gov.au  
 Created: 2015-11-25T06:35:52.926878  
-Modified: 2026-04-09T22:16:33.236211
+Modified: 2026-09-15T23:03:06.682870
 
-* [GeoJSON](https://data-downloads.slip.wa.gov.au/WAM-002/GeoJSON) (GeoJSON)
-* [Geopackage](https://data-downloads.slip.wa.gov.au/WAM-002/Geopackage) (GeoPackage)
-* [File Geodatabase](https://data-downloads.slip.wa.gov.au/WAM-002/File+Geodatabase) (FGDB)
-* [Shapefile](https://data-downloads.slip.wa.gov.au/WAM-002/Shapefile) (SHP)
 * [Web Feature Service](https://public-services.slip.wa.gov.au/public/services/SLIP_Public_Services/People_and_Society_WFS/MapServer/WFSServer) (WFS)
 * [ArcGIS Server Map Service](https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer/0) (API ArcGIS Server Map Service)
 * [Web Mapping Service](https://public-services.slip.wa.gov.au/public/services/SLIP_Public_Services/People_and_Society/MapServer/WMSServer) (WMS)
+* [Shapefile](https://data-downloads.slip.wa.gov.au/WAM-002/Shapefile) (SHP)
+* [Geopackage](https://data-downloads.slip.wa.gov.au/WAM-002/Geopackage) (GeoPackage)
+* [GeoJSON](https://data-downloads.slip.wa.gov.au/WAM-002/GeoJSON) (GeoJSON)
+* [File Geodatabase](https://data-downloads.slip.wa.gov.au/WAM-002/File+Geodatabase) (FGDB)
 
 ### [Shipwrecks - Live Sync Beta (WAM-022)](https://catalogue.data.wa.gov.au/dataset/97584e2e-d973-4009-9332-7dc0504cb383)
 
+Source: data.wa.gov.au  
 Created: 2020-11-26T07:13:58.959261  
-Modified: 2026-04-09T22:16:33.342953
+Modified: 2026-09-15T23:03:09.171991
 
 * [](https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer) ()
-* [File Geodatabase](https://data-downloads.slip.wa.gov.au/WAM-022/File+Geodatabase) (FGDB)
-* [Geopackage](https://data-downloads.slip.wa.gov.au/WAM-022/Geopackage) (GeoPackage)
+* [ArcGIS Server Map Service](https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer/11) (API ArcGIS Server Map Service)
 * [GeoJSON](https://data-downloads.slip.wa.gov.au/WAM-022/GeoJSON) (GeoJSON)
 * [Shapefile](https://data-downloads.slip.wa.gov.au/WAM-022/Shapefile) (SHP)
-* [ArcGIS Server Map Service](https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/People_and_Society/MapServer/11) (API ArcGIS Server Map Service)
+* [Geopackage](https://data-downloads.slip.wa.gov.au/WAM-022/Geopackage) (GeoPackage)
+* [File Geodatabase](https://data-downloads.slip.wa.gov.au/WAM-022/File+Geodatabase) (FGDB)
+
+## Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism
+
+### [Black Tracker files index](https://data.qld.gov.au/dataset/black-tracker-files-index)
+
+Source: data.qld.gov.au  
+Created: 2014-06-25T03:26:37.405968  
+Modified: 2026-03-27T00:18:12.289647
+
+* [Black Tracker files index](https://www.data.qld.gov.au/dataset/d4eae643-937c-4035-8c3f-f3296b4ab474/resource/8f7ceba1-3225-4888-8c54-b37b66d17c55/download/indexes-black-tracker-files.csv) (CSV)
+
+### [Correspondence relating to Aboriginal and Torres Strait Islander people - Deebing Creek](https://data.qld.gov.au/dataset/correspondence-relating-to-aboriginal-and-torres-strait-islander-people-deebing-creek)
+
+Source: data.qld.gov.au  
+Created: 2014-06-25T03:34:11.925813  
+Modified: 2026-03-27T00:11:39.405130
+
+* [Correspondence relating to Aboriginal and Torres Strait Islander people - Deebing Creek](https://www.data.qld.gov.au/dataset/fa8fe6cd-8560-4a1b-8d8a-698c49e308fd/resource/21b98a5e-9d9a-4795-9693-faac505c7e0c/download/indexes-atsi-corro-1894-1915-deebing-creek.csv) (CSV)
+* [Correspondence relating to Aboriginal and Torres Strait Islander people - Deebing Creek explanatory notes](https://www.data.qld.gov.au/dataset/fa8fe6cd-8560-4a1b-8d8a-698c49e308fd/resource/a60f6e83-0e71-4fd1-971e-d8bb096ba8ed/download/note-indexes-atsi-corro-1894-1915-deebing-creek.pdf) (PDF)
+
+### [Index of census returns of Aboriginal and Torres Strait Island people 1915](https://data.qld.gov.au/dataset/index-of-census-returns-of-aboriginal-and-torres-strait-island-people-1915)
+
+Source: data.qld.gov.au  
+Created: 2014-06-25T06:23:46.270772  
+Modified: 2026-03-27T00:19:43.115672
+
+* [Index of census returns of Aboriginal and Torres Strait Island people 1915](https://www.data.qld.gov.au/dataset/deee57ae-b8c4-4676-a7d5-70c063575183/resource/e2505bb0-5bc2-4117-97ff-7137405e5f31/download/index-census-returns-atsi.csv) (CSV)
+
+## Wyndham City Council
+
+### [Wyndham City Arts and Heritage locations](https://data.gov.au/dataset/wyndham-city-arts-and-heritage-locations)
+
+Source: data.gov.au  
+Created: 2017-07-11T05:47:01.622152  
+Modified: 2026-09-15T16:23:19.779284
+
+* [Wyndham City Arts and Heritage locations](https://data.gov.au/data/dataset/da458d4d-c5c6-43dd-99b1-555f9d65020d/resource/4c1106e7-165d-4f0c-a6b5-f9a19931dc56/download/arts-and-heritage.zip) (ZIP)
+* [Wyndham City Arts and Heritage locations](https://data.gov.au/data/dataset/da458d4d-c5c6-43dd-99b1-555f9d65020d/resource/e3c42903-71e5-4b9f-a9b8-cb086b0b83c9/download/artsheritage.json) (JSON)
+* [Wyndham City Arts and Heritage locations - Preview this Dataset (WMS)](https://data.gov.au/geoserver/wyndham-city-arts-and-heritage-locations/wms?request=GetCapabilities) (WMS)
+* [Wyndham City Arts and Heritage locations Web Feature Service API Link](https://data.gov.au/geoserver/wyndham-city-arts-and-heritage-locations/wfs) (WFS)
+* [Wyndham City Arts and Heritage locations GeoJSON](https://data.gov.au/geoserver/wyndham-city-arts-and-heritage-locations/wfs?request=GetFeature&typeName=ckan_da458d4d_c5c6_43dd_99b1_555f9d65020d&outputFormat=json) (GeoJSON)
