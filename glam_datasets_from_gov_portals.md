@@ -42,12 +42,12 @@
 * [Victorian Department of Transport and Planning ](#victorian-department-of-transport-and-planning) (2 datasets)
 * [WA Department of Planning, Lands and Heritage](#wa-department-of-planning-lands-and-heritage) (1 dataset)
 * [Western Australian Museum](#western-australian-museum) (3 datasets)
-* [Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism, Queensland](#women-aboriginal-and-torres-strait-islander-partnerships-and-multiculturalism-queensland) (3 datasets)
+* [Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism, Queensland](#women-aboriginal-and-torres-strait-islander-partnerships-and-multiculturalism-queensland) (4 datasets)
 * [Wyndham City Council](#wyndham-city-council) (1 dataset)
 
 ## ACT Government Geospatial Data Catalogue (ACTmapi)
 
-### [ACTGOV Heritage Register](https://data.gov.au/dataset/actgov-heritage-register)
+### [ACTGOV Heritage Register](https://data.gov.au/data/dataset/actgov-heritage-register)
 
 Source: data.gov.au  
 Created: 2025-12-20T19:17:32.345899  
@@ -67,7 +67,7 @@ Modified: 2026-09-15T23:33:41.547513
 
 ## ACT Government Open Data
 
-### [Historic death index](https://data.gov.au/dataset/sepa-djsm)
+### [Historic death index](https://data.gov.au/data/dataset/sepa-djsm)
 
 Source: data.gov.au  
 Created: 2025-06-23T03:14:45.860659  
@@ -77,7 +77,7 @@ Modified: 2026-09-15T16:26:49.939341
 * [unnamed](https://www.data.act.gov.au/api/v3/views/sepa-djsm/query.json?accessType=DOWNLOAD) (JSON)
 * [unnamed](https://www.data.act.gov.au/api/v3/views/sepa-djsm/query.xml?accessType=DOWNLOAD) (XML)
 
-### [Historic marriage index](https://data.gov.au/dataset/uzaz-dbkr)
+### [Historic marriage index](https://data.gov.au/data/dataset/uzaz-dbkr)
 
 Source: data.gov.au  
 Created: 2025-06-23T03:16:29.829295  
@@ -89,7 +89,7 @@ Modified: 2026-09-15T16:29:48.838659
 
 ## Australian Antarctic Division
 
-### [Antarctic Artefacts Bibliography](https://data.gov.au/dataset/aad-aa-bibliography)
+### [Antarctic Artefacts Bibliography](https://data.gov.au/data/dataset/aad-aa-bibliography)
 
 Source: data.gov.au  
 Created: 2015-12-07T01:02:16.630925  
@@ -101,7 +101,7 @@ Modified: 2023-08-11T01:12:15.516009
 
 ## Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)
 
-### [Austlang dataset](https://data.gov.au/dataset/70132e6f-259c-4e0f-9f95-4aed1101c053)
+### [Austlang dataset](https://data.gov.au/data/dataset/70132e6f-259c-4e0f-9f95-4aed1101c053)
 
 Source: data.gov.au  
 Created: 2019-05-15T02:54:29.583808  
@@ -110,7 +110,7 @@ Modified: 2026-05-13T03:51:56.650494
 * [AUSTLANG dataset](https://api.aiatsis.gov.au/files/public/austlang/austlang_dataset.csv) (CSV)
 * [AUSTLANG dataset](https://aiatsis.gov.au/austlang/download-data) (page)
 
-### [The NSW Aborigines Protection/Welfare Board 1883-1969 Map](https://data.gov.au/dataset/11cbf24a-a31a-488c-bc65-2811da2a8582)
+### [The NSW Aborigines Protection/Welfare Board 1883-1969 Map](https://data.gov.au/data/dataset/11cbf24a-a31a-488c-bc65-2811da2a8582)
 
 Source: data.gov.au  
 Created: 2018-05-31T10:34:22.675157  
@@ -135,7 +135,7 @@ Modified: 2025-10-08T07:34:04.191707
 
 ## Brimbank City Council
 
-### [Brimbank Historical Community Sites](https://data.gov.au/dataset/brimbank-historical-community-sites)
+### [Brimbank Historical Community Sites](https://data.gov.au/data/dataset/brimbank-historical-community-sites)
 
 Source: data.gov.au  
 Created: 2019-01-30T05:39:23.286438  
@@ -173,7 +173,7 @@ Modified: 2022-11-11T02:00:41.642831
 
 ## City of Ballarat
 
-### [Ballarat Corner Shops](https://data.gov.au/dataset/ballarat-corner-shops)
+### [Ballarat Corner Shops](https://data.gov.au/data/dataset/ballarat-corner-shops)
 
 Source: data.gov.au  
 Created: 2015-05-25T04:27:52.606690  
@@ -187,7 +187,7 @@ Modified: 2026-09-15T03:11:13.721749
 * [Ballarat Corner Shops Web Feature Service API Link](https://data.gov.au/geoserver/ballarat-corner-shops/wfs) (WFS)
 * [Ballarat Corner Shops GeoJSON](https://data.gov.au/geoserver/ballarat-corner-shops/wfs?request=GetFeature&typeName=ckan_91c3b46d_ea25_472f_a3d9_bfc6a58496ae&outputFormat=json) (GeoJSON)
 
-### [Ballarat Heritage Status](https://data.gov.au/dataset/ballarat-heritage-status)
+### [Ballarat Heritage Status](https://data.gov.au/data/dataset/ballarat-heritage-status)
 
 Source: data.gov.au  
 Created: 2015-02-13T02:46:18.712283  
@@ -199,7 +199,7 @@ Modified: 2026-09-15T01:08:27.168095
 * [Ballarat Heritage Status Web Feature Service API Link](https://data.gov.au/geoserver/ballarat-heritage-status/wfs) (WFS)
 * [Ballarat Heritage Status GeoJSON](https://data.gov.au/geoserver/ballarat-heritage-status/wfs?request=GetFeature&typeName=ckan_aa26c955_d865_407f_8e58_e12448de4d8e&outputFormat=json) (GeoJSON)
 
-### [Ballarat Historical Naming Index](https://data.gov.au/dataset/ballarat-historical-naming-index)
+### [Ballarat Historical Naming Index](https://data.gov.au/data/dataset/ballarat-historical-naming-index)
 
 Source: data.gov.au  
 Created: 2017-07-03T23:32:32.674489  
@@ -210,7 +210,7 @@ Modified: 2023-08-09T09:10:26.383699
 
 ## City of Gold Coast
 
-### [Gold Coast Heritage Register](https://data.gov.au/dataset/gold-coast-heritage-register)
+### [Gold Coast Heritage Register](https://data.gov.au/data/dataset/gold-coast-heritage-register)
 
 Source: data.gov.au  
 Created: 2013-09-26T22:37:05.381699  
@@ -225,7 +225,7 @@ Modified: 2026-09-14T22:45:10.117956
 
 ## City of Greater Geelong
 
-### [Historical Images - City of Greater Geelong](https://data.gov.au/dataset/geelong-historical-images)
+### [Historical Images - City of Greater Geelong](https://data.gov.au/data/dataset/geelong-historical-images)
 
 Source: data.gov.au  
 Created: 2015-07-02T06:15:45.245775  
@@ -235,7 +235,7 @@ Modified: 2023-08-09T07:31:18.348128
 
 ## City of Melbourne Open Data
 
-### [Mahlstedt's fire plans of Melbourne 1888](https://data.gov.au/dataset/mahlstedts-fire-plans-of-melbourne-18881)
+### [Mahlstedt's fire plans of Melbourne 1888](https://data.gov.au/data/dataset/mahlstedts-fire-plans-of-melbourne-18881)
 
 Source: data.gov.au  
 Created: 2026-01-10T01:44:23.954023  
@@ -343,7 +343,7 @@ Modified: 2025-11-17T05:03:46.434583
 
 ## Hobsons Bay City Council
 
-### [Heritage Assets and Arts in Hobsons Bay](https://data.gov.au/dataset/heritage-assets-and-arts-in-hobsons-bay)
+### [Heritage Assets and Arts in Hobsons Bay](https://data.gov.au/data/dataset/heritage-assets-and-arts-in-hobsons-bay)
 
 Source: data.gov.au  
 Created: 2019-02-27T05:04:09.953357  
@@ -359,7 +359,7 @@ Modified: 2026-09-15T14:44:00.245303
 
 ## IP Australia
 
-### [IPGOD2022](https://data.gov.au/dataset/ipgod2022)
+### [IPGOD2022](https://data.gov.au/data/dataset/ipgod2022)
 
 Source: data.gov.au  
 Created: 2021-04-30T03:26:29.746269  
@@ -392,7 +392,7 @@ Modified: 2022-06-20T23:05:42.349305
 * [Trade mark Application Links](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/423ab970-a593-472b-b9a3-4a9e204ad20c/download/trade-mark-application-links.csv) (CSV)
 * [Trade Mark Party Activity](https://data.gov.au/data/dataset/49017fd0-e7be-4fc0-88c8-046fc366d980/resource/9197f81e-8c43-4146-a6b4-e0d380f9dc1d/download/trade-mark-party-activity.csv) (CSV)
 
-### [Intellectual Property Longitudinal Research Data (IPLORD)](https://data.gov.au/dataset/intellectual-property-longitudinal-research-data-2020)
+### [Intellectual Property Longitudinal Research Data (IPLORD)](https://data.gov.au/data/dataset/intellectual-property-longitudinal-research-data-2020)
 
 Source: data.gov.au  
 Created: 2021-06-08T03:22:35.959043  
@@ -410,7 +410,7 @@ Modified: 2023-08-29T14:11:08.657307
 
 ## Libraries Tasmania
 
-### [Colonial Secretary Correspondence (1824-1854)](https://data.gov.au/dataset/069a423b-abd8-4454-89ad-4b04aed6cec7)
+### [Colonial Secretary Correspondence (1824-1854)](https://data.gov.au/data/dataset/069a423b-abd8-4454-89ad-4b04aed6cec7)
 
 Source: data.gov.au  
 Created: 2019-09-05T06:30:22.128105  
@@ -420,7 +420,7 @@ Modified: 2024-11-27T14:12:50.270524
 * [Colonial Secretary correspondence - XML](https://data.gov.au/data/dataset/069a423b-abd8-4454-89ad-4b04aed6cec7/resource/545d0835-1e53-43d0-9bb8-0b3ed9488b68/download/colonial-secretary-correspondence.xml) (XML)
 * [Colonial Secretary correspondence - JSON](https://data.gov.au/data/dataset/069a423b-abd8-4454-89ad-4b04aed6cec7/resource/59a8d34b-a183-468f-b615-2c95fad1c054/download/colonial-secretary-correspondence.json) (JSON)
 
-### [Libraries Tasmania Digitised Archives](https://data.gov.au/dataset/d7ec2d93-b9dd-482b-b6d9-432b2a2455a3)
+### [Libraries Tasmania Digitised Archives](https://data.gov.au/data/dataset/d7ec2d93-b9dd-482b-b6d9-432b2a2455a3)
 
 Source: data.gov.au  
 Created: 2016-04-05T05:02:51.837843  
@@ -430,7 +430,7 @@ Modified: 2023-08-09T23:29:57.812023
 * [Digitised Archives - XML](https://data.gov.au/data/dataset/d7ec2d93-b9dd-482b-b6d9-432b2a2455a3/resource/b3bbc43c-d8ed-4515-8d13-a925a2e3bb0b/download/archives_ite_dix.xml) (XML)
 * [Digitised Archives - JSON](https://data.gov.au/data/dataset/d7ec2d93-b9dd-482b-b6d9-432b2a2455a3/resource/2eb9e1bd-6e6c-4541-be0d-e3166b5bd84a/download/archives_ite_dix.json) (JSON)
 
-### [Libraries Tasmania locations](https://data.gov.au/dataset/409f7f64-35ef-4a70-8db1-dd737a6fabec)
+### [Libraries Tasmania locations](https://data.gov.au/data/dataset/409f7f64-35ef-4a70-8db1-dd737a6fabec)
 
 Source: data.gov.au  
 Created: 2016-03-22T00:10:05.436984  
@@ -438,7 +438,7 @@ Modified: 2024-09-11T06:25:05.749698
 
 * [Libraries Tasmania GeoJSON Locations](https://data.gov.au/data/dataset/409f7f64-35ef-4a70-8db1-dd737a6fabec/resource/599333a0-00c5-4682-9192-b78b253240bc/download/libraries-tasmania.geojson) (GEOJSON)
 
-### [Miscellaneous Records (1838-1873)](https://data.gov.au/dataset/31cf23a9-ecff-4803-ab01-15d580e40eaa)
+### [Miscellaneous Records (1838-1873)](https://data.gov.au/data/dataset/31cf23a9-ecff-4803-ab01-15d580e40eaa)
 
 Source: data.gov.au  
 Created: 2019-09-05T06:37:12.433061  
@@ -448,7 +448,7 @@ Modified: 2024-11-27T14:15:06.267381
 * [Miscellaneous - XML](https://data.gov.au/data/dataset/31cf23a9-ecff-4803-ab01-15d580e40eaa/resource/050b2370-b643-4650-a77a-d9040bf9ca3d/download/miscellaneous.xml) (XML)
 * [Miscellaneous - JSON](https://data.gov.au/data/dataset/31cf23a9-ecff-4803-ab01-15d580e40eaa/resource/06dff415-bf40-4980-983a-594c4dbb2c96/download/miscellaneous.json) (JSON)
 
-### [Tasmanian Archives Records Series](https://data.gov.au/dataset/575f1bb4-87ed-4f08-990d-3cfcd06ccd9c)
+### [Tasmanian Archives Records Series](https://data.gov.au/data/dataset/575f1bb4-87ed-4f08-990d-3cfcd06ccd9c)
 
 Source: data.gov.au  
 Created: 2016-04-06T06:15:06.951953  
@@ -458,7 +458,7 @@ Modified: 2023-08-09T09:06:42.311261
 * [Archives Series - XML](https://data.gov.au/data/dataset/575f1bb4-87ed-4f08-990d-3cfcd06ccd9c/resource/1b03a062-d376-4304-be64-125efc180539/download/archives_ser_dix.xml) (XML)
 * [Archives Series - JSON](https://data.gov.au/data/dataset/575f1bb4-87ed-4f08-990d-3cfcd06ccd9c/resource/ec6d7702-ea1b-44ba-a85a-3b61d6082e68/download/archives_ser_dix.json) (JSON)
 
-### [Tasmanian Arrivals (19th Century)](https://data.gov.au/dataset/351092b1-65f1-4b34-8406-0c30ae146c88)
+### [Tasmanian Arrivals (19th Century)](https://data.gov.au/data/dataset/351092b1-65f1-4b34-8406-0c30ae146c88)
 
 Source: data.gov.au  
 Created: 2015-06-16T02:49:11.921824  
@@ -468,7 +468,7 @@ Modified: 2024-11-27T14:15:29.591484
 * [Tasmanian Arrivals - XML](https://data.gov.au/data/dataset/351092b1-65f1-4b34-8406-0c30ae146c88/resource/bf619908-593a-44f2-9d7f-e14629d323a8/download/arrivals.xml) (XML)
 * [Tasmanian Arrivals - JSON](https://data.gov.au/data/dataset/351092b1-65f1-4b34-8406-0c30ae146c88/resource/6864c5f2-3489-4ef3-acb7-0b353e2ab5c1/download/arrivals.json) (JSON)
 
-### [Tasmanian Bankruptcy Records (1821-1928)](https://data.gov.au/dataset/b0627a17-6783-4c18-a83e-11aa7e22e50e)
+### [Tasmanian Bankruptcy Records (1821-1928)](https://data.gov.au/data/dataset/b0627a17-6783-4c18-a83e-11aa7e22e50e)
 
 Source: data.gov.au  
 Created: 2017-07-13T23:40:52.786178  
@@ -478,7 +478,7 @@ Modified: 2024-11-27T14:15:33.786273
 * [Bankruptcy - XML](https://data.gov.au/data/dataset/b0627a17-6783-4c18-a83e-11aa7e22e50e/resource/086bb1c3-4140-4319-a079-1112806d7691/download/bankruptcy.xml) (XML)
 * [Bankruptcy - JSON](https://data.gov.au/data/dataset/b0627a17-6783-4c18-a83e-11aa7e22e50e/resource/b52db4c3-1c82-4dd4-876f-6b9dde3816b5/download/bankruptcy.json) (JSON)
 
-### [Tasmanian Births (1803-1933)](https://data.gov.au/dataset/c8a4d43f-7ab5-40c4-817e-7babdc43e0f2)
+### [Tasmanian Births (1803-1933)](https://data.gov.au/data/dataset/c8a4d43f-7ab5-40c4-817e-7babdc43e0f2)
 
 Source: data.gov.au  
 Created: 2015-06-16T03:02:06.097826  
@@ -488,7 +488,7 @@ Modified: 2024-11-27T14:17:54.240208
 * [Tasmanian Births - XML](https://data.gov.au/data/dataset/c8a4d43f-7ab5-40c4-817e-7babdc43e0f2/resource/a7c05fba-f620-4380-9a5e-b34bbb327fb2/download/births.xml) (XML)
 * [Tasmanian Births - JSON](https://data.gov.au/data/dataset/c8a4d43f-7ab5-40c4-817e-7babdc43e0f2/resource/4e30dd59-f38d-489a-8ee5-817ac70e5f1a/download/births.json) (JSON)
 
-### [Tasmanian Census (1837-1857)](https://data.gov.au/dataset/dcca6fc4-fb19-4172-ae04-7175260f4990)
+### [Tasmanian Census (1837-1857)](https://data.gov.au/data/dataset/dcca6fc4-fb19-4172-ae04-7175260f4990)
 
 Source: data.gov.au  
 Created: 2015-06-16T04:40:35.041307  
@@ -498,7 +498,7 @@ Modified: 2024-11-27T14:18:03.841305
 * [Tasmanian Census - XML](https://data.gov.au/data/dataset/dcca6fc4-fb19-4172-ae04-7175260f4990/resource/80ea84b3-2983-41ec-9489-843f4d338c61/download/census.xml) (XML)
 * [Tasmanian Census - JSON](https://data.gov.au/data/dataset/dcca6fc4-fb19-4172-ae04-7175260f4990/resource/5ae7c468-b57f-4b8d-a057-94d749fe5042/download/census.json) (JSON)
 
-### [Tasmanian Convicts (1803-1893)](https://data.gov.au/dataset/6d7bacba-8e0f-4105-b7bc-9fe11eda9f89)
+### [Tasmanian Convicts (1803-1893)](https://data.gov.au/data/dataset/6d7bacba-8e0f-4105-b7bc-9fe11eda9f89)
 
 Source: data.gov.au  
 Created: 2015-06-16T04:46:20.345340  
@@ -508,7 +508,7 @@ Modified: 2024-11-27T14:19:05.365763
 * [Tasmanian Convicts - XML](https://data.gov.au/data/dataset/6d7bacba-8e0f-4105-b7bc-9fe11eda9f89/resource/0107a43d-c30b-4398-9cbf-d44008ef8101/download/convicts.xml) (XML)
 * [Tasmanian Convicts - JSON](https://data.gov.au/data/dataset/6d7bacba-8e0f-4105-b7bc-9fe11eda9f89/resource/36a08ac4-c7a8-4f29-b383-161408a70ecb/download/convicts.json) (JSON)
 
-### [Tasmanian Convicts - permission to marry (1829-1858).](https://data.gov.au/dataset/19077659-b4a1-4581-977d-40d6c922e71c)
+### [Tasmanian Convicts - permission to marry (1829-1858).](https://data.gov.au/data/dataset/19077659-b4a1-4581-977d-40d6c922e71c)
 
 Source: data.gov.au  
 Created: 2015-06-18T01:28:26.227023  
@@ -518,7 +518,7 @@ Modified: 2024-11-27T14:24:12.697477
 * [Tasmanian Convicts - permission to marry - XML](https://data.gov.au/data/dataset/19077659-b4a1-4581-977d-40d6c922e71c/resource/c94a7da4-b2e9-411b-b091-015d3a348ca8/download/marriage-permissions.xml) (XML)
 * [Tasmanian Convicts - permission to marry - JSON](https://data.gov.au/data/dataset/19077659-b4a1-4581-977d-40d6c922e71c/resource/886d14db-11a9-40ed-9295-e35d267b9fb3/download/marriage-permissions.json) (JSON)
 
-### [Tasmanian Court Records (1824-1890)](https://data.gov.au/dataset/58a9a8d7-01e0-43df-9f91-06ccdae5c634)
+### [Tasmanian Court Records (1824-1890)](https://data.gov.au/data/dataset/58a9a8d7-01e0-43df-9f91-06ccdae5c634)
 
 Source: data.gov.au  
 Created: 2017-07-14T01:07:40.196610  
@@ -528,7 +528,7 @@ Modified: 2024-11-27T14:19:16.214613
 * [Court - XML](https://data.gov.au/data/dataset/58a9a8d7-01e0-43df-9f91-06ccdae5c634/resource/a436d1fc-21ef-441d-9a1c-e290b3ac3762/download/court.xml) (XML)
 * [Court - JSON](https://data.gov.au/data/dataset/58a9a8d7-01e0-43df-9f91-06ccdae5c634/resource/008db5ad-6b5f-4c09-b159-4c094a0ddcdf/download/court.json) (JSON)
 
-### [Tasmanian Deaths (1803-1939)](https://data.gov.au/dataset/45d78601-0034-4da3-9b69-d277d880ab21)
+### [Tasmanian Deaths (1803-1939)](https://data.gov.au/data/dataset/45d78601-0034-4da3-9b69-d277d880ab21)
 
 Source: data.gov.au  
 Created: 2015-06-18T01:24:46.370500  
@@ -538,7 +538,7 @@ Modified: 2024-11-27T14:20:27.098892
 * [Tasmanian Deaths - XML](https://data.gov.au/data/dataset/45d78601-0034-4da3-9b69-d277d880ab21/resource/f4825fdb-17a5-47ab-bb4e-6b9b21bfe6b5/download/deaths.xml) (XML)
 * [Tasmanian Deaths - JSON](https://data.gov.au/data/dataset/45d78601-0034-4da3-9b69-d277d880ab21/resource/bcbed7d3-e0ad-4006-b9da-b4828a83268f/download/deaths.json) (JSON)
 
-### [Tasmanian Departures (1817-1887)](https://data.gov.au/dataset/7ebbb329-5095-4876-914f-ed08733f7a93)
+### [Tasmanian Departures (1817-1887)](https://data.gov.au/data/dataset/7ebbb329-5095-4876-914f-ed08733f7a93)
 
 Source: data.gov.au  
 Created: 2015-06-16T04:56:52.800514  
@@ -548,7 +548,7 @@ Modified: 2024-11-27T14:20:58.705727
 * [Tasmanian Departures - XML](https://data.gov.au/data/dataset/7ebbb329-5095-4876-914f-ed08733f7a93/resource/e8b4a2b7-0d77-458a-8526-ebee523280de/download/departures.xml) (XML)
 * [Tasmanian Departures - JSON](https://data.gov.au/data/dataset/7ebbb329-5095-4876-914f-ed08733f7a93/resource/3c4c1621-5919-471b-82a0-d8ac33825d45/download/departures.json) (JSON)
 
-### [Tasmanian Divorces (1861-1950)](https://data.gov.au/dataset/1edcd6fb-adec-46c6-9851-e923bc657cd1)
+### [Tasmanian Divorces (1861-1950)](https://data.gov.au/data/dataset/1edcd6fb-adec-46c6-9851-e923bc657cd1)
 
 Source: data.gov.au  
 Created: 2015-06-18T01:34:55.939948  
@@ -558,7 +558,7 @@ Modified: 2024-11-27T14:21:02.575888
 * [Tasmanian Divorces - XML](https://data.gov.au/data/dataset/1edcd6fb-adec-46c6-9851-e923bc657cd1/resource/7db2ad9b-5cd2-420f-83aa-c3b71a6d20e7/download/divorces.xml) (XML)
 * [Tasmanian Divorces - JSON](https://data.gov.au/data/dataset/1edcd6fb-adec-46c6-9851-e923bc657cd1/resource/278fcf1b-5a21-48eb-82bf-7e7f1ddd3ef2/download/divorces.json) (JSON)
 
-### [Tasmanian Education Records (1846-1908)](https://data.gov.au/dataset/16c59f7f-698d-489d-b3ae-3e3fb7fe21ee)
+### [Tasmanian Education Records (1846-1908)](https://data.gov.au/data/dataset/16c59f7f-698d-489d-b3ae-3e3fb7fe21ee)
 
 Source: data.gov.au  
 Created: 2019-09-05T06:32:41.010769  
@@ -568,7 +568,7 @@ Modified: 2024-11-27T14:14:55.536954
 * [Education - XML](https://data.gov.au/data/dataset/16c59f7f-698d-489d-b3ae-3e3fb7fe21ee/resource/3e1f5cd7-4868-4454-8575-b5c0dddd9cff/download/education.xml) (XML)
 * [Education - JSON](https://data.gov.au/data/dataset/16c59f7f-698d-489d-b3ae-3e3fb7fe21ee/resource/ca05db63-455c-40cc-a1c5-a951d671d69d/download/education.json) (JSON)
 
-### [Tasmanian Employment Records (1865-1902)](https://data.gov.au/dataset/5a405858-49da-4895-974e-1372dbdf91ca)
+### [Tasmanian Employment Records (1865-1902)](https://data.gov.au/data/dataset/5a405858-49da-4895-974e-1372dbdf91ca)
 
 Source: data.gov.au  
 Created: 2019-09-05T06:35:12.443767  
@@ -578,7 +578,7 @@ Modified: 2024-11-27T14:15:01.401942
 * [Employment - XML](https://data.gov.au/data/dataset/5a405858-49da-4895-974e-1372dbdf91ca/resource/be45208f-e7f4-47a5-bafc-fa3f7c087423/download/employment.xml) (XML)
 * [Employment - JSON](https://data.gov.au/data/dataset/5a405858-49da-4895-974e-1372dbdf91ca/resource/e38ca128-ffa6-4675-8c62-3d4327cd7939/download/employment.json) (JSON)
 
-### [Tasmanian Health & Welfare Records (1829-1952)](https://data.gov.au/dataset/7adb79ba-2ce3-4f2d-96cb-6536d1c6034f)
+### [Tasmanian Health & Welfare Records (1829-1952)](https://data.gov.au/data/dataset/7adb79ba-2ce3-4f2d-96cb-6536d1c6034f)
 
 Source: data.gov.au  
 Created: 2016-03-21T23:57:48.142520  
@@ -588,7 +588,7 @@ Modified: 2024-11-27T14:23:19.063783
 * [Tasmanian Health & Welfare Records - XML](https://data.gov.au/data/dataset/7adb79ba-2ce3-4f2d-96cb-6536d1c6034f/resource/35ce31a8-2298-4085-bdcd-cef2f454d4ff/download/health-welfare.xml) (XML)
 * [Tasmanian Health & Welfare Records - JSON](https://data.gov.au/data/dataset/7adb79ba-2ce3-4f2d-96cb-6536d1c6034f/resource/ee76eb11-739e-4775-8186-33c7d1022427/download/health-welfare.json) (JSON)
 
-### [Tasmanian Hotels & Property Records (1818-1958)](https://data.gov.au/dataset/8dbcca15-2ae1-46e3-9c32-02ecefffc87d)
+### [Tasmanian Hotels & Property Records (1818-1958)](https://data.gov.au/data/dataset/8dbcca15-2ae1-46e3-9c32-02ecefffc87d)
 
 Source: data.gov.au  
 Created: 2016-03-22T00:15:06.037540  
@@ -598,7 +598,7 @@ Modified: 2024-11-27T14:23:24.946421
 * [Hotels & Properties - XML](https://data.gov.au/data/dataset/8dbcca15-2ae1-46e3-9c32-02ecefffc87d/resource/f891b16b-f864-47a2-8ef4-4ecc3e6c3130/download/hotels-properties.xml) (XML)
 * [Hotels & Properties - JSON](https://data.gov.au/data/dataset/8dbcca15-2ae1-46e3-9c32-02ecefffc87d/resource/c392c2fe-ef5e-4ea3-a642-b66bbfdfcd3a/download/hotels-properties.json) (JSON)
 
-### [Tasmanian Immigration Records (1910-1940)](https://data.gov.au/dataset/4b7b5b50-774f-4416-90ce-5b7df85ff8ce)
+### [Tasmanian Immigration Records (1910-1940)](https://data.gov.au/data/dataset/4b7b5b50-774f-4416-90ce-5b7df85ff8ce)
 
 Source: data.gov.au  
 Created: 2017-05-09T06:29:11.103893  
@@ -608,7 +608,7 @@ Modified: 2024-11-27T14:23:29.908598
 * [Tasmanian Immigration - JSON](https://data.gov.au/data/dataset/4b7b5b50-774f-4416-90ce-5b7df85ff8ce/resource/e66854d1-73b0-4a5b-a0d1-c9cea2958012/download/immigration.json) (JSON)
 * [Tasmanian Immigration - XML](https://data.gov.au/data/dataset/4b7b5b50-774f-4416-90ce-5b7df85ff8ce/resource/aa0499fa-e19d-417d-bb1b-9589c0a19dbf/download/immigration.xml) (XML)
 
-### [Tasmanian Inquests (1828-1973)](https://data.gov.au/dataset/5b5ced0f-0032-4178-a874-57b92d7b09d9)
+### [Tasmanian Inquests (1828-1973)](https://data.gov.au/data/dataset/5b5ced0f-0032-4178-a874-57b92d7b09d9)
 
 Source: data.gov.au  
 Created: 2015-06-18T01:58:36.659032  
@@ -618,7 +618,7 @@ Modified: 2024-11-27T14:23:40.059423
 * [Tasmanian Inquests - XML](https://data.gov.au/data/dataset/5b5ced0f-0032-4178-a874-57b92d7b09d9/resource/42e0e4a6-3539-48ea-bdb7-40165ab8dcc5/download/inquests.xml) (XML)
 * [Tasmanian Inquests - JSON](https://data.gov.au/data/dataset/5b5ced0f-0032-4178-a874-57b92d7b09d9/resource/980aa7af-45ce-49a8-a813-013d20c52011/download/inquests.json) (JSON)
 
-### [Tasmanian Land Records (1832-1935)](https://data.gov.au/dataset/4940b8e0-a2b4-49e6-b658-b124d98e2082)
+### [Tasmanian Land Records (1832-1935)](https://data.gov.au/data/dataset/4940b8e0-a2b4-49e6-b658-b124d98e2082)
 
 Source: data.gov.au  
 Created: 2021-03-23T22:09:46.719087  
@@ -628,7 +628,7 @@ Modified: 2024-11-27T14:24:01.396243
 * [Land Records - XML](https://data.gov.au/data/dataset/4940b8e0-a2b4-49e6-b658-b124d98e2082/resource/299a3e98-00aa-4c26-b055-a7875b8f2568/download/land.xml) (XML)
 * [Land Records - JSON](https://data.gov.au/data/dataset/4940b8e0-a2b4-49e6-b658-b124d98e2082/resource/1aa0d1c0-7298-45bc-99ea-b5be9fa1e705/download/land.json) (JSON)
 
-### [Tasmanian Marriages (1803-1944)](https://data.gov.au/dataset/948c2c93-5d32-43c0-b970-d834cbadf448)
+### [Tasmanian Marriages (1803-1944)](https://data.gov.au/data/dataset/948c2c93-5d32-43c0-b970-d834cbadf448)
 
 Source: data.gov.au  
 Created: 2015-06-18T01:47:30.913394  
@@ -638,7 +638,7 @@ Modified: 2024-11-27T14:25:10.232531
 * [Tasmanian Marriages - XML](https://data.gov.au/data/dataset/948c2c93-5d32-43c0-b970-d834cbadf448/resource/37ce8ddb-858e-468e-a407-fcf9f54a873a/download/marriages.xml) (XML)
 * [Tasmanian Marriages - JSON](https://data.gov.au/data/dataset/948c2c93-5d32-43c0-b970-d834cbadf448/resource/48867082-bfca-44d4-a5ef-4a99152bc426/download/marriages.json) (JSON)
 
-### [Tasmanian Naturalisations (1835-1904)](https://data.gov.au/dataset/b19224c6-3b78-4d03-8a9d-c97d7b8db541)
+### [Tasmanian Naturalisations (1835-1904)](https://data.gov.au/data/dataset/b19224c6-3b78-4d03-8a9d-c97d7b8db541)
 
 Source: data.gov.au  
 Created: 2015-06-18T01:51:30.181632  
@@ -648,7 +648,7 @@ Modified: 2024-11-27T14:25:14.903230
 * [Tasmanian Naturalisations - XML](https://data.gov.au/data/dataset/b19224c6-3b78-4d03-8a9d-c97d7b8db541/resource/a871cd24-9518-4768-9a44-4731cb582a10/download/naturalisations.xml) (XML)
 * [Tasmanian Naturalisations - JSON](https://data.gov.au/data/dataset/b19224c6-3b78-4d03-8a9d-c97d7b8db541/resource/e2060a5c-9b42-4f14-9a1b-bcc7bef88fe7/download/naturalisations.json) (JSON)
 
-### [Tasmanian Newspaper Index](https://data.gov.au/dataset/3e1eb60e-5ad1-4a20-8cb9-32be085e56f0)
+### [Tasmanian Newspaper Index](https://data.gov.au/data/dataset/3e1eb60e-5ad1-4a20-8cb9-32be085e56f0)
 
 Source: data.gov.au  
 Created: 2016-04-06T01:52:36.573929  
@@ -658,7 +658,7 @@ Modified: 2024-11-27T14:30:09.812998
 * [Tasmanian Index - XML](https://data.gov.au/data/dataset/3e1eb60e-5ad1-4a20-8cb9-32be085e56f0/resource/37c714be-8ddd-4069-b131-bda352979a7f/download/tas_index_marc.xml) (XML)
 * [Tasmanian Index - JSON](https://data.gov.au/data/dataset/3e1eb60e-5ad1-4a20-8cb9-32be085e56f0/resource/f0feae8b-d02a-467c-9329-e37a9c2f38ac/download/tas_index_marc.json) (JSON)
 
-### [Tasmanian Prisoners (1877-1938)](https://data.gov.au/dataset/d2c27ee7-8be8-425b-a028-b96ef3847fac)
+### [Tasmanian Prisoners (1877-1938)](https://data.gov.au/data/dataset/d2c27ee7-8be8-425b-a028-b96ef3847fac)
 
 Source: data.gov.au  
 Created: 2015-06-18T01:54:13.281076  
@@ -668,7 +668,7 @@ Modified: 2024-11-27T14:25:19.872892
 * [Tasmanian Prisoners - XML](https://data.gov.au/data/dataset/d2c27ee7-8be8-425b-a028-b96ef3847fac/resource/1e1ef73d-b096-455b-95f1-0147549f9bb6/download/prisoners.xml) (XML)
 * [Tasmanian Prisoners - JSON](https://data.gov.au/data/dataset/d2c27ee7-8be8-425b-a028-b96ef3847fac/resource/441035ce-d276-4112-a871-94d51bb8714f/download/prisoners.json) (JSON)
 
-### [Tasmanian Wills (1813-1997)](https://data.gov.au/dataset/e897a164-153a-448b-9558-ec0b57079b3d)
+### [Tasmanian Wills (1813-1997)](https://data.gov.au/data/dataset/e897a164-153a-448b-9558-ec0b57079b3d)
 
 Source: data.gov.au  
 Created: 2015-06-18T01:43:26.050087  
@@ -678,7 +678,7 @@ Modified: 2024-11-27T14:26:28.520181
 * [Tasmanian Wills - XML](https://data.gov.au/data/dataset/e897a164-153a-448b-9558-ec0b57079b3d/resource/880d70fb-10d3-4982-bf9c-313ac9f774c7/download/wills.xml) (XML)
 * [Tasmanian Wills - JSON](https://data.gov.au/data/dataset/e897a164-153a-448b-9558-ec0b57079b3d/resource/752573d2-3c05-44c3-b8fa-fcc4b79ac4db/download/wills.json) (JSON)
 
-### [World War I Soldiers and Nurses (1914-1928).](https://data.gov.au/dataset/b711231a-2a02-48eb-bbc1-9e31b0b8f319)
+### [World War I Soldiers and Nurses (1914-1928).](https://data.gov.au/data/dataset/b711231a-2a02-48eb-bbc1-9e31b0b8f319)
 
 Source: data.gov.au  
 Created: 2015-06-15T03:04:09.056176  
@@ -688,7 +688,7 @@ Modified: 2024-11-27T14:25:50.758359
 * [World War One Tasmanian Photographs - XML](https://data.gov.au/data/dataset/b711231a-2a02-48eb-bbc1-9e31b0b8f319/resource/4c2a9c85-12dc-401a-a5b5-07d39f95dbae/download/world-war-1-soldiers-nurses.xml) (XML)
 * [World War One Tasmanian Photographs - JSON](https://data.gov.au/data/dataset/b711231a-2a02-48eb-bbc1-9e31b0b8f319/resource/e747d968-905c-4b92-9910-95cc824a0fdf/download/world-war-1-soldiers-nurses.json) (JSON)
 
-### [eHeritage data](https://data.gov.au/dataset/824306c0-ace3-482f-9476-f7ce9abd89de)
+### [eHeritage data](https://data.gov.au/data/dataset/824306c0-ace3-482f-9476-f7ce9abd89de)
 
 Source: data.gov.au  
 Created: 2017-07-17T00:58:57.315558  
@@ -832,15 +832,15 @@ Modified: 2019-10-31T03:35:58.068240
 
 ## NSW Department of Education
 
-### [Historical information about NSW government schools (1848-2019)](https://data.gov.au/dataset/nsw-nsw-education-historical-information-of-nsw-government-schools)
+### [Historical information about NSW government schools (1848-2019)](https://data.nsw.gov.au/data/dataset/nsw-education-historical-information-of-nsw-government-schools)
 
-Source: data.gov.au  
-Created: 2025-06-24T00:41:52.557442  
-Modified: 2025-09-18T02:59:44.236071
+Source: data.nsw.gov.au  
+Created: 2017-10-09T04:43:38.691868  
+Modified: 2025-09-17T03:05:12.230780
 
 * [Historical information NSW government schools (1848-2019)](https://data.nsw.gov.au/data/dataset/41630896-10be-46da-98c3-ddbaefbbcbcd/resource/3e8f6c40-32d7-49fa-b81b-dda751e28c9a/download/history-of-government-schools-1848_2019-final.csv) (CSV)
 
-### [NSW Department of Education s170 Heritage and Conservation Register (2025)](https://data.gov.au/dataset/nsw-nsw-education-schools-with-heritage-listed-buildings-and-items)
+### [NSW Department of Education s170 Heritage and Conservation Register (2025)](https://data.gov.au/data/dataset/nsw-nsw-education-schools-with-heritage-listed-buildings-and-items)
 
 Source: data.gov.au  
 Created: 2025-06-24T05:20:46.460212  
@@ -850,7 +850,7 @@ Modified: 2025-09-18T07:19:11.235708
 
 ## National Archives of Australia
 
-### [Commonwealth Agencies](https://data.gov.au/dataset/beaa25fc-0e22-4c17-afe1-8b3cb5cbcfcc)
+### [Commonwealth Agencies](https://data.gov.au/data/dataset/beaa25fc-0e22-4c17-afe1-8b3cb5cbcfcc)
 
 Source: data.gov.au  
 Created: 2013-05-12T11:26:21.392325  
@@ -859,7 +859,7 @@ Modified: 2023-08-09T06:23:25.853164
 * [Agencies](https://data.gov.au/data/dataset/beaa25fc-0e22-4c17-afe1-8b3cb5cbcfcc/resource/09e16e04-f7b0-46bc-adbc-b675a8739f01/download/agency.xml) (XML)
 * [Agency Schema](https://data.gov.au/data/dataset/beaa25fc-0e22-4c17-afe1-8b3cb5cbcfcc/resource/477f26a3-87fd-4af9-8074-30ba4ccd02de/download/agency.xsd) (XSD)
 
-### [Memory of a Nation dataset](https://data.gov.au/dataset/423d5a71-e957-4f18-b648-bf8680f2d780)
+### [Memory of a Nation dataset](https://data.gov.au/data/dataset/423d5a71-e957-4f18-b648-bf8680f2d780)
 
 Source: data.gov.au  
 Created: 2014-07-11T04:31:06.808586  
@@ -869,7 +869,7 @@ Modified: 2023-08-11T10:10:13.612235
 
 ## National Library of Australia
 
-### [Journal of the H.M.S. Endeavour, 1768-1771](https://data.gov.au/dataset/7f03ac78-7210-4702-8cd5-f3e373f4097b)
+### [Journal of the H.M.S. Endeavour, 1768-1771](https://data.gov.au/data/dataset/7f03ac78-7210-4702-8cd5-f3e373f4097b)
 
 Source: data.gov.au  
 Created: 2013-05-12T09:50:02.783472  
@@ -877,7 +877,7 @@ Modified: 2023-08-11T09:45:20.547665
 
 * [endeavour-journal.zip](http://data.gov.au/storage/f/2013-05-12T194932/tmpeCKIYWendeavour-journal.zip) (ZIP)
 
-### [National Library of Australia Sheet Music collection](https://data.gov.au/dataset/c53ab05a-03f8-4414-9f31-68359e8ebdac)
+### [National Library of Australia Sheet Music collection](https://data.gov.au/data/dataset/c53ab05a-03f8-4414-9f31-68359e8ebdac)
 
 Source: data.gov.au  
 Created: 2013-05-12T08:15:33.163142  
@@ -885,7 +885,7 @@ Modified: 2023-08-11T10:34:23.729402
 
 * [nla-sheet-music-collection-2013-01-16.zip](http://data.gov.au/storage/f/2013-05-12T181502/tmphjqDQwnla-sheet-music-collection-2013-01-16.zip) (ZIP)
 
-### [Picture Australia metadata](https://data.gov.au/dataset/86bb09b6-acc9-4666-b464-9cf3fe59080b)
+### [Picture Australia metadata](https://data.gov.au/data/dataset/86bb09b6-acc9-4666-b464-9cf3fe59080b)
 
 Source: data.gov.au  
 Created: 2013-05-12T09:30:42.974512  
@@ -893,7 +893,7 @@ Modified: 2023-08-09T09:53:17.178039
 
 * [picture-australia.zip](http://data.gov.au/storage/f/2013-05-12T193018/tmpGGITPopicture-australia.zip) (ZIP)
 
-### [Trove People and Organisations data](https://data.gov.au/dataset/b247e1c0-608d-495d-8583-8bc9de63c4ee)
+### [Trove People and Organisations data](https://data.gov.au/data/dataset/b247e1c0-608d-495d-8583-8bc9de63c4ee)
 
 Source: data.gov.au  
 Created: 2013-05-12T10:23:23.269059  
@@ -904,7 +904,7 @@ Modified: 2023-08-09T11:43:08.691010
 
 ## National Portrait Gallery
 
-### [Portraits and people](https://data.gov.au/dataset/a0acec3b-b034-4bf7-9ed9-1cb70c8559c8)
+### [Portraits and people](https://data.gov.au/data/dataset/a0acec3b-b034-4bf7-9ed9-1cb70c8559c8)
 
 Source: data.gov.au  
 Created: 2016-07-18T07:18:23.937739  
@@ -915,7 +915,7 @@ Modified: 2023-08-09T09:56:07.324171
 
 ## Noosa Shire Council
 
-### [Noosa Heritage Sites](https://data.gov.au/dataset/noosa-heritage-sites)
+### [Noosa Heritage Sites](https://data.gov.au/data/dataset/noosa-heritage-sites)
 
 Source: data.gov.au  
 Created: 2015-11-24T02:21:24.018202  
@@ -2582,7 +2582,7 @@ Modified: 2023-10-04T23:37:43.594370
 
 ## SA Department for Environment and Water
 
-### [Aerial Imagery - Greater Adelaide 1949](https://data.gov.au/dataset/aerial-imagery-greater-adelaide-1949)
+### [Aerial Imagery - Greater Adelaide 1949](https://data.gov.au/data/dataset/aerial-imagery-greater-adelaide-1949)
 
 Source: data.gov.au  
 Created: 2025-06-25T15:21:18.062283  
@@ -2933,7 +2933,7 @@ Modified: 2016-07-20T12:13:56.770980
 
 * [Albums recently added to SLNSW's Manuscripts, Oral History and Pictures catalogue](http://feeds.feedburner.com/recentalbumsmohp) (RSS)
 
-### [Australian Gas Light Company maps](https://data.gov.au/dataset/403b117f-157a-4b94-b1d4-3f01ef084988)
+### [Australian Gas Light Company maps](https://data.gov.au/data/dataset/403b117f-157a-4b94-b1d4-3f01ef084988)
 
 Source: data.gov.au  
 Created: 2013-05-12T08:54:53.361122  
@@ -2950,7 +2950,7 @@ Modified: 2022-01-17T05:44:46.859872
 
 * [Collection of the State Library of New South Wales](https://collection.sl.nsw.gov.au/) (website link)
 
-### [First Fleet Collection](https://data.gov.au/dataset/5d263488-ab5a-48f5-9030-21ea2524fb1d)
+### [First Fleet Collection](https://data.gov.au/data/dataset/5d263488-ab5a-48f5-9030-21ea2524fb1d)
 
 Source: data.gov.au  
 Created: 2013-05-12T10:00:51.881967  
@@ -2959,7 +2959,7 @@ Modified: 2023-08-11T06:26:41.988896
 * [first-fleet.xls](http://data.gov.au/storage/f/2013-05-12T200020/tmpg34Btnfirst-fleet.xls) (XLS)
 * [first-fleet.csv](http://data.gov.au/storage/f/2013-05-12T200027/tmpKw1Wzyfirst-fleet.csv) (CSV)
 
-### [First Fleet maps](https://data.gov.au/dataset/3643f4b2-0dd7-4bdc-8548-faf6d5445ae1)
+### [First Fleet maps](https://data.gov.au/data/dataset/3643f4b2-0dd7-4bdc-8548-faf6d5445ae1)
 
 Source: data.gov.au  
 Created: 2013-05-12T10:38:36.009789  
@@ -2968,7 +2968,7 @@ Modified: 2023-08-11T06:26:44.496716
 * [first-fleet-maps.csv](http://data.gov.au/storage/f/2013-05-12T203805/tmpqDifgmfirst-fleet-maps.csv) (CSV)
 * [first-fleet-maps.xls](http://data.gov.au/storage/f/2013-05-12T203809/tmpbciXIKfirst-fleet-maps.xls) (XLS)
 
-### [Maps of the Southern Hemisphere 16th-18th centuries](https://data.gov.au/dataset/85168dd3-e8fb-4980-8966-9dcaa75b360d)
+### [Maps of the Southern Hemisphere 16th-18th centuries](https://data.gov.au/data/dataset/85168dd3-e8fb-4980-8966-9dcaa75b360d)
 
 Source: data.gov.au  
 Created: 2013-05-12T10:35:10.302916  
@@ -2977,7 +2977,7 @@ Modified: 2023-08-11T10:03:43.628597
 * [crux-maps.csv](http://data.gov.au/storage/f/2013-05-12T203439/tmpdXfyvbcrux-maps.csv) (CSV)
 * [crux-maps.xls](http://data.gov.au/storage/f/2013-05-12T203443/tmpCP38Z4crux-maps.xls) (XLS)
 
-### [NSW newspapers catalogue data](https://data.gov.au/dataset/c5e63058-f56f-4c09-9a10-21f056e43981)
+### [NSW newspapers catalogue data](https://data.gov.au/data/dataset/c5e63058-f56f-4c09-9a10-21f056e43981)
 
 Source: data.gov.au  
 Created: 2013-05-12T09:40:06.596053  
@@ -2985,7 +2985,7 @@ Modified: 2023-08-09T09:32:18.718437
 
 * [nswnews.xml](http://data.gov.au/storage/f/2013-05-12T193935/tmpiRL_ionswnews.xml) (XML)
 
-### [New South Wales officers and men of the Australian Imperial Force (A.I.F.) and the Australian Naval Forces : portrait collection, 1919](https://data.gov.au/dataset/0b73c39d-0304-41f2-bde4-b95a3dc53844)
+### [New South Wales officers and men of the Australian Imperial Force (A.I.F.) and the Australian Naval Forces : portrait collection, 1919](https://data.gov.au/data/dataset/0b73c39d-0304-41f2-bde4-b95a3dc53844)
 
 Source: data.gov.au  
 Created: 2013-05-12T09:16:18.892989  
@@ -2994,7 +2994,7 @@ Modified: 2023-08-11T10:39:28.860433
 * [nsw-ww1-servicemen-portraits.csv](http://data.gov.au/storage/f/2013-05-12T191553/tmp0BZDwknsw-ww1-servicemen-portraits.csv) (CSV)
 * [nsw-ww1-servicemen-portraits.xls](http://data.gov.au/storage/f/2013-05-12T191604/tmpPaFx0hnsw-ww1-servicemen-portraits.xls) (XLS)
 
-### [Photographs of NSW life pre 1955](https://data.gov.au/dataset/f6055020-ac33-4af8-9168-dfb4decb99f3)
+### [Photographs of NSW life pre 1955](https://data.gov.au/data/dataset/f6055020-ac33-4af8-9168-dfb4decb99f3)
 
 Source: data.gov.au  
 Created: 2013-05-12T08:44:46.388565  
@@ -3003,7 +3003,7 @@ Modified: 2023-08-11T11:18:11.700922
 * [home-and-away.csv](http://data.gov.au/storage/f/2013-05-12T184417/tmpAJ_D0lhome-and-away.csv) (CSV)
 * [home-and-away.xls](http://data.gov.au/storage/f/2013-05-12T184550/tmp3oPIhjhome-and-away.xls) (XLS)
 
-### [Photographs of Sydney before 1885](https://data.gov.au/dataset/75d201b9-b045-4071-8a8a-8311e5cfaaf0)
+### [Photographs of Sydney before 1885](https://data.gov.au/data/dataset/75d201b9-b045-4071-8a8a-8311e5cfaaf0)
 
 Source: data.gov.au  
 Created: 2013-05-12T11:06:14.112486  
@@ -3012,7 +3012,7 @@ Modified: 2023-08-11T11:18:15.608600
 * [sydney-pictures.csv](http://data.gov.au/storage/f/2013-05-12T210543/tmpCYp8JMsydney-pictures.csv) (CSV)
 * [sydney-pictures.xls](http://data.gov.au/storage/f/2013-05-12T210549/tmpKsOAm1sydney-pictures.xls) (XLS)
 
-### [Rare printed books](https://data.gov.au/dataset/2c585c70-9f22-49e1-a54b-b52ad47601d6)
+### [Rare printed books](https://data.gov.au/data/dataset/2c585c70-9f22-49e1-a54b-b52ad47601d6)
 
 Source: data.gov.au  
 Created: 2013-05-12T11:51:58.764966  
@@ -3037,7 +3037,7 @@ Modified: 2016-08-31T06:48:58.110513
 
 * [State Library of NSW's GitHub account](https://raw.githubusercontent.com/slnsw-webdev) (CSS, Java, PHP, JavaScript)
 
-### [Sydney bond store maps 1894](https://data.gov.au/dataset/f51c36fe-2d9b-40ed-bab3-5607d0a457f0)
+### [Sydney bond store maps 1894](https://data.gov.au/data/dataset/f51c36fe-2d9b-40ed-bab3-5607d0a457f0)
 
 Source: data.gov.au  
 Created: 2013-05-12T08:28:23.739081  
@@ -3046,7 +3046,7 @@ Modified: 2023-08-11T14:38:52.624734
 * [bonded-free-store-plans.csv](http://data.gov.au/storage/f/2013-05-12T182753/tmpVwqO3gbonded-free-store-plans.csv) (CSV)
 * [bonded-free-store-plans.xls](http://data.gov.au/storage/f/2013-05-12T182757/tmpUBzEh3bonded-free-store-plans.xls) (XLS)
 
-### [Sydney maps 1917](https://data.gov.au/dataset/fcac036b-5c52-42c8-91c3-4904e50dd9af)
+### [Sydney maps 1917](https://data.gov.au/data/dataset/fcac036b-5c52-42c8-91c3-4904e50dd9af)
 
 Source: data.gov.au  
 Created: 2013-05-12T08:42:49.828686  
@@ -5072,6 +5072,16 @@ Modified: 2026-03-27T00:11:39.405130
 * [Correspondence relating to Aboriginal and Torres Strait Islander people - Deebing Creek](https://www.data.qld.gov.au/dataset/fa8fe6cd-8560-4a1b-8d8a-698c49e308fd/resource/21b98a5e-9d9a-4795-9693-faac505c7e0c/download/indexes-atsi-corro-1894-1915-deebing-creek.csv) (CSV)
 * [Correspondence relating to Aboriginal and Torres Strait Islander people - Deebing Creek explanatory notes](https://www.data.qld.gov.au/dataset/fa8fe6cd-8560-4a1b-8d8a-698c49e308fd/resource/a60f6e83-0e71-4fd1-971e-d8bb096ba8ed/download/note-indexes-atsi-corro-1894-1915-deebing-creek.pdf) (PDF)
 
+### [Index of Colonial Secretary's correspondence relating to Aboriginal and Torres Strait Islander peoples](https://data.qld.gov.au/dataset/index-of-colonial-secretary-s-correspondence)
+
+Source: data.qld.gov.au  
+Created: 2013-12-11T01:25:03.038252  
+Modified: 2026-03-27T00:20:35.587028
+
+* [Index of Colonial Secretary's correspondence 1859-1896](https://www.data.qld.gov.au/dataset/d50de687-a067-4972-891b-4719dca61a89/resource/341572f1-d0a2-456d-98cf-5f3c21237a93/download/atsi-index-colonial-secretarys-correpondence-1859-1896.csv) (CSV)
+* [Index of Colonial Secretary's correspondence 1896-1903](https://www.data.qld.gov.au/dataset/d50de687-a067-4972-891b-4719dca61a89/resource/e20abac4-98da-48b0-bc3f-9e8493ee8179/download/atsi-index-colonial-secretarys-correpondence-1896-1903.csv) (CSV)
+* [Index of Colonial Secretary's correspondence explanatory notes](https://www.data.qld.gov.au/dataset/d50de687-a067-4972-891b-4719dca61a89/resource/92acbf1a-50c6-4617-ac0c-447b2ceed46e/download/note-atsi-index-colonial-secretarys-correpondence.pdf) (PDF)
+
 ### [Index of census returns of Aboriginal and Torres Strait Island people 1915](https://data.qld.gov.au/dataset/index-of-census-returns-of-aboriginal-and-torres-strait-island-people-1915)
 
 Source: data.qld.gov.au  
@@ -5082,7 +5092,7 @@ Modified: 2026-03-27T00:19:43.115672
 
 ## Wyndham City Council
 
-### [Wyndham City Arts and Heritage locations](https://data.gov.au/dataset/wyndham-city-arts-and-heritage-locations)
+### [Wyndham City Arts and Heritage locations](https://data.gov.au/data/dataset/wyndham-city-arts-and-heritage-locations)
 
 Source: data.gov.au  
 Created: 2017-07-11T05:47:01.622152  
